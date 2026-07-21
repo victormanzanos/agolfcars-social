@@ -1,4 +1,4 @@
-# Art's Golf Cars — Instagram engine (@artsgolfcars)
+# Art's Golf Cars — Instagram engine (@agolfcars)
 
 Motor de publicación automática en Instagram para Art's Golf Cars
 (concesionario de carritos de golf en Dundee, FL — nuevos, usados, servicio,
@@ -22,32 +22,22 @@ Las imágenes se publican vía raw URLs del repo público
 `github.com/victormanzanos/agolfcars-social` (Instagram Graph API exige
 URLs públicas).
 
-## ⚠️ Activación pendiente (requiere a Victor)
+## ✅ Activado el 2026-07-21
 
-El motor está construido y el contenido de bienvenida generado (6 posts +
-6 stories), pero **NO publica** hasta que existan las credenciales en el
-Keychain:
-
-1. Convertir @artsgolfcars en cuenta **Business** de Instagram y vincularla
-   a la página de Facebook del negocio (facebook.com/artsgolfcars).
-2. En Meta for Developers, crear/usar una app con Instagram Graph API y generar
-   un **long-lived access token** de la cuenta (igual que se hizo con
-   @manzanoshabitat).
-3. Guardar en Keychain:
-   ```bash
-   ~/Code/CyberSecurity/scripts/secrets.sh set AGOLFCARS_IG_ACCESS_TOKEN '<token>'
-   ~/Code/CyberSecurity/scripts/secrets.sh set AGOLFCARS_IG_ACCOUNT_ID '<ig-user-id>'
-   ```
-4. Cargar los LaunchAgents:
-   ```bash
-   cp ~/agolfcars-social/com.agolfcars.*.plist ~/Library/LaunchAgents/
-   launchctl load -w ~/Library/LaunchAgents/com.agolfcars.dailyig.plist
-   launchctl load -w ~/Library/LaunchAgents/com.agolfcars.igtokenrefresh.plist
-   ```
-5. Probar: `cd ~/agolfcars-social && DRY=1 python3 daily_engine.py`
-   y después un disparo real con `FORCE=1 python3 daily_engine.py`.
-
-Los 6 posts de bienvenida saldrán solos, uno cada 2 días, en cuanto se active.
+- Credenciales en Keychain: `AGOLFCARS_IG_ACCESS_TOKEN` (long-lived) +
+  `AGOLFCARS_IG_ACCOUNT_ID` = 17841447520259580. Verificado `/me` →
+  username **agolfcars** ("A Golf Cars"), tipo BUSINESS.
+- ⚠️ El handle real de la cuenta es **@agolfcars** (la web enlaza a
+  instagram.com/artsgolfcars — no coincide). El hashtag de marca sigue
+  siendo #ArtsGolfCars.
+- LaunchAgents cargados (`launchctl list | grep agolfcars`).
+- Siembra inicial publicada con `seed_publish.py` (una sola vez): tarjeta de
+  logo + 6 posts de bienvenida + 7 stories, y `.daily_state.json` sincronizado
+  para que la rotación continúe a los 2 días.
+- Pendiente manual: FOTO DE PERFIL (la API no permite ponerla) — subir
+  `assets/logo-agc-gold.png` o el badge desde la app de Instagram.
+- El token se renueva solo (domingos 11:29). Si caduca: regenerar en la Meta
+  app y `secrets.sh set AGOLFCARS_IG_ACCESS_TOKEN '<token>'`.
 
 ## Contenido nuevo
 

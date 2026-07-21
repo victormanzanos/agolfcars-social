@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Art's Golf Cars — DAILY ENGINE para @artsgolfcars.
+"""Art's Golf Cars — DAILY ENGINE para @agolfcars.
 
 Clonado del motor probado de @manzanoshabitat/@manzanosmobility (mismas
 defensas: idempotencia local + server-side, estado persistido justo tras
@@ -366,7 +366,7 @@ def main():
     story_path = os.path.join(LOCAL, "stories", sf)
     kind = "Foto real (drop folder)" if is_real else f"Post {s['post']}/{len(POSTS)}"
     email_summary(
-        f"<p>Publicado hoy en <b>@artsgolfcars</b> · <b>{kind}</b>:</p>"
+        f"<p>Publicado hoy en <b>@agolfcars</b> · <b>{kind}</b>:</p>"
         f"<p>📸 <b>Post:</b> <a href='{plink}'>{plink}</a><br>📱 <b>Story:</b> {sok}</p>"
         f"<table cellpadding='6'><tr>"
         f"<td valign='top' align='center'><div style='color:#888;font-size:11px;letter-spacing:1px'>POST</div>"
