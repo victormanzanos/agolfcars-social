@@ -18,7 +18,7 @@ Uso:
     python3 make_agolfcars.py story hero-golf-cart.jpg  01-welcome-story.jpg
 """
 import os, sys, math
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 
 LOCAL       = os.path.expanduser("~/agolfcars-social")
 RAW         = os.path.join(LOCAL, "raw")           # imágenes fuente (web/blog/concesionario)
@@ -144,8 +144,103 @@ def make_post(src_rel, out_filename, story=False):
     return out_path
 
 
+# ── TARJETA DE TEXTO (mensajes de Laura desde el ERP) ─────────────────────
+# Fondo verde tinta + doble marco dorado + mensaje en serif centrado + logo abajo.
+# Es el formato para "Laura quiere decir algo": su texto se convierte en un post
+# de marca elegante sin necesidad de foto.
+CREAM = (245, 240, 231)
+
+def _font(paths, size):
+    for p in paths:
+        try:
+            return ImageFont.truetype(p, size)
+        except Exception:
+            continue
+    return ImageFont.load_default()
+
+SERIF_BOLD = ["/System/Library/Fonts/Supplemental/Georgia Bold.ttf",
+              "/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf",
+              "/Library/Fonts/Georgia.ttf",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"]
+SANS = ["/System/Library/Fonts/Supplemental/Arial.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
+
+
+def _wrap(draw, text, font, max_w):
+    lines = []
+    for para in text.split("\n"):
+        if para.strip() == "":
+            lines.append("")
+            continue
+        words, cur = para.split(), ""
+        for w in words:
+            trial = (cur + " " + w).strip()
+            if draw.textlength(trial, font=font) <= max_w:
+                cur = trial
+            else:
+                if cur:
+                    lines.append(cur)
+                cur = w
+        if cur:
+            lines.append(cur)
+    return lines
+
+
+def make_text_card(message, out_filename, story=False, eyebrow="ART'S GOLF CARS"):
+    """Compone un post/story de marca con el mensaje de texto centrado."""
+    w, h = (STORY_W, STORY_H) if story else (POST_W, POST_H)
+    img = Image.new("RGB", (w, h), INK)
+    if story:
+        img = draw_double_frame(img, 54, 20, 4, 1)
+        img = draw_corner_accents(img, 54, 90, 4)
+    else:
+        img = draw_double_frame(img, 44, 16, 3, 1)
+        img = draw_corner_accents(img, 44, 70, 3)
+
+    d = ImageDraw.Draw(img)
+    max_w = int(w * 0.78)
+
+    # Ajuste dinámico del tamaño de fuente para que el mensaje quepa cómodo.
+    msg = (message or "").strip()
+    size = 74 if not story else 82
+    while size >= 34:
+        font = _font(SERIF_BOLD, size)
+        lines = _wrap(d, msg, font, max_w)
+        line_h = int(size * 1.34)
+        block_h = len(lines) * line_h
+        if block_h <= int(h * (0.46 if not story else 0.5)):
+            break
+        size -= 4
+
+    # Eyebrow (línea dorada + rótulo pequeño) por encima del mensaje.
+    eb_font = _font(SANS, 26 if not story else 30)
+    eb_w = d.textlength(eyebrow, font=eb_font)
+    total_h = block_h + 70
+    top = (h - total_h) // 2 - (30 if story else 10)
+
+    d.line([(w/2 - 60, top - 26), (w/2 + 60, top - 26)], fill=GOLD, width=3)
+    d.text(((w - eb_w) / 2, top - 12), eyebrow, font=eb_font, fill=GOLD)
+
+    y = top + 46
+    for ln in lines:
+        lw = d.textlength(ln, font=font)
+        d.text(((w - lw) / 2, y), ln, font=font, fill=CREAM)
+        y += line_h
+
+    img = add_logo_bottom(img, story=story)
+    out_dir = OUT_STORIES if story else OUT_POSTS
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, out_filename)
+    img.save(out_path, "JPEG", quality=92, optimize=True)
+    return out_path
+
+
 if __name__ == "__main__":
     if len(sys.argv) >= 4 and sys.argv[1] in ("post", "story"):
         make_post(sys.argv[2], sys.argv[3], story=(sys.argv[1] == "story"))
+    elif len(sys.argv) >= 4 and sys.argv[1] in ("textpost", "textstory"):
+        p = make_text_card(sys.argv[2], sys.argv[3], story=(sys.argv[1] == "textstory"))
+        print("  ✓ text card →", p)
     else:
         print("Uso: make_agolfcars.py post|story <src_rel> <out.jpg>")
+        print("     make_agolfcars.py textpost|textstory '<mensaje>' <out.jpg>")
