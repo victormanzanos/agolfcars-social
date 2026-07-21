@@ -103,6 +103,13 @@ And when you are ready to see them in person, the lineup is waiting in Dundee.
 
 #ArtsGolfCars #ElectricGolfCart #GolfCart #EV #CentralFlorida #GolfCartsForSale #FloridaLiving
 
+### `20-carritos-es.jpg`
+¿Sabías que en Florida puedes conducir tu carrito de golf por muchas vías públicas? 🚗
+Luces, espejos, cinturones, VIN y registro: eso convierte un carrito en un LSV legal en calle.
+Tenemos la guía completa en español en nuestro blog. Link en la bio, o llámanos al (863) 439-5431. Hablamos español.
+
+#ArtsGolfCars #CarritosDeGolf #Florida #LSV #CentralFlorida #GolfCart #SeHablaEspañol
+
 ### `13-communities.jpg`
 Life is better in a golf cart community. 🏘️
 Central Florida is full of neighborhoods where the golf car is part of daily life: the clubhouse, the pool, your neighbor's driveway.
@@ -152,13 +159,6 @@ Link in bio, or come see what is on the lot today in Dundee.
 
 #ArtsGolfCars #GolfCart #GolfCartsForSale #CentralFlorida #DundeeFL #InStock #CustomGolfCart
 
-### `20-carritos-es.jpg`
-¿Sabías que en Florida puedes conducir tu carrito de golf por muchas vías públicas? 🚗
-Luces, espejos, cinturones, VIN y registro: eso convierte un carrito en un LSV legal en calle.
-Tenemos la guía completa en español en nuestro blog. Link en la bio, o llámanos al (863) 439-5431. Hablamos español.
-
-#ArtsGolfCars #CarritosDeGolf #Florida #LSV #CentralFlorida #GolfCart #SeHablaEspañol
-
 ### `21-standout.jpg`
 Some carts just turn heads. ✨
 Premium builds with the finish, seats and stance that make people stop and ask "where did you get that?"
@@ -206,6 +206,9 @@ Financing via Sheffield Financial · Fast approvals
 ### `12-electric-story.jpg`
 Electric golf cars · Florida buyer's guide
 
+### `20-carritos-es-story.jpg`
+Carritos legales en Florida · Guía en español
+
 ### `13-communities-story.jpg`
 Golf cart communities · Central Florida guide
 
@@ -226,9 +229,6 @@ Brand buying guide · What actually matters
 
 ### `19-in-stock-story.jpg`
 In stock vs special order · Trade-offs explained
-
-### `20-carritos-es-story.jpg`
-Carritos legales en Florida · Guía en español
 
 ### `21-standout-story.jpg`
 Standout builds · Dundee, FL

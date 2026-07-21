@@ -18,7 +18,7 @@ Uso:
     python3 make_agolfcars.py story hero-golf-cart.jpg  01-welcome-story.jpg
 """
 import os, sys, math
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 LOCAL       = os.path.expanduser("~/agolfcars-social")
 RAW         = os.path.join(LOCAL, "raw")           # imágenes fuente (web/blog/concesionario)
@@ -129,7 +129,11 @@ def make_post(src_rel, out_filename, story=False):
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, out_filename)
 
-    img = Image.open(src_path).convert("RGB")
+    img = Image.open(src_path)
+    # WHY: aplicar la orientación EXIF ANTES de tocar nada — las fotos de móvil
+    # (y algunas del blog) llevan Orientation en EXIF que PIL no aplica solo;
+    # sin esto la tarjeta sale girada/boca abajo (pasó con solivita, EXIF 3)
+    img = ImageOps.exif_transpose(img).convert("RGB")
     img = cover(img, w, h)
     img = add_vignette(img, strength=0.20)
     if story:
