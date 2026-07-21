@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+LaunchAgent: refresh semanal del long-lived IG token de @artsgolfcars
+(domingos 11:29 — hora distinta a habitat/mobility para no solaparse).
+
+Instalación (cuando exista el token IG en el Keychain):
+  cp ~/agolfcars-social/com.agolfcars.igtokenrefresh.plist ~/Library/LaunchAgents/
+  launchctl load -w ~/Library/LaunchAgents/com.agolfcars.igtokenrefresh.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.agolfcars.igtokenrefresh</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/victor/agolfcars-social/run_refresh.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Weekday</key><integer>0</integer><key>Hour</key><integer>11</integer><key>Minute</key><integer>29</integer></dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/victor/agolfcars-social/token-refresh-launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/victor/agolfcars-social/token-refresh-launchd.err.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

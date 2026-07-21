@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+LaunchAgent: publicación @artsgolfcars (cada 2 días, ordinal%2==0).
+Dispara a 4 horas distintas (≠ habitat/palacio/wines/mobility) para coger el
+Mac despierto. Horario Madrid: 13:41-19:47 = mañana/mediodía en Florida.
+El motor es idempotente (1 publicación/día por .daily_state.json).
+
+Instalación (cuando exista el token IG en el Keychain):
+  cp ~/agolfcars-social/com.agolfcars.dailyig.plist ~/Library/LaunchAgents/
+  launchctl load -w ~/Library/LaunchAgents/com.agolfcars.dailyig.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.agolfcars.dailyig</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/victor/agolfcars-social/run_daily.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Hour</key><integer>13</integer><key>Minute</key><integer>41</integer></dict>
+        <dict><key>Hour</key><integer>15</integer><key>Minute</key><integer>53</integer></dict>
+        <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>11</integer></dict>
+        <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>47</integer></dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/victor/agolfcars-social/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/victor/agolfcars-social/launchd.err.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

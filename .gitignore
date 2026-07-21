@@ -1,0 +1,5 @@
+__pycache__/
+.daily_state.json
+*.log
+reales/*
+!reales/.gitkeep
