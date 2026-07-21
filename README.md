@@ -9,7 +9,7 @@ de @manzanoshabitat / @manzanosmobility.
 
 | Fichero | Qué hace |
 |---|---|
-| `daily_engine.py` | Publica 1 post + 1 story cada 2 días (ordinal%2==0) vía Instagram Graph API. Idempotente (estado en `.daily_state.json` + check server-side del último caption). `DRY=1` para previsualizar. |
+| `daily_engine.py` | Publica 1 post + 1 story cada 2 días (ordinal%2==0) vía Instagram Graph API. Idempotente (estado en `.daily_state.json` + check server-side del último caption). `DRY=1` para previsualizar. **Días especiales US/Florida** (`special_day()`: 19/año — 4 de julio, Thanksgiving, Memorial, Veterans, Easter, Mother's/Father's Day, Florida Statehood, Pascua Florida, etc.): ese día publica post+story temáticos (tarjeta de texto dorada, carpeta `holidays/` del repo) AUNQUE sea descanso, sin consumir la rotación. |
 | `make_agolfcars.py` | Convierte imágenes de `raw/` en tarjetas de marca: post 1080x1350 / story 1080x1920, marco doble dorado #C8A96E, logo Art's Golf Cars abajo. |
 | `CAPTIONS.md` | Fuente única de posts/stories (captions en INGLÉS). El motor lo re-parsea en cada ejecución. |
 | `assets/build_logo.py` | Regenera `assets/logo-agc-gold.png` (badge "A" + wordmark dorado) desde `brand-a-badge.png` de la web. |

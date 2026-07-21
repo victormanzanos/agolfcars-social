@@ -126,10 +126,10 @@ def real_collect():
         out.append((path, cap))
     return out
 
-def gh_upload(local_path, remote_name):
+def gh_upload(local_path, remote_name, folder="reales"):
     with open(local_path, "rb") as f:
         content_b64 = base64.b64encode(f.read()).decode()
-    remote_path = f"reales/{remote_name}"
+    remote_path = f"{folder}/{remote_name}"
     sha = None
     probe = subprocess.run(["gh", "api", f"/repos/{REPO}/contents/{remote_path}"],
                            capture_output=True, text=True)
@@ -151,6 +151,147 @@ def archive_real(path):
     cap_file = os.path.join(TDIR, os.path.splitext(name)[0] + ".txt")
     if os.path.exists(cap_file):
         os.rename(cap_file, os.path.join(DONE_DIR, os.path.basename(cap_file)))
+
+
+# ── DÍAS ESPECIALES US / FLORIDA ──────────────────────────────────────────
+# Petición de Victor (2026-07-21): cualquier día especial de EE.UU. o Florida
+# tiene su propio post + story ese mismo día. Se publica AUNQUE sea día de
+# descanso y NO consume el turno de la rotación (los índices no avanzan).
+# Tarjeta = make_text_card (texto dorado sobre verde tinta). Determinista,
+# sin depender de servicios externos.
+
+def _nth_weekday(year, month, weekday, n):
+    """n-ésimo weekday (0=lunes) del mes."""
+    d = datetime.date(year, month, 1)
+    return d + datetime.timedelta(days=(weekday - d.weekday()) % 7 + 7 * (n - 1))
+
+def _last_weekday(year, month, weekday):
+    d = (datetime.date(year, 12, 31) if month == 12
+         else datetime.date(year, month + 1, 1) - datetime.timedelta(days=1))
+    return d - datetime.timedelta(days=(d.weekday() - weekday) % 7)
+
+def _easter(year):
+    """Computus gregoriano (algoritmo anónimo)."""
+    a = year % 19
+    b, c = divmod(year, 100)
+    dd, e = divmod(b, 4)
+    g = (8 * b + 13) // 25
+    h = (19 * a + b - dd - g + 15) % 30
+    i, k = divmod(c, 4)
+    l = (32 + 2 * e + 2 * i - h - k) % 7
+    m = (a + 11 * h + 22 * l) // 451
+    month, day = divmod(h + l - 7 * m + 114, 31)
+    return datetime.date(year, month, day + 1)
+
+def special_day(d):
+    """(slug, texto_tarjeta, caption) del día especial US/FL en la fecha d, o None."""
+    y = d.year
+    fixed = {
+        (1, 1):   ("new-year", f"Happy New Year {y}",
+                   f"Happy New Year from Art's Golf Cars! 🎆 Here's to new rides and new adventures in {y}.\n\n#ArtsGolfCars #HappyNewYear #NewYear #CentralFlorida #GolfCartLife"),
+        (2, 14):  ("valentines", "Happy Valentine's Day",
+                   "Happy Valentine's Day! ❤️ Love is a two-seater.\n\n#ArtsGolfCars #ValentinesDay #GolfCartLife #CentralFlorida"),
+        (3, 3):   ("florida-statehood", "Happy Birthday, Florida",
+                   "Happy Birthday, Florida! On March 3, 1845 the Sunshine State became the 27th state of the Union. Proud to call it home. 🌴\n\n#ArtsGolfCars #Florida #SunshineState #FloridaStatehood #CentralFlorida"),
+        (3, 17):  ("st-patricks", "Happy St. Patrick's Day",
+                   "Happy St. Patrick's Day! 🍀 May your day be lucky and your ride be smooth.\n\n#ArtsGolfCars #StPatricksDay #GolfCartLife #CentralFlorida"),
+        (4, 2):   ("pascua-florida", "Happy Pascua Florida Day",
+                   "Happy Pascua Florida Day! On April 2, 1513 Juan Ponce de León sighted the land he named La Florida. Celebrating the state we call home. 🌴\n\n#ArtsGolfCars #PascuaFlorida #Florida #SunshineState #FloridaHistory"),
+        (6, 19):  ("juneteenth", "Juneteenth",
+                   "Honoring Juneteenth, Freedom Day. 🕊️\n\n#Juneteenth #FreedomDay #ArtsGolfCars"),
+        (7, 4):   ("july-4", "Happy 4th of July",
+                   "Happy Independence Day! 🇺🇸 Wishing you a safe and happy 4th of July from all of us at Art's Golf Cars.\n\n#ArtsGolfCars #4thOfJuly #IndependenceDay #USA #CentralFlorida"),
+        (10, 4):  ("golf-lovers-day", "Happy Golf Lover's Day",
+                   "Happy National Golf Lover's Day! ⛳ Our favorite day of the year, for obvious reasons.\n\n#ArtsGolfCars #GolfLoversDay #Golf #GolfCart #CentralFlorida"),
+        (11, 11): ("veterans-day", "Thank You, Veterans",
+                   "Thank you, Veterans. Today and every day, we honor your service and sacrifice. 🇺🇸\n\n#VeteransDay #ThankYouVeterans #ArtsGolfCars"),
+        (12, 25): ("christmas", "Merry Christmas",
+                   "Merry Christmas from the Art's Golf Cars family to yours! 🎄\n\n#ArtsGolfCars #MerryChristmas #Christmas #CentralFlorida"),
+        (12, 31): ("new-years-eve", "See You Next Year",
+                   f"Cheers to the last ride of {y}. See you in {y + 1}! 🥂\n\n#ArtsGolfCars #NewYearsEve #GolfCartLife #CentralFlorida"),
+    }
+    if (d.month, d.day) in fixed:
+        return fixed[(d.month, d.day)]
+    floating = {
+        _nth_weekday(y, 1, 0, 3):  ("mlk-day", "Honoring Dr. King",
+                                    "Honoring the life and legacy of Dr. Martin Luther King Jr. 🕊️\n\n#MLKDay #MartinLutherKingJr #ArtsGolfCars"),
+        _nth_weekday(y, 2, 0, 3):  ("presidents-day", "Happy Presidents' Day",
+                                    "Happy Presidents' Day! 🇺🇸\n\n#ArtsGolfCars #PresidentsDay #USA #CentralFlorida"),
+        _easter(y):                ("easter", "Happy Easter",
+                                    "Happy Easter from all of us at Art's Golf Cars! 🐣\n\n#ArtsGolfCars #HappyEaster #Easter #CentralFlorida"),
+        _nth_weekday(y, 5, 6, 2):  ("mothers-day", "Happy Mother's Day",
+                                    "Happy Mother's Day to all the amazing moms out there! 💐\n\n#ArtsGolfCars #MothersDay #CentralFlorida #FloridaLiving"),
+        _last_weekday(y, 5, 0):    ("memorial-day", "In Remembrance",
+                                    "Memorial Day. Honoring those who gave everything. 🇺🇸\n\n#MemorialDay #Remember #ArtsGolfCars"),
+        _nth_weekday(y, 6, 6, 3):  ("fathers-day", "Happy Father's Day",
+                                    "Happy Father's Day to all the dads! Enjoy the ride. 🏌️‍♂️\n\n#ArtsGolfCars #FathersDay #GolfCartLife #CentralFlorida"),
+        _nth_weekday(y, 9, 0, 1):  ("labor-day", "Happy Labor Day",
+                                    "Happy Labor Day! Here's to hard work and a well-earned day off. 🇺🇸\n\n#ArtsGolfCars #LaborDay #USA #CentralFlorida"),
+        _nth_weekday(y, 11, 3, 4): ("thanksgiving", "Happy Thanksgiving",
+                                    "Happy Thanksgiving from our family to yours. Grateful for this community, today and every day. 🦃\n\n#ArtsGolfCars #Thanksgiving #Grateful #CentralFlorida"),
+    }
+    return floating.get(d)
+
+
+def publish_special_day(s, hol):
+    """Publica el post + story del día especial. Devuelve True si publicó (o ya estaba)."""
+    slug, card_text, caption = hol
+    today = str(datetime.date.today())
+    year = datetime.date.today().year
+    print(f"DÍA ESPECIAL: {slug} → \"{card_text}\"")
+    if DRY:
+        print(f"--- CAPTION ---\n{caption}\n--- DRY RUN, nada publicado.")
+        return True
+    if s.get("last_date") == today:
+        print(f"Ya se publicó hoy ({today}).")
+        return True
+    # Idempotencia server-side (el estado pudo perderse): mismo caption ya arriba → sync.
+    body = caption_body(caption)
+    if body and latest_post_body() == body:
+        print("El post del día especial YA es el último del feed — re-sincronizo estado.")
+        s["last_date"] = today
+        save_state(s)
+        return True
+    from make_agolfcars import make_text_card
+    # WHY: eyebrow "DUNDEE, FLORIDA" — el logo de abajo ya dice el nombre de la
+    # marca; repetirlo en el rótulo superior era redundante
+    pf_local = make_text_card(card_text, f"holiday-{slug}-{year}.jpg", story=False, eyebrow="DUNDEE, FLORIDA")
+    sf_local = make_text_card(card_text, f"holiday-{slug}-{year}-story.jpg", story=True, eyebrow="DUNDEE, FLORIDA")
+    url_p = gh_upload(pf_local, os.path.basename(pf_local), folder="holidays")
+    url_s = gh_upload(sf_local, os.path.basename(sf_local), folder="holidays")
+    time.sleep(5)  # que el raw URL propague
+    time.sleep(random.randint(30, 240))  # jitter corto: el día especial debe salir sí o sí
+    pr = publish_image(url_p, caption=caption)
+    post_ok = bool(pr.get("permalink") or pr.get("id"))
+    if post_ok:
+        # WHY: NO avanzamos s["post"]/s["story"] — el día especial no consume
+        # el turno de la rotación; solo marca que hoy ya se publicó.
+        s["last_date"] = today
+        save_state(s)
+    time.sleep(random.randint(20, 120))
+    sr = publish_image(url_s, story=True)
+    story_ok = bool(sr.get("permalink") or sr.get("id"))
+    plink = (pr.get("permalink")
+             or (f"publicado (id {pr.get('id')})" if pr.get("id")
+                 else "ERROR: " + json.dumps(pr)[:220]))
+    sok = "publicada ✅" if story_ok else ("ERROR: " + json.dumps(sr)[:220])
+    print("post especial:", plink)
+    print("story especial:", sok)
+    subj = (f"🎉 Instagram — Art's Golf Cars · día especial: {card_text}"
+            if post_ok else
+            f"⚠️ FALLO al publicar día especial ({slug}) — Instagram Art's Golf Cars")
+    email_summary(
+        f"<p>Día especial <b>{card_text}</b> publicado en <b>@agolfcars</b>:</p>"
+        f"<p>📸 <b>Post:</b> <a href='{plink}'>{plink}</a><br>📱 <b>Story:</b> {sok}</p>"
+        f"<table cellpadding='6'><tr>"
+        f"<td valign='top' align='center'><img src='cid:postimg' width='300' style='border-radius:10px;border:1px solid #ddd'></td>"
+        f"<td valign='top' align='center'><img src='cid:storyimg' width='210' style='border-radius:10px;border:1px solid #ddd'></td>"
+        f"</tr></table>"
+        f"<pre style='white-space:pre-wrap;color:#555;font-size:12px'>{caption}</pre>"
+        f"<p style='color:#aaa;font-size:11px'>Los días especiales publican aunque sea día de descanso y no consumen la rotación.</p>",
+        pf_local, sf_local, subject=subj
+    )
+    return post_ok
 
 
 # ── INSTAGRAM GRAPH API ───────────────────────────────────────────────────
@@ -265,6 +406,14 @@ def rotate_caption(cap):
 # ── MAIN ──────────────────────────────────────────────────────────────────
 def main():
     s = state()
+
+    # Día especial US/Florida: publica SIEMPRE ese día (aunque toque descanso)
+    # y termina — la rotación normal no avanza.
+    hol = special_day(datetime.date.today())
+    if hol:
+        publish_special_day(s, hol)
+        return
+
     real_items = real_collect()
     do_real    = bool(real_items) and s.get("since_real", 0) >= REAL_EVERY
     real_path  = real_items[0][0] if real_items else None
