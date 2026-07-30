@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 21 POSTS
+## 27 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -166,6 +166,48 @@ The answer is Dundee, FL. Come see what a standout cart looks like in person, or
 
 #ArtsGolfCars #CustomGolfCart #GolfCart #CentralFlorida #PremiumGolfCart #GolfCartsForSale #DundeeFL
 
+### `22-winter-haven.jpg`
+Golf carts for sale near Winter Haven, FL. 🌴
+Out on the Chain of Lakes, a cart is less about golf and more about everyday freedom, a quick run to the dock, the farmers market, or a lakeside sunset. New and pre-owned, all inspected and serviced by our own technicians.
+Just up the road in Dundee. Browse the inventory through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #WinterHavenFL #GolfCart #GolfCartsForSale #CentralFlorida #PolkCounty #ChainOfLakes #GolfCartLife
+
+### `23-lake-ashton.jpg`
+Life in Lake Ashton just runs better on a cart. 🏡
+From the clubhouse to the courts to a neighbor's driveway, a golf car is the easiest way to get around the community. We will help you match the right model to your daily routes, new or pre-owned.
+Come see them in Dundee, FL. Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #LakeAshton #GolfCart #CentralFlorida #DundeeFL #GolfCartCommunity #GolfCartLife #PolkCounty
+
+### `24-davenport.jpg`
+Golf carts for sale in Davenport, FL. ✅
+Whether it is a gated community, a quiet cul-de-sac or a run to the shops, there is a cart that fits your neighborhood. Every pre-owned cart is inspected and serviced by our team before it leaves the lot.
+Shop through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #DavenportFL #GolfCart #GolfCartsForSale #CentralFlorida #PolkCounty #GolfCartLife #FloridaLiving
+
+### `25-venta-polk-es.jpg`
+Carritos de golf en venta en Polk County, sin esperar meses. 🌴
+En Art's Golf Cars tenemos carritos nuevos y usados listos para llevar, cada usado inspeccionado y revisado por nuestros técnicos. Se habla español.
+Visítanos en Dundee, FL. Link in bio o llama al (863) 439-5431.
+
+#ArtsGolfCars #CarritosDeGolf #GolfCart #PolkCounty #CentralFlorida #DundeeFL #GolfCartsForSale #SeHablaEspañol
+
+### `26-familiar-es.jpg`
+¿Carrito de 4 o 6 plazas para la familia? 👨‍👩‍👧‍👦
+Te ayudamos a elegir el tamaño según cuántos van a bordo y lo que cabe en tu garaje. Nuevos y usados, todos revisados por nuestro equipo. Se habla español.
+Ven a verlos en Dundee, FL. Link in bio o llama al (863) 439-5431.
+
+#ArtsGolfCars #CarritosDeGolf #GolfCart #CentralFlorida #DundeeFL #GolfCartLife #FamilyGolfCart #SeHablaEspañol
+
+### `27-batteries-carryout.jpg`
+Golf cart battery fading in the Florida heat? 🔋
+Our Service Center handles carry-out batteries and lithium upgrades, and we will tell you honestly when it is time to replace and when it is not. Expert technicians, real answers.
+Book at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartBatteries #LithiumBattery #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #GolfCartRepair
+
 ---
 
 ## STORIES
@@ -232,3 +274,21 @@ In stock vs special order · Trade-offs explained
 
 ### `21-standout-story.jpg`
 Standout builds · Dundee, FL
+
+### `22-winter-haven-story.jpg`
+Golf carts near Winter Haven, FL · Chain of Lakes life
+
+### `23-lake-ashton-story.jpg`
+Golf carts in Lake Ashton · Match your daily routes
+
+### `24-davenport-story.jpg`
+Golf carts for sale in Davenport, FL · Inspected & serviced
+
+### `25-venta-polk-es-story.jpg`
+Carritos en venta en Polk County · Se habla español
+
+### `26-familiar-es-story.jpg`
+¿4 o 6 plazas? · Elige el tamaño para tu familia
+
+### `27-batteries-carryout-story.jpg`
+Golf cart batteries · Carry-out & lithium in Polk County
