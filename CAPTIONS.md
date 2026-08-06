@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 27 POSTS
+## 33 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -208,6 +208,48 @@ Book at (863) 439-5431 or through the link in bio.
 
 #ArtsGolfCars #GolfCartBatteries #LithiumBattery #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #GolfCartRepair
 
+### `28-repair-service.jpg`
+Golf cart acting up? We fix it right the first time. 🔧
+Our in-house Service Center in Dundee handles batteries, brakes, electrical and more for all of Polk County, and we offer home pickup so you do not have to. Expert technicians, honest answers, no upselling. Se habla español.
+Book service at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartRepair #GolfCartService #PolkCounty #CentralFlorida #DundeeFL #GolfCartLife #ClubCar
+
+### `29-poinciana-es.jpg`
+¿Buscas un carrito de golf cerca de Poinciana, FL? 🛺
+Somos tu concesionario en Dundee, a un paso por la US 27. Carritos nuevos y usados revisados por nuestro equipo, financiación con Sheffield Financial y un servicio postventa de verdad. Te ayudamos a elegir el que encaja con tu día a día. Se habla español.
+Ven a vernos o llama al (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #CarritosDeGolf #GolfCart #PoincianaFL #CentralFlorida #DundeeFL #GolfCartsForSale #SeHablaEspañol
+
+### `30-lake-wales.jpg`
+Golf carts for sale near Lake Wales, FL. 🌴
+We are a short drive up US 27 in Dundee, with new and pre-owned carts from Club Car and other top brands, lithium battery options and a full Service Center behind every sale. New, used, financed or shipped, we will get you rolling.
+Come see us or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #LakeWalesFL #GolfCartsForSale #CentralFlorida #DundeeFL #ClubCar #GolfCartLife
+
+### `31-best-communities.jpg`
+Central Florida is built for golf cart living. 🏡
+From Solivita to Sandpiper, more neighborhoods here run on four wheels and a charger than almost anywhere. We will help you match the right new or used cart to your community and your daily routes, then keep it running with our Service Center.
+Come see them in Dundee. Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartCommunities #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife #ClubCar #GolfCartsForSale
+
+### `32-haines-city.jpg`
+Golf carts for sale near Haines City, FL. 🛞
+Skip the guesswork. As your local dealer in Dundee, we walk you through new vs used, what actually fits your daily life, financing through Sheffield Financial, and how to drive one home today. Honest advice, real service after the sale.
+Come see us or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #HainesCityFL #GolfCartsForSale #CentralFlorida #DundeeFL #ClubCar #PolkCounty
+
+### `33-gas-vs-electric.jpg`
+Gas or electric golf cart? Here is the honest answer. ⚡⛽
+It depends on how you drive. We break down how each one feels, real cost over time, and the maintenance you should expect, so you pick the one that fits your Florida life instead of the one someone wants to sell you. Come talk it through with us.
+Call (863) 439-5431 or tap the link in bio.
+
+#ArtsGolfCars #GolfCart #ElectricGolfCart #GasGolfCart #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
+
 ---
 
 ## STORIES
@@ -292,3 +334,21 @@ Carritos en venta en Polk County · Se habla español
 
 ### `27-batteries-carryout-story.jpg`
 Golf cart batteries · Carry-out & lithium in Polk County
+
+### `28-repair-service-story.jpg`
+Golf cart repair & service · Polk County, home pickup
+
+### `29-poinciana-es-story.jpg`
+Carritos cerca de Poinciana, FL · Se habla español
+
+### `30-lake-wales-story.jpg`
+Golf carts near Lake Wales, FL · Short drive up US 27
+
+### `31-best-communities-story.jpg`
+Best golf cart communities · Central Florida guide
+
+### `32-haines-city-story.jpg`
+Golf carts near Haines City, FL · Honest dealer guide
+
+### `33-gas-vs-electric-story.jpg`
+Gas vs electric · Which one fits your Florida life?
