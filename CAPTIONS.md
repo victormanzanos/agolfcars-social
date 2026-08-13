@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 33 POSTS
+## 39 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -250,6 +250,48 @@ Call (863) 439-5431 or tap the link in bio.
 
 #ArtsGolfCars #GolfCart #ElectricGolfCart #GasGolfCart #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
 
+### `34-del-webb.jpg`
+Golf carts for life in Del Webb Orlando. 🌴
+An active 55+ community runs on golf carts, and we help neighbors there match the right new or pre-owned cart to their daily routes, then keep it running through our Service Center. Honest advice on what actually fits the community, no pressure.
+Come see them in Dundee or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #DelWebbOrlando #CentralFlorida #DundeeFL #GolfCartLife #GolfCartsForSale #PolkCounty
+
+### `35-cart-vs-lsv.jpg`
+Golf cart or LSV? Here is the honest difference. ⚖️
+An LSV is street legal, registered and insured for faster roads, while a standard golf cart is built for neighborhoods and paths. We walk you through speed, the rules and which one actually fits your daily life in Florida, then set you up right.
+Come talk it through with us or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #LSV #StreetLegal #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
+
+### `36-carplay-screens.jpg`
+CarPlay, touchscreens and backup cameras. 📱
+The tech on today's golf carts can be genuinely useful, and some of it you can skip. We give you the honest rundown on what each upgrade does and what actually fits daily life in Florida, then build your cart the way you want it through Parts & Accessories.
+Ask us what fits. Call (863) 439-5431 or tap the link in bio.
+
+#ArtsGolfCars #GolfCart #GolfCartAccessories #CustomGolfCart #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
+
+### `37-lakeland.jpg`
+Golf carts for sale near Lakeland, FL. 🛞
+As your local dealer in Dundee, we walk you through new vs used, what actually fits your daily life, financing through Sheffield Financial, and how to drive one home today. Real service after the sale. Se habla espanol.
+Come see us or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #LakelandFL #GolfCartsForSale #CentralFlorida #DundeeFL #ClubCar #PolkCounty
+
+### `38-financing-fl.jpg`
+Financing a golf cart in Florida, made simple. 💳
+We work with Sheffield Financial, a division of Truist Bank, so you can apply and get an answer fast, on a new or pre-owned cart. We will show you the options and help you drive one home today.
+Ask us how it works. Call (863) 439-5431 or tap the link in bio.
+
+#ArtsGolfCars #GolfCart #GolfCartFinancing #SheffieldFinancial #CentralFlorida #DundeeFL #GolfCartsForSale #PolkCounty
+
+### `39-lifted-vs-standard.jpg`
+Lifted or standard golf cart? Let's find your fit. 🛻
+A lift kit means bigger tires, more ground clearance and a bolder look, while standard sits lower for easy step-in and a smooth ride. We break down comfort, cost and what actually suits your daily life, then you decide. See both in Dundee.
+Come compare them or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #LiftedGolfCart #CustomGolfCart #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
+
 ---
 
 ## STORIES
@@ -352,3 +394,21 @@ Golf carts near Haines City, FL · Honest dealer guide
 
 ### `33-gas-vs-electric-story.jpg`
 Gas vs electric · Which one fits your Florida life?
+
+### `34-del-webb-story.jpg`
+Golf carts in Del Webb Orlando · Dealer community guide
+
+### `35-cart-vs-lsv-story.jpg`
+Golf cart vs LSV in Florida · The honest difference
+
+### `36-carplay-screens-story.jpg`
+CarPlay, screens & cameras · What fits daily life
+
+### `37-lakeland-story.jpg`
+Golf carts near Lakeland, FL · Se habla español
+
+### `38-financing-fl-story.jpg`
+Golf cart financing · Sheffield Financial, fast answer
+
+### `39-lifted-vs-standard-story.jpg`
+Lifted vs standard golf carts · Find your fit in Dundee
