@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 39 POSTS
+## 43 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -292,6 +292,34 @@ Come compare them or call (863) 439-5431. Link in bio.
 
 #ArtsGolfCars #GolfCart #LiftedGolfCart #CustomGolfCart #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
 
+### `40-compare-carts.jpg`
+Torn between two carts? Here is how we help you choose. 🌅
+Comparing models is not about which brand wins, it is about how you drive: how many seats you really need, how far you go in a day, how long you plan to keep it and what resale matters to you. We sell and service top brands, including Club Car as a 3x Black & Gold Elite Dealer, so we have no reason to push you one way.
+Come talk it through in Dundee or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #GolfCart #ClubCar #GolfCartsForSale #CentralFlorida #DundeeFL #GolfCartLife #PolkCounty
+
+### `41-auburndale.jpg`
+Looking for a golf car near Auburndale? We are a short drive away. 🚗
+Auburndale sits right between Lakeland and Winter Haven, and our Dundee showroom is an easy trip down the road. New and pre-owned, every used cart inspected and serviced by our own technicians, plus parts, accessories and a full Service Center under one roof.
+Browse the inventory through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #Auburndale #GolfCart #PolkCounty #CentralFlorida #GolfCartsForSale #DundeeFL #FloridaLiving
+
+### `42-how-long-lasts.jpg`
+How long does a golf car actually last? ⏳
+Longer than most buyers expect. The frame and body can outlast a couple of battery packs, and the battery is what sets the pace. Keep up with charging habits, tires, brakes and yearly service, and a golf car becomes one of the best value vehicles you will own.
+Ask our Service Center what your cart needs. Call (863) 439-5431 or use the link in bio.
+
+#ArtsGolfCars #GolfCart #GolfCartMaintenance #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife
+
+### `43-hurricane-prep.jpg`
+Storm season checklist for your golf car. 🌀
+Charge the batteries fully before the weather turns, park inside a garage or the highest, most sheltered spot you have, disconnect and cover if the cart stays outside, and keep it away from trees and standing water. After the storm passes, do not run a cart that took on water, have it checked first.
+Need a post-storm inspection? Our Service Center is here. Call (863) 439-5431.
+
+#ArtsGolfCars #HurricanePrep #GolfCart #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #FloridaLiving
+
 ---
 
 ## STORIES
@@ -412,3 +440,15 @@ Golf cart financing · Sheffield Financial, fast answer
 
 ### `39-lifted-vs-standard-story.jpg`
 Lifted vs standard golf carts · Find your fit in Dundee
+
+### `40-compare-carts-story.jpg`
+Comparing two carts? · Honest dealer advice in Dundee
+
+### `41-auburndale-story.jpg`
+Golf carts near Auburndale, FL · A short drive from Dundee
+
+### `42-how-long-lasts-story.jpg`
+How long does a golf car last? · The honest answer
+
+### `43-hurricane-prep-story.jpg`
+Storm season checklist · Protect your golf car
