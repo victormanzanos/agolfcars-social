@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 43 POSTS
+## 47 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -319,6 +319,33 @@ Charge the batteries fully before the weather turns, park inside a garage or the
 Need a post-storm inspection? Our Service Center is here. Call (863) 439-5431.
 
 #ArtsGolfCars #HurricanePrep #GolfCart #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #FloridaLiving
+### `44-dundee-home.jpg`
+Dundee is not a stop on the way for us, it is home. 🏠
+Art's Golf Cars has been at 29630 US Hwy 27 since 1987, and in that time more than 30,000 golf cars have left this lot. Sales, the parts counter and the Service Center all sit in the same building, a few minutes from your driveway. Most of the carts we sell never touch a fairway, they run to the mailbox, to the community pool, to a neighbor's porch on a Friday evening.
+Come see what is on the floor. Call (863) 439-5431 or use the link in bio.
+
+#ArtsGolfCars #DundeeFL #GolfCart #GolfCartsForSale #CentralFlorida #PolkCounty #GolfCartLife #ClubCar
+
+### `45-battery-honest.jpg`
+Is your golf car battery on the way out? Here are the signs. 🔋
+Slower on hills or with a full load, range that keeps shrinking, longer charges, or a cart that drops from strong to crawling near the end. On lead-acid, add constant watering, heat or corrosion. Lithium or lead-acid is not a slogan question, it depends on how you use the cart and how long you plan to keep it, and we will give you the honest shop answer. Se habla espanol.
+Talk to our parts counter. Call (863) 439-5431 or tap the link in bio.
+
+#ArtsGolfCars #GolfCartBatteries #LithiumBattery #GolfCartService #CentralFlorida #DundeeFL #PolkCounty #GolfCart
+
+### `46-bartow.jpg`
+Golf carts for sale near Bartow, FL. 🌳
+Bartow is the seat of Polk County and we are a short drive across the county in Dundee. Club Car is our anchor, we are a 3x Black and Gold Elite Dealer, and we carry other top brands too, plus lithium battery options and a full Service Center behind every sale. In the City of Oaks and Azaleas most carts never see a fairway, they run the neighborhood, and we help you match the cart to that life.
+Come see us or call (863) 439-5431. Link in bio.
+
+#ArtsGolfCars #BartowFL #GolfCart #GolfCartsForSale #PolkCounty #CentralFlorida #DundeeFL #ClubCar
+
+### `47-polk-outdoors.jpg`
+554 lakes, one county, and a lot of sky. 🌅
+Polk County holds more fresh water than almost anywhere else in Florida, and we hear the same question from everyone who has just moved down: where do we actually go? Our new guide rounds up seven outdoor spots worth the drive plus the three sunsets we send people to. One honest note, the state trails and preserves are for walking, cycling and paddling, not for carts. Cart country here is the neighborhood loop and the short local errand.
+Read the guide through the link in bio.
+
+#ArtsGolfCars #PolkCounty #CentralFlorida #DundeeFL #FloridaLiving #GolfCartLife #GolfCart #LakeLife
 
 ---
 
@@ -452,3 +479,15 @@ How long does a golf car last? · The honest answer
 
 ### `43-hurricane-prep-story.jpg`
 Storm season checklist · Protect your golf car
+
+### `44-dundee-home-story.jpg`
+On US Hwy 27 in Dundee since 1987 · 30,000+ carts and counting
+
+### `45-battery-honest-story.jpg`
+Battery fading? · The honest shop guide, lithium vs lead-acid
+
+### `46-bartow-story.jpg`
+Golf carts near Bartow, FL · A short drive across Polk County
+
+### `47-polk-outdoors-story.jpg`
+554 lakes and the best sunsets in Polk County
