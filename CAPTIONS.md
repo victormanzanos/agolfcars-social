@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 47 POSTS
+## 53 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -347,6 +347,54 @@ Read the guide through the link in bio.
 
 #ArtsGolfCars #PolkCounty #CentralFlorida #DundeeFL #FloridaLiving #GolfCartLife #GolfCart #LakeLife
 
+### `48-used-ezgo.jpg`
+Buying a used golf cart? The parts that matter are the ones you cannot see. 🔍
+Every cart on a Saturday lot will start and move, because one that will not start never gets put out front. What decides whether you are still happy in two years is the battery pack, the drive system, the frame and the paperwork.
+We wrote out the exact checklist our own technicians run before a used cart is allowed on our lot, so you can run it yourself wherever you shop. And to be clear about who we are: we sell used E-Z-GO carts and our shop services them whatever the badge, but our new lineup starts with Club Car.
+Read the checklist through the link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #UsedGolfCarts #GolfCartsForSale #CentralFlorida #DundeeFL #BuyingGuide #PolkCounty
+
+### `49-insurance-florida.jpg`
+"Do I need insurance for my golf cart in Florida?" 🛡️
+It depends on what you actually drive. A golf cart, meaning a vehicle that does not exceed roughly 20 MPH, carries no state requirement to be registered or insured. An LSV, between 20 and 25 MPH, must be titled, registered and insured, with a minimum of 10,000 dollars in personal injury protection and 10,000 in property damage liability.
+Not required is not the same as not needed. Our new guide covers what a homeowners policy really does and does not cover, the four coverages to ask for, and what to sort out before hurricane season.
+Link in bio. Guía completa también en español en el blog. Hablamos español.
+
+#ArtsGolfCars #GolfCartInsurance #Florida #LSV #GolfCart #CentralFlorida #DundeeFL #PolkCounty
+
+### `50-yamaha-vs-clubcar.jpg`
+Yamaha vs Club Car, with our cards on the table. 🃏
+We are a Club Car dealer. We hold the Black and Gold distinction three times over, and no other dealer in Polk County holds it at all. We do not sell new Yamaha carts, so we are not a neutral referee and we are not going to pretend to be.
+What we can offer instead is thirty nine years of watching every brand roll through a working service department. The short version: Yamaha builds a genuinely good golf car. The article is about the specific reasons a Central Florida buyer usually lands on the Club Car side, and the situations where they honestly should not.
+Read it through the link in bio, then come drive one in Dundee.
+
+#ArtsGolfCars #ClubCar #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartsForSale #EliteDealer
+
+### `51-haines-city-north.jpg`
+Shopping for a golf car at the north end of US-27? 📍
+Haines City straddles two worlds. The long established neighborhoods around the old town center have short blocks and streets posted well under thirty miles per hour, where comfort and easy access matter more than speed. The newer growth spreading toward Davenport is bigger, with real distance between your driveway and the amenity center, which rewards range, better suspension and lights you can trust at dusk.
+One thing both worlds share: US-27 itself is a busy highway, not a golf car route. Plan around that and you will buy the right vehicle.
+Our Haines City guide is on the blog, link in bio. We are a few minutes south on the same road, in Dundee.
+
+#ArtsGolfCars #HainesCity #GolfCart #PolkCounty #CentralFlorida #DundeeFL #GolfCartsForSale #FloridaLiving
+
+### `52-repair-polk.jpg`
+Your golf car warns you before it breaks. 🔧
+We have been on US-27 with our own service department since 1987, and the failures repeat themselves. Number one by a distance is batteries that die early, and the symptom is not a cart that refuses to start, it is a cart that loses strength on inclines and runs noticeably slower on the last leg of the trip.
+Next most common is the charger or the charge port, which fools plenty of owners into replacing a healthy pack. Then brakes, then tires, steering and suspension.
+Our repair guide covers what can wait, what cannot, and the five minute monthly routine that saves a repair. Link in bio, or call (863) 439-5431. Guía en español en el blog.
+
+#ArtsGolfCars #GolfCartRepair #GolfCartService #PolkCounty #CentralFlorida #DundeeFL #GolfCart #GolfCartMaintenance
+
+### `53-clubcar-cru.jpg`
+Club Car builds street legal now, and two names matter here. 🛣️
+The CRU is Club Car's premium street legal crossover: up to 25 MPH, a capacity of six built around a lifestyle front seat system with rear lounge seating, an automotive glass front windshield, a back up camera, self cancelling turn signals and a touch screen dash. The Onward 4 Forward LSV is the four seat, all forward facing version of the Onward you already know, also rated up to 25 MPH.
+In Polk County most carts never see a fairway. They do the school run, the mailbox loop, the Publix trip, the sunset lap around the lake. When the cart is really a second car, street legal changes the whole answer.
+Full comparison plus what Florida asks of each is on the blog, link in bio. Or ask us in Dundee, (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #ClubCarCRU #LSV #StreetLegal #GolfCart #CentralFlorida #DundeeFL
+
 ---
 
 ## STORIES
@@ -491,3 +539,21 @@ Golf carts near Bartow, FL · A short drive across Polk County
 
 ### `47-polk-outdoors-story.jpg`
 554 lakes and the best sunsets in Polk County
+
+### `48-used-ezgo-story.jpg`
+Used E-Z-GO checklist · What our technicians check first
+
+### `49-insurance-florida-story.jpg`
+Golf cart insurance in Florida · What is actually required
+
+### `50-yamaha-vs-clubcar-story.jpg`
+Yamaha vs Club Car · Our bias declared up front
+
+### `51-haines-city-north-story.jpg`
+Golf cars in Haines City · The north end of US-27
+
+### `52-repair-polk-story.jpg`
+Golf cart repair in Polk County · What breaks, what can wait
+
+### `53-clubcar-cru-story.jpg`
+Club Car CRU vs Onward LSV · Street legal in Florida
