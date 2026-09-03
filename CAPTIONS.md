@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 53 POSTS
+## 59 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -395,6 +395,60 @@ Full comparison plus what Florida asks of each is on the blog, link in bio. Or a
 
 #ArtsGolfCars #ClubCar #ClubCarCRU #LSV #StreetLegal #GolfCart #CentralFlorida #DundeeFL
 
+### `54-hurricane-season.jpg`
+The wind is almost never what damages a golf cart. 🌀
+After thirty nine Florida seasons we can tell you what actually does it: water getting where water should not be, something heavy blowing into the cart, and then the cart sitting untouched and uncharged for two or three weeks afterwards. That last one is the quiet killer, because the cart looks perfectly fine when the storm passes.
+Five things worth doing before it arrives. Charge it fully, a dead pack is no help when the power is out for days. Park it indoors if you can, and look at what is above it. Move it off any spot that held water in the last big rain. Strip off the coolers, bags and loose cushions. And take the cover OFF, in real wind it stops protecting and starts acting like a sail.
+Atlantic season runs June 1 through November 30, and mid August through October is the busy stretch. We are inland here in Polk County, so no storm surge, but plenty of wind, water and long outages.
+Full checklist on the blog, link in bio. Questions, call (863) 439-5431.
+
+#ArtsGolfCars #HurricaneSeason #GolfCart #PolkCounty #CentralFlorida #DundeeFL #FloridaLiving #GolfCartMaintenance
+
+### `55-onward-2027.jpg`
+"A new model year is coming, should I wait?" 🤔
+Every September that question lands on our counter in Dundee, so here is what Club Car has actually published about the 2027 Onward, no guessing. One concrete change so far, and it is a good one: the Overhead Entertainment Console, the audio unit that mounts into the roof, is now standard on 2027 Onward Premium models. It stays an accessory elsewhere, and Club Car lists it as compatible with 2016 and newer, so an older Onward in your garage can still get one.
+Beyond that Club Car has not published a full 2027 spec sheet, and we are not going to invent one.
+Here is the honest part. On a golf car a model year change is usually not a redesign. The platform, the frame, the motor and the drivetrain typically carry over, what changes is the mix of colors, trims and which features move into a standard package. If a specific new feature matters to you, wait for it. If what you want is a four seater in a color you like, ready this weekend, there is very little reason to sit out the season.
+Full breakdown of the Onward range on the blog, link in bio.
+
+#ArtsGolfCars #ClubCar #ClubCarOnward #GolfCart #CentralFlorida #DundeeFL #GolfCartsForSale #EliteDealer
+
+### `56-limited-edition.jpg`
+"While supplies last" is the entire story on a limited edition. ✨
+Every so often Club Car stops building the same cart in the same colors and releases something that only exists for one run. It is deeper than a badge and floor mats. A factory limited edition normally combines four things designed together: a body color that is not in the standard lineup, seats and stitching specified against that exact paint, wheels, bumpers and lighting chosen as a package, and a build slot rather than a shelf.
+Nothing mechanical is compromised. Same chassis, same suspension, same drivetrain options. What is limited is the look, and the window in which you can order it.
+And that window closes earlier than people expect, because it ends when the allocation is gone, not on a published date. There is a Florida twist too: demand here climbs as the snowbirds arrive in the fall, which is exactly when the previous allocation is thinning out. Decide in January that you want the color a neighbor was driving in November and the honest answer is often that the build is closed.
+That is why we keep a deep floor in Dundee. If it is on our lot, the allocation question is already settled.
+Read the full guide, link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #LimitedEdition #GolfCart #CentralFlorida #DundeeFL #GolfCartsForSale #CustomGolfCarts
+
+### `57-accesorios-fl.jpg`
+Half the accessory catalogue sells itself. Half ends up in a drawer. 🛠️
+After 39 years of fitting things to carts in Dundee, here is what is still on the cart three summers later. In Florida the enemy is not mileage, it is weather, so the three we recommend most are not the flashy ones. An extended top with a folding windshield, hard acrylic with a decent hinge, because the cheap ones scratch just from being cleaned. A rain enclosure, a set of curtains that lives under the seat and is the difference between driving home and waiting out the four o'clock storm under a tree. And light colored marine grade upholstery, because dark vinyl at midday genuinely burns and cracks by its third summer.
+One thing to be clear about: adding lights does not make a cart street legal. In Florida a cart may only use roads your county or city has designated. Going further means registering it as a low speed vehicle, with a title, registration, insurance and specific equipment.
+Tell us where you live and we will tell you which setup makes sense. Link in bio, or (863) 439-5431. Guía completa en español en el blog.
+
+#ArtsGolfCars #GolfCartAccessories #GolfCart #CentralFlorida #DundeeFL #PolkCounty #FloridaLiving #GolfCartLife
+
+### `58-kissimmee-osceola.jpg`
+"Can I leave my community and drive on the street?" 🛣️
+It is the question we get most from the Osceola side of the county line, and the answer depends on the street, not on the cart. Florida starts from one idea: a cart may only be driven on a county road the county has designated, or a city street the city has designated. Driving slowly is not enough, and neither is living two blocks away.
+What almost nobody knows is that Osceola has a written procedure for getting a community approved, and it starts restrictive. It takes a homeowner applicant from a self contained community, a petition signed by at least 51% of residents or HOA members with one signature per household, and a county traffic study that reviews a minimum of three years of crash data plus a spot speed study. The applicant pays for it, up to a maximum of $6,500, and it is non refundable whatever the outcome, though you get an estimate first and can cancel at no charge at that point.
+The result is not a simple yes or no. It specifies whether night driving is allowed, which roads are in, which are out, and where the signs go.
+Full walkthrough on the blog, link in bio. Guía en español también.
+
+#ArtsGolfCars #Kissimmee #OsceolaCounty #GolfCart #CentralFlorida #DundeeFL #StreetLegal #FloridaLiving
+
+### `59-new-brand-lineup.jpg`
+One platform, five bodies. 🔋
+One of the newer brands on our floor does something unusual, and it is good news if you are shopping. Every model in the range shares the same running gear, a 5 kW AC electric motor and a 51.2 volt lithium battery, and every model gets the same cockpit, a 10.1 inch touchscreen with Apple CarPlay and Android Auto built in plus a high definition rear view camera.
+What changes between models is the body, the seat count, the suspension and how much weight it will carry. That matters, because you are not giving up the screen or the battery to get the size you need. Pick the shape and the technology comes with it. It also keeps life simple on our side of the counter, our technicians see the same drivetrain across the whole range.
+To give you the shape of it, the compact four seater publishes up to 19 MPH, up to 40 miles of range and a 3.5 hour fast charge, while the long body with four forward facing seats carries over 880 pounds.
+All five models broken down on the blog, link in bio. Or come sit in them in Dundee, (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #LithiumGolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartsForSale #GolfCartLife
+
 ---
 
 ## STORIES
@@ -557,3 +611,21 @@ Golf cart repair in Polk County · What breaks, what can wait
 
 ### `53-clubcar-cru-story.jpg`
 Club Car CRU vs Onward LSV · Street legal in Florida
+
+### `54-hurricane-season-story.jpg`
+Hurricane prep for your cart · Five things before the storm
+
+### `55-onward-2027-story.jpg`
+2027 Club Car Onward · What is confirmed, and should you wait
+
+### `56-limited-edition-story.jpg`
+Limited edition carts · Why the window closes early
+
+### `57-accesorios-fl-story.jpg`
+Golf cart accessories in Florida · What is still there in year three
+
+### `58-kissimmee-osceola-story.jpg`
+Kissimmee and Osceola · How a community gets approved
+
+### `59-new-brand-lineup-story.jpg`
+One platform, five bodies · Lithium and CarPlay across the range
