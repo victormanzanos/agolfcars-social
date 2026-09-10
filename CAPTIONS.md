@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 59 POSTS
+## 64 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -449,6 +449,63 @@ All five models broken down on the blog, link in bio. Or come sit in them in Dun
 
 #ArtsGolfCars #GolfCart #LithiumGolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartsForSale #GolfCartLife
 
+### `60-trade-in.jpg`
+Everybody asks what their cart is worth. The more useful question is what it is worth to a dealer who has to sell it again. 🔑
+Those are two different numbers, and the gap is where most trade-in confusion lives. Here is what actually moves ours.
+The battery pack, above everything else. On an electric cart it is the single biggest swing in value. A lead-acid set at the end of its life is not neutral, it is a negative, because whoever buys that cart next has to replace it. A healthy lithium pack, or recent batteries that still hold a full charge, appraises far better than a cart that simply still runs fine around the neighborhood.
+Hours beat miles. A cart that made short neighborhood trips for eight years can be in better shape than one that spent three years on a course with a different driver every round. We are reading wear on the drivetrain and the suspension, not the calendar.
+A trade-in is a credit against the cart you are buying, and we give you the number in writing the same day. Bring it to us in Dundee, or if it is not running, ask about pickup. We already run pickup and delivery for shop work.
+Free appraisal. Link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #TradeIn #CentralFlorida #DundeeFL #PolkCounty #GolfCartsForSale #GolfCartLife
+
+### `61-snowbird-checklist.jpg`
+Back for the season? Do not turn the key yet. ✈️
+The pattern repeats every autumn in Polk County. You land, you open the garage, and the cart is sitting exactly where you left it in April. Either it moves or it does not, and that first morning rarely has a middle ground.
+After 39 years and more than 30,000 golf cars, our shop sees the same short list every October, and almost all of it costs less to prevent than to repair. Five minutes of looking will tell you more than the first drive will.
+Open the seat and look inside. Rodents treat a parked cart as a house, and chewed wiring insulation is why a cart that looks perfect can behave strangely.
+Check the charger and its cord before you plug it in.
+Look under the cart. Any puddle or dried stain deserves an explanation before the cart moves.
+Check the tires. A summer parked on soft tires can leave a flat spot you will feel on the first ride.
+Use your nose. A rotten egg smell around a lead-acid pack means something was going wrong while you were away.
+Then the pack decides your season. Lead-acid does not sit well and sulfates at a low state of charge. Lithium usually wakes up better, but if yours will not wake up, stop and call us. The wrong charger is how a repairable pack becomes a replacement pack.
+Full checklist on the blog, link in bio. Service in Dundee, (863) 439-5431.
+
+#ArtsGolfCars #Snowbirds #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartService #FloridaLiving
+
+### `62-past-model-year.jpg`
+Most people shopping for a cart believe there are two doors, new or used. There is a third one. 🚪
+Club Car has just given it a page of its own: brand new, unused carts from previous model years. Not demos, not trade ins, not customer returns. Onward vehicles that were built and never delivered, offered in two, four and six passenger configurations, listed as fully warrantied and eligible for financing offers through participating dealers.
+On a car, a new model year can bring a different platform. On a golf cart it usually changes what the catalog offers rather than what the vehicle is. Club Car states the trade plainly, colors, seating finishes and equipment packages may differ from the current lineup. What does not change is the vehicle underneath and the warranty, and that warranty starts when you take delivery, not when somebody else did.
+Zero hours. Nobody has driven it, charged it badly, left it out for two summers or run the pack flat and walked away for a season. Line one up against a strong used cart and the comparison gets interesting fast.
+We are a 3× Club Car Black & Gold Elite Dealer, so ask us what is available and about the promotion fine print.
+Link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #ClubCarOnward #GolfCart #CentralFlorida #DundeeFL #GolfCartsForSale #PolkCounty
+
+### `63-who-can-drive.jpg`
+Florida changed this in 2023, and a lot of owners still have the old rule in their head. ⚖️
+It is the question we get most in the showroom, and it almost always comes up about ten minutes after somebody has already fallen in love with a cart. Who is actually allowed to drive this? Section 316.212 of the state statutes answers it, and there are only two rules.
+Under 18, the driver must hold a valid learner's driver license or a valid driver license.
+18 or older, the driver must possess a valid form of government issued photographic identification.
+That is the entire test. There is no golf cart license and no separate cart permit. Because the earliest a Florida teenager can hold a learner's license is 15, that is where the practical floor lands. The previous rule only stopped drivers under 14, which is why this change surprises long time owners the most, grandparents especially.
+The adult half trips up more people than the teenage one. Possess is the operative word. A license sitting in a drawer at home is not the same as having identification on you at the moment a deputy is asking, and a state issued photo ID card counts, which matters for owners who no longer drive a car but very much still drive a cart.
+And it only applies where the county or the city has designated the road. Two neighbors four miles apart in Polk County can both be doing exactly the right thing and still be under different rules.
+Full breakdown on the blog, link in bio.
+
+#ArtsGolfCars #GolfCart #FloridaLaw #StreetLegal #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife
+
+### `64-golf-cart-tires.jpg`
+The part nobody thinks about until something goes wrong. 🛞
+Tires touch the ground, carry the whole cart and take the full punishment of a Florida summer. After 39 years of putting carts on the lift here in Dundee, we can usually tell how someone uses their cart just by looking at the four corners.
+There are three families, and choosing the wrong family is the most common mistake we see. Turf tires, shallow and smooth, the right answer if the cart lives on a course or on manicured community paths. All terrain, deeper and blockier for sand, gravel and damp grass, the usual choice on a lifted cart. Street or low profile, a wider flatter footprint built for asphalt, normally the most comfortable and the most planted in a turn if the cart is your run to the mailbox and to the store.
+Most of our customers are not driving to a first tee, so street or all terrain beats turf for the majority of the carts leaving our lot.
+The sidewall uses two different systems, which is why the numbers look inconsistent from one cart to the next. Inch sizing, such as 18x8.50-8, is roughly 18 inches tall and 8.5 wide on an 8 inch wheel. Metric, such as 205/50-10, is 205 millimeters of tread width on a 10 inch wheel. The last number is the one that has to match your wheel.
+And here is the one that catches Florida owners out. Fine cracking in the sidewall is dry rot. The tire can look almost new across the tread and still be finished.
+Come let us look at your four corners, (863) 439-5431.
+
+#ArtsGolfCars #GolfCartTires #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartService #GolfCartLife
+
 ---
 
 ## STORIES
@@ -629,3 +686,18 @@ Kissimmee and Osceola · How a community gets approved
 
 ### `59-new-brand-lineup-story.jpg`
 One platform, five bodies · Lithium and CarPlay across the range
+
+### `60-trade-in-story.jpg`
+Golf cart trade-in · What actually moves the number
+
+### `61-snowbird-checklist-story.jpg`
+Snowbird checklist · Before you turn the key
+
+### `62-past-model-year-story.jpg`
+New, previous model year · The third door nobody explains
+
+### `63-who-can-drive-story.jpg`
+Who can drive in Florida · The 2023 rule in two lines
+
+### `64-golf-cart-tires-story.jpg`
+Golf cart tires · Three types and the Florida killer
