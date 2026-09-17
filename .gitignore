@@ -3,3 +3,11 @@ __pycache__/
 *.log
 reales/*
 !reales/.gitkeep
+# Fuentes de las tarjetas nuevas (17-sep-2026): viven en local, no en el repo.
+# El repo solo necesita las TARJETAS (posts/ y stories/), que son lo que publica
+# la Graph API por raw URL. Subir tambien los originales a 2400px anadiria ~100 MB
+# sin que nadie los lea. Se regeneran desde Pexels si hiciera falta (el id esta en
+# el nombre del fichero del scratchpad) y .image_index.json guarda su hash.
+raw/[0-9][0-9]-*.jpg
+raw/[0-9][0-9][0-9]-*.jpg
+raw/s[0-9][0-9][0-9]-*.jpg

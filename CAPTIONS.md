@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 69 POSTS
+## 111 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -553,6 +553,300 @@ Florida tip: charge in the shade, protect the charger from storm surges and keep
 
 ---
 
+### `70-your-second-set-of-keys.jpg`
+In Central Florida, the golf car is the second set of keys. 🔑
+School run inside the community, nine holes after lunch, groceries a mile away. It is the vehicle that actually gets used every day. Come tell us how you drive and we will match you to the right one.
+29630 US Hwy 27, Dundee. Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #DundeeFL #CentralFlorida #GolfCartLife #PolkCounty
+
+### `71-four-seats-or-six.jpg`
+Four seats or six? 🤔
+Four is easier to park and lighter on the battery. Six earns its keep the first time the whole family rides at once. We keep both on the lot so you can sit in them before you decide.
+See the inventory through the link in bio.
+
+#ArtsGolfCars #GolfCart #FamilyTime #CentralFlorida #GolfCartsForSale #DundeeFL
+
+### `72-test-drive-first.jpg`
+Never buy a golf car you have not driven. 🛞
+Seat height, steering feel, how it takes a speed bump, how quiet it really is. Five minutes behind the wheel tells you more than any spec sheet. Bring the family, we will hand you the key.
+29630 US Hwy 27, Dundee, FL.
+
+#ArtsGolfCars #TestDrive #GolfCart #DundeeFL #CentralFlorida #GolfCartDealer
+
+### `73-the-art-of-the-drive.jpg`
+The Art of the Drive. 🌴
+It is not a slogan we picked at random. It is the difference between a cart that moves you and one you actually look forward to driving. That is what we build here in Dundee.
+Link in bio.
+
+#ArtsGolfCars #TheArtOfTheDrive #GolfCart #CentralFlorida #DundeeFL #GolfCartLife
+
+### `74-quiet-ride-electric.jpg`
+The best part of an electric golf car is what you do not hear. 🔇
+No engine noise, no fumes in the garage, no waking the neighborhood at 7am. Just the tires and the conversation. Come listen to one run.
+Call (863) 439-5431.
+
+#ArtsGolfCars #ElectricGolfCart #GolfCart #CentralFlorida #DundeeFL #QuietRide
+
+### `75-pre-owned-inspected.jpg`
+Every pre-owned golf car here goes through our own shop first. ✅
+Batteries tested, brakes checked, tires and charger verified, then road tested. If it is not good enough for our own family, it does not go on the lot.
+Browse what is ready today, link in bio.
+
+#ArtsGolfCars #UsedGolfCarts #GolfCart #CentralFlorida #DundeeFL #PreOwned
+
+### `76-round-of-golf-ready.jpg`
+Tee time at 8, cart charged at 7. ⛳
+If you play most weeks, owning beats renting fast, and you get the seat, the bag holder and the cooler set up exactly how you like them. Ask us how golfers around Polk County spec theirs.
+Link in bio.
+
+#ArtsGolfCars #Golf #GolfCart #PolkCounty #CentralFlorida #GolfLife
+
+### `77-course-to-driveway.jpg`
+From the course to the driveway. ⛳🏡
+The same cart that carries your clubs on Saturday takes you to the mailbox on Sunday. That double duty is why most of our customers end up buying instead of renting.
+29630 US Hwy 27, Dundee. (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #GolfLife #CentralFlorida #DundeeFL #GolfCartLife
+
+### `78-club-car-elite-3x.jpg`
+3× Club Car Black & Gold Elite Dealer. 🏆
+That award is earned on sales, service and how customers are treated after the sale, and we have earned it three times. It is the reason a lot of Central Florida golfers drive up US 27 to see us.
+Call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #EliteDealer #GolfCart #CentralFlorida #DundeeFL
+
+### `79-cart-path-community.jpg`
+Some neighborhoods are built around cart paths, not driveways. 🛣️
+If yours is one of them, the cart is not a toy, it is transport. We know which models hold up to daily community miles and which ones just look the part.
+Link in bio.
+
+#ArtsGolfCars #GolfCartCommunity #CentralFlorida #PolkCounty #GolfCartLife #DundeeFL
+
+### `80-know-your-hoa-rules.jpg`
+Check your community rules before you buy. 📋
+Some require lights, mirrors and a horn, some ask for a specific top speed, and a few only allow street legal LSVs. Tell us where you live and we will spec the cart to match.
+Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartRules #55Plus #CentralFlorida #PolkCounty #DundeeFL
+
+### `81-neighbors-ask-where.jpg`
+The real review is when a neighbor asks where you got it. 👀
+Most of our customers come from someone else's driveway. That is the whole marketing plan, and it only works if the cart and the service are right.
+29630 US Hwy 27, Dundee, FL.
+
+#ArtsGolfCars #GolfCart #WordOfMouth #CentralFlorida #DundeeFL #PolkCounty
+
+### `82-service-center-open.jpg`
+Our Service Center is the reason people come back. 🔧
+Batteries, brakes, tires, chargers, controllers, wiring and diagnostics, all handled in house by our own technicians. No shipping your cart across the state.
+Book at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartService #GolfCartRepair #CentralFlorida #DundeeFL #PolkCounty
+
+### `83-annual-checkup.jpg`
+A golf car needs a yearly checkup, same as your truck. 🗓️
+Brakes, battery health, tire wear, charger output, loose connections. An hour in the shop now is cheaper than a tow in August.
+Call (863) 439-5431 to book yours.
+
+#ArtsGolfCars #GolfCartMaintenance #ServiceCenter #CentralFlorida #DundeeFL #GolfCartService
+
+### `84-battery-health-check.jpg`
+Most golf car problems are battery problems. 🔋
+Weak pack, bad connection, or a charger that stopped doing its job months ago. We test the pack under load and tell you what is really going on, not what is easiest to sell.
+Service: (863) 439-5431.
+
+#ArtsGolfCars #GolfCartBatteries #GolfCartService #CentralFlorida #DundeeFL #PolkCounty
+
+### `85-tires-matter.jpg`
+Tires change how a golf car feels more than people expect. 🛞
+Street tread for pavement and quiet miles, all terrain if you cross grass and sand. Wrong choice and you feel every seam in the road.
+Parts & Accessories, 29630 US Hwy 27, Dundee.
+
+#ArtsGolfCars #GolfCartTires #GolfCartAccessories #CentralFlorida #DundeeFL #PolkCounty
+
+### `86-charger-check.jpg`
+If it will not hold a charge, start with the charger. ⚡
+We see plenty of healthy battery packs blamed for a charger that is quietly underdelivering. We test both before anyone spends money on either.
+Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartCharging #GolfCartService #CentralFlorida #DundeeFL #GolfCartRepair
+
+### `87-financing-sheffield.jpg`
+Financing, handled here. 💳
+We work with Sheffield Financial, a division of Truist Bank, so you can spread the cost instead of draining the account in one go. Ask us what fits your budget before you fall in love with a cart.
+Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartFinancing #SheffieldFinancial #CentralFlorida #DundeeFL #GolfCartsForSale
+
+### `88-trade-in-welcome.jpg`
+Trading up? Bring the old one. ↔️
+We take trade ins, we know what they are really worth, and we do the numbers in front of you. No mystery, no guessing what your current cart is worth.
+29630 US Hwy 27, Dundee. (863) 439-5431.
+
+#ArtsGolfCars #TradeIn #GolfCart #CentralFlorida #DundeeFL #GolfCartsForSale
+
+### `89-in-stock-today.jpg`
+In stock beats on order when you need it this weekend. 🗓️
+Special orders let you pick every detail, stock carts let you drive home today. We will tell you honestly which one your timeline needs.
+See what is on the lot, link in bio.
+
+#ArtsGolfCars #GolfCartsForSale #InStock #CentralFlorida #DundeeFL #GolfCart
+
+### `90-delivery-to-your-door.jpg`
+We deliver. 🚚
+Your cart arrives charged, checked and ready, and we walk you through it at handover instead of leaving it in the driveway with a manual.
+Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartDelivery #CentralFlorida #DundeeFL #PolkCounty #GolfCart
+
+### `91-florida-heat-care.jpg`
+Florida heat is hard on batteries. ☀️
+High temperatures speed up wear, and a pack that sits half charged in a hot garage ages faster. Charge it fully, keep the terminals clean, and let us check it once a year.
+Service: (863) 439-5431.
+
+#ArtsGolfCars #GolfCartBatteries #FloridaHeat #GolfCartMaintenance #CentralFlorida #DundeeFL
+
+### `92-storm-season-prep.jpg`
+Storm season plan for your golf car. 🌧️
+Charge it, park it under cover away from trees and windows, disconnect if you are leaving town, and photograph it for your records. Five minutes now saves a claim later.
+Questions? (863) 439-5431.
+
+#ArtsGolfCars #HurricanePrep #FloridaLiving #GolfCartTips #CentralFlorida #DundeeFL
+
+### `93-sunset-cruise.jpg`
+The best mile of the day is the last one. 🌅
+Sunset, the long way home, nobody in a hurry. That is the whole reason half of Central Florida owns a golf car.
+29630 US Hwy 27, Dundee, FL.
+
+#ArtsGolfCars #GolfCartLife #Sunset #CentralFlorida #DundeeFL #FloridaLiving
+
+### `94-dog-rides-shotgun.jpg`
+The dog gets the front seat. Every time. 🐕
+If your co pilot has four legs, ask us about seat covers and a grab bar. Small details, much calmer ride.
+Parts & Accessories in Dundee.
+
+#ArtsGolfCars #GolfCartLife #DogsOfInstagram #CentralFlorida #DundeeFL #GolfCartAccessories
+
+### `95-beach-day-load.jpg`
+Chairs, cooler, towels, go. 🏖️
+With the right cargo box and a rear seat that flips, a golf car carries a beach day better than a car and parks anywhere.
+Ask us about cargo setups. Link in bio.
+
+#ArtsGolfCars #GolfCartAccessories #FloridaLiving #CentralFlorida #DundeeFL #GolfCartLife
+
+### `96-celebration.jpg`
+Golf cars in Celebration, FL. 🌳
+A town built for front porches and short trips is a town built for a golf car. We are 30 minutes down the road in Dundee, with new and pre-owned carts, service and parts under one roof.
+See the Celebration page through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #CelebrationFL #GolfCart #CentralFlorida #GolfCartsForSale #OsceolaCounty
+
+### `97-championsgate.jpg`
+Golf cars for ChampionsGate. ⛳
+Two championship courses, a resort community, and a lot of driveways that could use a cart. Ask us which setups hold up to daily resort miles and which ones just look good in the photos.
+Link in bio or (863) 439-5431.
+
+#ArtsGolfCars #ChampionsGate #GolfCart #CentralFlorida #GolfCartsForSale #GolfLife
+
+### `98-clermont.jpg`
+Clermont, we see you. 🚵
+Hills change what a golf car needs: torque, brakes and battery capacity all matter more than on flat ground. Tell us where you drive and we will spec it honestly.
+Call (863) 439-5431.
+
+#ArtsGolfCars #ClermontFL #GolfCart #CentralFlorida #LakeCounty #GolfCartsForSale
+
+### `99-eagle-lake.jpg`
+Golf cars in Eagle Lake, FL. 🦅
+Small town, short distances, exactly the kind of place where a cart replaces the second car. New, pre-owned, service and parts, all from our shop in Dundee.
+Link in bio.
+
+#ArtsGolfCars #EagleLakeFL #PolkCounty #GolfCart #CentralFlorida #GolfCartsForSale
+
+### `100-fort-meade.jpg`
+Fort Meade runs on golf cars. 🛞
+We keep new and pre-owned on the lot and our own technicians handle the service afterwards, which is the part that actually matters a year in.
+29630 US Hwy 27, Dundee. (863) 439-5431.
+
+#ArtsGolfCars #FortMeadeFL #PolkCounty #GolfCart #CentralFlorida #GolfCartService
+
+### `101-four-corners.jpg`
+Four Corners: four counties, one cart. 🗺️
+Polk, Lake, Orange and Osceola meet here, and the rules can change street by street. Ask us what your community requires before you buy.
+Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #FourCorners #GolfCart #CentralFlorida #GolfCartsForSale #PolkCounty
+
+### `102-frostproof.jpg`
+Golf cars in Frostproof, FL. 🍊
+Citrus country, long straight roads and neighbors who all know each other. We sell, service and deliver from Dundee, a short run up the road.
+(863) 439-5431.
+
+#ArtsGolfCars #FrostproofFL #PolkCounty #GolfCart #CentralFlorida #GolfCartsForSale
+
+### `103-highland-city.jpg`
+Highland City, your cart guy is in Dundee. 🛻
+New and pre-owned golf cars, a full Service Center and a parts counter with real stock. Bring the cart or bring the problem, either works.
+Call (863) 439-5431.
+
+#ArtsGolfCars #HighlandCityFL #PolkCounty #GolfCart #CentralFlorida #GolfCartService
+
+### `104-kathleen.jpg`
+Golf cars for Kathleen and north Lakeland. 🌾
+Acreage, long driveways and a cart that has to handle grass as well as pavement. Tire choice matters more than people think here, ask us.
+Link in bio.
+
+#ArtsGolfCars #KathleenFL #Lakeland #PolkCounty #GolfCart #CentralFlorida
+
+### `105-lake-alfred.jpg`
+Lake Alfred, FL. ⛵
+Between the lakes and the chain of parks, a golf car is the easiest way to get around town. We handle the sale, the setup and the service after it.
+29630 US Hwy 27, Dundee. (863) 439-5431.
+
+#ArtsGolfCars #LakeAlfredFL #PolkCounty #GolfCart #CentralFlorida #GolfCartLife
+
+### `106-lake-hamilton.jpg`
+Lake Hamilton is basically next door. 🛶
+We are minutes up US 27 in Dundee, which means service without a road trip and parts the same week, not next month.
+Call (863) 439-5431.
+
+#ArtsGolfCars #LakeHamiltonFL #PolkCounty #GolfCart #DundeeFL #GolfCartService
+
+### `107-loughman.jpg`
+Golf cars in Loughman, FL. 🏡
+New communities, new driveways, and a lot of families discovering that one cart gets used more than the second car. Come see what fits.
+Link in bio.
+
+#ArtsGolfCars #LoughmanFL #PolkCounty #GolfCart #CentralFlorida #GolfCartsForSale
+
+### `108-mulberry.jpg`
+Mulberry, FL: sales, parts and service. 🔧
+We are not a pop up lot. Same address in Dundee, same technicians, same phone number when something needs fixing.
+29630 US Hwy 27. (863) 439-5431.
+
+#ArtsGolfCars #MulberryFL #PolkCounty #GolfCart #CentralFlorida #GolfCartRepair
+
+### `109-polk-city.jpg`
+Polk City, the trail town. 🚴
+With the Van Fleet trail on the doorstep, a golf car gets used every weekend here. Ask us about cargo racks and seats that take real use.
+Link in bio or (863) 439-5431.
+
+#ArtsGolfCars #PolkCityFL #PolkCounty #GolfCart #CentralFlorida #GolfCartAccessories
+
+### `110-reunion.jpg`
+Golf cars for Reunion Resort. ⛳
+Three signature courses and a community where the cart is the way you move. We sell new and pre-owned and service what we sell.
+Call (863) 439-5431.
+
+#ArtsGolfCars #ReunionResort #GolfCart #CentralFlorida #GolfLife #GolfCartsForSale
+
+### `111-st-cloud.jpg`
+St. Cloud, FL. 🌊
+Lakefront, wide streets and a growing list of neighborhoods where carts are part of daily life. We deliver, and we are here afterwards for the service.
+Link in bio.
+
+#ArtsGolfCars #StCloudFL #OsceolaCounty #GolfCart #CentralFlorida #GolfCartsForSale
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -761,3 +1055,220 @@ How fast does a golf cart go · The 20 mph line
 
 ### `69-charging-at-home-story.jpg`
 Charging at home · The routine and the math
+
+### `s001-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s002-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s003-golf-course-story.jpg`
+Story: golf course.
+
+### `s004-palm-tree-street-story.jpg`
+Story: palm tree street.
+
+### `s005-golf-green-story.jpg`
+Story: golf green.
+
+### `s006-golf-fairway-story.jpg`
+Story: golf fairway.
+
+### `s007-country-club-story.jpg`
+Story: country club.
+
+### `s008-golf-cart-resort-story.jpg`
+Story: golf cart resort.
+
+### `s009-golf-course-sunset-story.jpg`
+Story: golf course sunset.
+
+### `s010-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s011-sunny-sky-clouds-story.jpg`
+Story: sunny sky clouds.
+
+### `s012-summer-rain-story.jpg`
+Story: summer rain.
+
+### `s013-spanish-moss-oak-story.jpg`
+Story: spanish moss oak.
+
+### `s014-lake-sunset-story.jpg`
+Story: lake sunset.
+
+### `s015-wetland-florida-story.jpg`
+Story: wetland florida.
+
+### `s016-citrus-grove-story.jpg`
+Story: citrus grove.
+
+### `s017-marina-boats-story.jpg`
+Story: marina boats.
+
+### `s018-beach-boardwalk-story.jpg`
+Story: beach boardwalk.
+
+### `s019-pier-sunset-story.jpg`
+Story: pier sunset.
+
+### `s020-florida-beach-story.jpg`
+Story: florida beach.
+
+### `s021-tropical-road-story.jpg`
+Story: tropical road.
+
+### `s022-storm-clouds-story.jpg`
+Story: storm clouds.
+
+### `s023-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s024-florida-palm-trees-story.jpg`
+Story: florida palm trees.
+
+### `s025-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s026-golf-course-story.jpg`
+Story: golf course.
+
+### `s027-golf-green-story.jpg`
+Story: golf green.
+
+### `s028-golf-fairway-story.jpg`
+Story: golf fairway.
+
+### `s029-putting-green-story.jpg`
+Story: putting green.
+
+### `s030-golf-cart-course-story.jpg`
+Story: golf cart course.
+
+### `s031-golf-cart-resort-story.jpg`
+Story: golf cart resort.
+
+### `s032-golf-course-sunset-story.jpg`
+Story: golf course sunset.
+
+### `s033-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s034-sunny-sky-clouds-story.jpg`
+Story: sunny sky clouds.
+
+### `s035-summer-rain-story.jpg`
+Story: summer rain.
+
+### `s036-spanish-moss-oak-story.jpg`
+Story: spanish moss oak.
+
+### `s037-lake-sunset-story.jpg`
+Story: lake sunset.
+
+### `s038-wetland-florida-story.jpg`
+Story: wetland florida.
+
+### `s039-citrus-grove-story.jpg`
+Story: citrus grove.
+
+### `s040-marina-boats-story.jpg`
+Story: marina boats.
+
+### `s041-sunrise-road-story.jpg`
+Story: sunrise road.
+
+### `s042-beach-boardwalk-story.jpg`
+Story: beach boardwalk.
+
+### `s043-florida-sunset-story.jpg`
+Story: florida sunset.
+
+### `s044-florida-beach-story.jpg`
+Story: florida beach.
+
+### `s045-storm-clouds-story.jpg`
+Story: storm clouds.
+
+### `s046-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s047-florida-palm-trees-story.jpg`
+Story: florida palm trees.
+
+### `s048-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s049-golf-course-story.jpg`
+Story: golf course.
+
+### `s050-palm-tree-street-story.jpg`
+Story: palm tree street.
+
+### `s051-golf-green-story.jpg`
+Story: golf green.
+
+### `s052-golf-fairway-story.jpg`
+Story: golf fairway.
+
+### `s053-golf-flag-story.jpg`
+Story: golf flag.
+
+### `s054-putting-green-story.jpg`
+Story: putting green.
+
+### `s055-driving-range-story.jpg`
+Story: driving range.
+
+### `s056-golf-cart-course-story.jpg`
+Story: golf cart course.
+
+### `s057-golf-cart-resort-story.jpg`
+Story: golf cart resort.
+
+### `s058-golf-course-sunset-story.jpg`
+Story: golf course sunset.
+
+### `s059-sunny-sky-clouds-story.jpg`
+Story: sunny sky clouds.
+
+### `s060-summer-rain-story.jpg`
+Story: summer rain.
+
+### `s061-lake-sunset-story.jpg`
+Story: lake sunset.
+
+### `s062-wetland-florida-story.jpg`
+Story: wetland florida.
+
+### `s063-marina-boats-story.jpg`
+Story: marina boats.
+
+### `s064-beach-boardwalk-story.jpg`
+Story: beach boardwalk.
+
+### `s065-pier-sunset-story.jpg`
+Story: pier sunset.
+
+### `s066-florida-sunset-story.jpg`
+Story: florida sunset.
+
+### `s067-florida-beach-story.jpg`
+Story: florida beach.
+
+### `s068-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s069-florida-palm-trees-story.jpg`
+Story: florida palm trees.
+
+### `s070-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s071-golf-course-story.jpg`
+Story: golf course.
+
+### `s072-golf-fairway-story.jpg`
+Story: golf fairway.
+
