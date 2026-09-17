@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 64 POSTS
+## 69 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -506,6 +506,51 @@ Come let us look at your four corners, (863) 439-5431.
 
 #ArtsGolfCars #GolfCartTires #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartService #GolfCartLife
 
+### `65-55plus-community-rules.jpg`
+Two rulebooks, not one. 🏡
+Florida law covers golf carts on public roads. Inside a 55+ or active adult community, your association usually writes its own rules, and they can be stricter than the state.
+Before you choose a cart, ask your HOA a few things. Is insurance required? Are there size limits for six seat or lifted carts? Is night driving allowed, and with what lights? Where can you charge and store it? Which modifications are allowed, from sound systems to lift kits? Can private carts use the golf course paths?
+The answers shorten the shortlist fast. A lowered 4 seater fits most garages, lithium runs quiet with no watering, and rear-facing seats help when the grandchildren visit.
+Bring a photo of your community's golf cart rules to our Dundee showroom and we will point you to carts that pass on the first try. Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #55Plus #FloridaLiving #CentralFlorida #DundeeFL #GolfCartLife #ClubCar
+
+### `66-best-time-to-buy.jpg`
+Buy now or wait? 🗓️
+We hear it at the counter every week, and the honest answer is that there is no magic month. There is a Florida calendar, though.
+Fall brings the snowbirds back and inventory moves fast, so decide before you arrive. The holidays call for getting ahead if you want a custom cart. The model year change can leave new, unused carts from the previous year. Summer is the calm season to test drive several models without a rush.
+Our advice after 39 years in Dundee: if you will use it this season, buy when you need it. Every month you wait is a month you do not use it. Ask what is current the week you are ready, and remember brand promotions usually cannot be combined.
+Choose it today, drive it home today. Financing through Sheffield Financial, with approved credit. Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartsForSale #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife #ClubCar
+
+### `67-wont-move.jpg`
+Key on, pedal down, nothing happens? 🔧
+A good share of the "dead" carts we see are not broken at all. Before you worry, run the 60-second checks our Dundee shop starts with.
+The Run/Tow switch, usually under the seat, set back to Run. The charger cord fully out of the cart, not just out of the wall. The direction selector pushed firmly into forward. The key cycled off and on, and the parking brake fully released.
+Still nothing? Listen. Silence usually points to power not reaching the system. A click with no movement needs proper testing. On lithium, the battery management system can shut the pack off to protect it, and the correct charger often wakes it up.
+Stop and call us if you smell something hot, see a swollen battery or a fuse keeps failing. Never bypass a safety switch. We can pick the cart up at your home and bring it back when it is ready. Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartRepair #GolfCartService #GolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife
+
+### `68-how-fast.jpg`
+How fast does a golf cart go? 🏁
+It depends on the model, and the number that matters most in Florida is 20 mph.
+Under about 20 mph, the state does not require a title, registration or insurance. Between 20 and 25 mph, the cart is a low speed vehicle and has to be titled, registered, insured and carry road equipment like lights, mirrors, a windshield, seat belts and a VIN. Where each one may drive is set by your city, county and often your community.
+Can you make a cart faster? Often, but more top speed usually means less pull on hills, less range and possible warranty questions. And if your cart has quietly slowed down, check the battery pack, a dragging brake and tire pressure before buying parts.
+Tell us the roads you will actually use, and we will match the right cart to them. Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #StreetLegal #LSV #CentralFlorida #DundeeFL #GolfCartLife #GolfCartsForSale
+
+### `69-charging-at-home.jpg`
+Where do I plug it in, and what will it cost? ⚡
+Simple routine: you get home, you park, you plug in. A cart that is always charged lasts far longer than one charged only when it barely moves.
+Want the cost? Do the math with your own numbers. Multiply pack volts by amp hours, divide by 1,000 to get kWh, then multiply by the rate on your power bill. Next to filling a gas tank, it is pocket change.
+Lead acid: charge after every use, let the cycle finish, and top up with distilled water only after charging. Lithium: partial charges are fine, no water, and always use the charger matched to that pack.
+Florida tip: charge in the shade, protect the charger from storm surges and keep outdoor connections covered. Charger acting up? Bring it to our Dundee shop, it is not always the battery. Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartBatteries #LithiumBattery #GolfCart #CentralFlorida #DundeeFL #GolfCartLife #FloridaLiving
+
 ---
 
 ## STORIES
@@ -701,3 +746,18 @@ Who can drive in Florida · The 2023 rule in two lines
 
 ### `64-golf-cart-tires-story.jpg`
 Golf cart tires · Three types and the Florida killer
+
+### `65-55plus-community-rules-story.jpg`
+55+ community rules · 9 questions for your HOA
+
+### `66-best-time-to-buy-story.jpg`
+Best time to buy · The Florida calendar
+
+### `67-wont-move-story.jpg`
+Cart won't move? · The 60-second checks
+
+### `68-how-fast-story.jpg`
+How fast does a golf cart go · The 20 mph line
+
+### `69-charging-at-home-story.jpg`
+Charging at home · The routine and the math
