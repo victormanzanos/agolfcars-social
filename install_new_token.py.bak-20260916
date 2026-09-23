@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+"""Instala un token NUEVO de Instagram para @agolfcars (tras una invalidacion de Meta).
+
+WHY (16-sep-2026): Meta invalido la sesion del token (error 190, "the user changed their
+password or Facebook has changed the session"). Un token invalidado NO se puede renovar con
+refresh_access_token: hay que generar uno nuevo en el panel de Meta, y el token vive en TRES
+sitios que deben quedar iguales o una parte del sistema sigue rota en silencio:
+  1. Keychain AGOLFCARS_IG_ACCESS_TOKEN  -> motor de publicacion del Mac + renovacion diaria
+  2. VPS ~/social-engine/ig.json         -> crons sociales del servidor
+  3. VPS ~/social-engine/ig-accounts.json['agolfcars'] -> hub Social del ERP (feed en vivo)
+
+Uso: copia el token en el portapapeles (boton Copy del panel de Meta) y ejecuta
+    /usr/bin/python3 ~/agolfcars-social/install_new_token.py
+El token nunca se imprime ni viaja por argv (va por stdin), y al terminar se vacia el
+portapapeles. No escribe nada si el token no valida como la cuenta agolfcars.
+"""
+import datetime, json, os, subprocess, sys, urllib.error, urllib.parse, urllib.request
+
+SECRETS = os.path.expanduser("~/Code/CyberSecurity/scripts/secrets.sh")
+EXPECTED_USERNAME = "agolfcars"          # WHY: el panel de Meta lista varias cuentas; un token de otra
+                                         # cuenta instalado aqui publicaria la marca equivocada
+EXPECTED_ACCOUNT_ID = "17841447520259580"  # id de la cuenta de negocio usado por el motor
+
+
+def sh(args, **kw):
+    return subprocess.run(args, capture_output=True, text=True, **kw)
+
+
+def fail(msg):
+    print("ERROR:", msg)
+    sys.exit(1)
+
+
+def main():
+    tok = sh(["pbpaste"]).stdout.strip()
+    if not tok:
+        fail("el portapapeles esta vacio: pulsa Copy junto al token en el panel de Meta")
+    if not tok.startswith("IG") or len(tok) < 100 or any(c.isspace() for c in tok):
+        fail("lo copiado no parece un token de Instagram (debe empezar por IG y no llevar espacios)")
+
+    # 1) validar contra la API ANTES de tocar nada
+    q = urllib.parse.urlencode({"fields": "id,username,user_id", "access_token": tok})
+    try:
+        me = json.load(urllib.request.urlopen(f"https://graph.instagram.com/v21.0/me?{q}", timeout=30))
+    except urllib.error.HTTPError as e:
+        fail("Meta rechaza el token: " + e.read().decode()[:200])
+    if me.get("username") != EXPECTED_USERNAME:
+        fail(f"el token es de @{me.get('username')}, no de @{EXPECTED_USERNAME}; no se instala")
+    ids = {str(me.get("id")), str(me.get("user_id"))}
+    print(f"token valido para @{me['username']} (ids {sorted(ids)})")
+    if EXPECTED_ACCOUNT_ID not in ids:
+        print(f"AVISO: el id esperado {EXPECTED_ACCOUNT_ID} no coincide; el motor publica con ese id. "
+              "Se instala igualmente (graph.instagram.com acepta ambos ids en esta app).")
+
+    # 2) Keychain (por stdin: secrets.sh hace read -rs cuando no se pasa VALUE)
+    r = sh([SECRETS, "set", "AGOLFCARS_IG_ACCESS_TOKEN"], input=tok + "\n")
+    if r.returncode != 0:
+        fail("no se pudo guardar en el Keychain: " + r.stderr.strip()[:200])
+    back = sh([SECRETS, "get", "AGOLFCARS_IG_ACCESS_TOKEN"]).stdout.strip()
+    if back != tok:
+        fail("el Keychain no devuelve el token recien guardado")
+    print("1/3 Keychain actualizado y verificado")
+
+    # 3) VPS: los dos JSON, con backup, token por stdin
+    host = sh([SECRETS, "get", "GODADDY_VPS_HOST"]).stdout.strip()
+    env = {**os.environ, "SSHPASS": sh([SECRETS, "get", "AGOLFCARS_CPANEL_PASSWORD"]).stdout.strip()}
+    stamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+    remote = f"""python3 -c '
+import json,sys,shutil,datetime
+tok=sys.stdin.read().strip()
+base="/home/agolfcars/social-engine/"
+for fn in ("ig.json","ig-accounts.json"):
+    shutil.copy2(base+fn, base+fn+".bak-token-{stamp}")
+a=json.load(open(base+"ig.json")); a["ig_token"]=tok; a["token_updated"]=datetime.datetime.utcnow().isoformat()+"Z"
+json.dump(a, open(base+"ig.json","w"), indent=1)
+b=json.load(open(base+"ig-accounts.json")); b.setdefault("agolfcars",{{}})["ig_token"]=tok
+json.dump(b, open(base+"ig-accounts.json","w"), indent=1)
+ok = json.load(open(base+"ig.json"))["ig_token"]==tok and json.load(open(base+"ig-accounts.json"))["agolfcars"]["ig_token"]==tok
+print("OK" if ok else "MISMATCH")
+'"""
+    r = subprocess.run(["sshpass", "-e", "ssh", "-o", "StrictHostKeyChecking=no", f"agolfcars@{host}", remote],
+                       input=tok, capture_output=True, text=True, env=env, timeout=90)
+    if r.returncode != 0 or "OK" not in r.stdout:
+        fail("no se pudo actualizar el servidor: " + (r.stderr or r.stdout).strip()[:300]
+             + "  (el Keychain SI quedo actualizado)")
+    print(f"2/3 servidor ig.json + ig-accounts.json actualizados (backups .bak-token-{stamp})")
+
+    # 4) comprobar desde el propio servidor que su copia funciona
+    check = """python3 -c '
+import json,urllib.request
+t=json.load(open("/home/agolfcars/social-engine/ig-accounts.json"))["agolfcars"]["ig_token"]
+print(json.load(urllib.request.urlopen("https://graph.instagram.com/v21.0/me?fields=username&access_token="+t,timeout=30))["username"])
+'"""
+    r = subprocess.run(["sshpass", "-e", "ssh", "-o", "StrictHostKeyChecking=no", f"agolfcars@{host}", check],
+                       capture_output=True, text=True, env=env, timeout=90)
+    if r.stdout.strip() != EXPECTED_USERNAME:
+        fail("el servidor no valida su copia del token: " + (r.stderr or r.stdout).strip()[:200])
+    print("3/3 el servidor lee @agolfcars con el token nuevo")
+
+    sh(["pbcopy"], input="")
+    print("portapapeles vaciado. Listo.")
+
+
+if __name__ == "__main__":
+    main()

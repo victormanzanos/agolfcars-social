@@ -86,17 +86,11 @@ def upload_card_to_repo(local_path, remote_name):
     if probe.returncode == 0:
         try:    sha = json.loads(probe.stdout).get("sha")
         except Exception: sha = None
-    # WHY: el cuerpo va por STDIN (--input -), NUNCA como argumento -f content=<b64>.
-    # Incidencia 2026-08-20 (@manzanosenterprises): una imagen de 899 KB da un base64 de
-    # ~1,20 MB y revienta el ARG_MAX de macOS (1.048.576 B) con "[Errno 7] Argument list
-    # too long". Las tarjetas del ERP son 1080x1350, asi que superan el limite en cuanto
-    # llevan foto. Por stdin no hay limite de tamano.
-    body = {"message": "ERP social card " + remote_name, "content": content_b64}
-    if sha:
-        body["sha"] = sha
     args = ["gh", "api", "--method", "PUT", "/repos/%s/contents/%s" % (REPO, remote_path),
-            "--input", "-"]
-    r = subprocess.run(args, input=json.dumps(body), capture_output=True, text=True)
+            "-f", "message=ERP social card " + remote_name, "-f", "content=" + content_b64]
+    if sha:
+        args += ["-f", "sha=" + sha]
+    r = subprocess.run(args, capture_output=True, text=True)
     if r.returncode != 0:
         raise RuntimeError("gh upload failed: " + r.stderr.strip()[:300])
     return "%s/%s" % (RAW, remote_path)
@@ -150,7 +144,7 @@ def publish_one(post):
 def email_summary(results):
     if DRY or not results:
         return
-    pw = secret("VICTORIA_STERLING_EMAIL_PASSWORD")
+    pw = secret("MANZANOS_SMTP_PASSWORD")
     rows = ""
     for r in results:
         status = ("✅ <a href='%s'>%s</a>" % (r["permalink"], r["permalink"])) if r["ok"] else \
@@ -166,12 +160,12 @@ def email_summary(results):
             "Social Media and set its status to <b>Scheduled</b>.</p>") % rows
     msg = MIMEMultipart("alternative")
     msg["Subject"] = "📲 Instagram — %d post(s) published from the ERP" % len(results)
-    msg["From"] = "victoriasterling@manzanos.eu"
+    msg["From"] = "assistant@manzanosenterprises.com"
     msg["To"] = ", ".join(MAIL_TO)
     msg.attach(MIMEText(html, "html", "utf-8"))
-    with smtplib.SMTP_SSL("manzanos-eu.correoseguro.dinaserver.com", 465,
+    with smtplib.SMTP_SSL("manzanosenterprises-com.correoseguro.dinaserver.com", 465,
                           context=ssl.create_default_context()) as srv:
-        srv.login("victoriasterling@manzanos.eu", pw)
+        srv.login("assistant@manzanosenterprises.com", pw)
         srv.send_message(msg)
 
 

@@ -150,7 +150,7 @@ def publish_one(post):
 def email_summary(results):
     if DRY or not results:
         return
-    pw = secret("VICTORIA_STERLING_EMAIL_PASSWORD")
+    pw = secret("MANZANOS_SMTP_PASSWORD")
     rows = ""
     for r in results:
         status = ("✅ <a href='%s'>%s</a>" % (r["permalink"], r["permalink"])) if r["ok"] else \
@@ -166,12 +166,12 @@ def email_summary(results):
             "Social Media and set its status to <b>Scheduled</b>.</p>") % rows
     msg = MIMEMultipart("alternative")
     msg["Subject"] = "📲 Instagram — %d post(s) published from the ERP" % len(results)
-    msg["From"] = "victoriasterling@manzanos.eu"
+    msg["From"] = "assistant@manzanosenterprises.com"
     msg["To"] = ", ".join(MAIL_TO)
     msg.attach(MIMEText(html, "html", "utf-8"))
-    with smtplib.SMTP_SSL("manzanos-eu.correoseguro.dinaserver.com", 465,
+    with smtplib.SMTP_SSL("manzanosenterprises-com.correoseguro.dinaserver.com", 465,
                           context=ssl.create_default_context()) as srv:
-        srv.login("victoriasterling@manzanos.eu", pw)
+        srv.login("assistant@manzanosenterprises.com", pw)
         srv.send_message(msg)
 
 

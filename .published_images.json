@@ -1,0 +1,485 @@
+[
+ {
+  "date": "2026-05-22",
+  "kind": "post",
+  "card": "01-welcome.jpg",
+  "src": "hero-golf-cart.jpg",
+  "phash": "7212268882562065823558196287096670052201914479172897206076355044718885471228"
+ },
+ {
+  "date": "2026-05-24",
+  "kind": "post",
+  "card": "02-clubcar-elite.jpg",
+  "src": "car-clubcar-onward.jpg",
+  "phash": "115792089210359128389395853376274583865792856489064355717255009659996581396479"
+ },
+ {
+  "date": "2026-05-24",
+  "kind": "story",
+  "card": "01-welcome-story.jpg",
+  "src": "hero-golf-cart.jpg",
+  "phash": "7212268882562065823558196287096670052201914479172897206076355044718885471228"
+ },
+ {
+  "date": "2026-05-26",
+  "kind": "post",
+  "card": "03-new-used.jpg",
+  "src": "new-vs-used-golf-cars-guide.jpg",
+  "phash": "1533132778326851953301979466984484064051370383030349822"
+ },
+ {
+  "date": "2026-05-26",
+  "kind": "story",
+  "card": "02-clubcar-elite-story.jpg",
+  "src": "car-clubcar-onward.jpg",
+  "phash": "115792089210359128389395853376274583865792856489064355717255009659996581396479"
+ },
+ {
+  "date": "2026-05-28",
+  "kind": "post",
+  "card": "04-service.jpg",
+  "src": "golf-car-maintenance-florida-heat.jpg",
+  "phash": "904629148079583952615825923549912418148076260566020934939681746977833288703"
+ },
+ {
+  "date": "2026-05-28",
+  "kind": "story",
+  "card": "03-new-used-story.jpg",
+  "src": "new-vs-used-golf-cars-guide.jpg",
+  "phash": "1533132778326851953301979466984484064051370383030349822"
+ },
+ {
+  "date": "2026-05-30",
+  "kind": "post",
+  "card": "05-custom.jpg",
+  "src": "car-clubcar-lifted.jpg",
+  "phash": "28946476294458497857343734973829040775937484929483987570156955714699267143711"
+ },
+ {
+  "date": "2026-05-30",
+  "kind": "story",
+  "card": "04-service-story.jpg",
+  "src": "golf-car-maintenance-florida-heat.jpg",
+  "phash": "904629148079583952615825923549912418148076260566020934939681746977833288703"
+ },
+ {
+  "date": "2026-06-01",
+  "kind": "post",
+  "card": "06-shipping.jpg",
+  "src": "buy-golf-car-online-nationwide-shipping.jpg",
+  "phash": "108555967096996665974491161695243988303459087996644166877444263846742911154684"
+ },
+ {
+  "date": "2026-06-01",
+  "kind": "story",
+  "card": "05-custom-story.jpg",
+  "src": "car-clubcar-lifted.jpg",
+  "phash": "28946476294458497857343734973829040775937484929483987570156955714699267143711"
+ },
+ {
+  "date": "2026-06-03",
+  "kind": "story",
+  "card": "06-shipping-story.jpg",
+  "src": "buy-golf-car-online-nationwide-shipping.jpg",
+  "phash": "108555967096996665974491161695243988303459087996644166877444263846742911154684"
+ },
+ {
+  "date": "2026-06-07",
+  "kind": "post",
+  "card": "09-lithium.jpg",
+  "src": "lithium-golf-car-batteries-guide.jpg",
+  "phash": "822771110636286210938383319866726629272865533607893078059776255"
+ },
+ {
+  "date": "2026-06-09",
+  "kind": "story",
+  "card": "09-lithium-story.jpg",
+  "src": "lithium-golf-car-batteries-guide.jpg",
+  "phash": "822771110636286210938383319866726629272865533607893078059776255"
+ },
+ {
+  "date": "2026-07-25",
+  "kind": "post",
+  "card": "07-seniors.jpg",
+  "src": "best-golf-carts-for-seniors.jpg",
+  "phash": "115792086648215102072832683858257684034395034990447794238986127593180075392575"
+ },
+ {
+  "date": "2026-07-25",
+  "kind": "story",
+  "card": "07-seniors-story.jpg",
+  "src": "best-golf-carts-for-seniors.jpg",
+  "phash": "115792086648215102072832683858257684034395034990447794238986127593180075392575"
+ },
+ {
+  "date": "2026-07-27",
+  "kind": "post",
+  "card": "08-street-legal.jpg",
+  "src": "street-legal-golf-cars-lsv-florida.jpg",
+  "phash": "61291089607031937955495574523847929514579919508864315096012712324174605467640"
+ },
+ {
+  "date": "2026-07-27",
+  "kind": "story",
+  "card": "08-street-legal-story.jpg",
+  "src": "street-legal-golf-cars-lsv-florida.jpg",
+  "phash": "61291089607031937955495574523847929514579919508864315096012712324174605467640"
+ },
+ {
+  "date": "2026-07-31",
+  "kind": "post",
+  "card": "10-accessories.jpg",
+  "src": "custom-golf-car-accessories-guide.jpg",
+  "phash": "3302810411580278489667480710501798142461005944067000731242051711"
+ },
+ {
+  "date": "2026-07-31",
+  "kind": "story",
+  "card": "10-accessories-story.jpg",
+  "src": "custom-golf-car-accessories-guide.jpg",
+  "phash": "3302810411580278489667480710501798142461005944067000731242051711"
+ },
+ {
+  "date": "2026-08-02",
+  "kind": "post",
+  "card": "11-financing.jpg",
+  "src": "golf-car-financing-sheffield-guide.jpg",
+  "phash": "115789437433357636881529129159400567412212142722215089888447970062390106539056"
+ },
+ {
+  "date": "2026-08-02",
+  "kind": "story",
+  "card": "11-financing-story.jpg",
+  "src": "golf-car-financing-sheffield-guide.jpg",
+  "phash": "115789437433357636881529129159400567412212142722215089888447970062390106539056"
+ },
+ {
+  "date": "2026-08-04",
+  "kind": "post",
+  "card": "12-electric.jpg",
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699"
+ },
+ {
+  "date": "2026-08-04",
+  "kind": "story",
+  "card": "12-electric-story.jpg",
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699"
+ },
+ {
+  "date": "2026-08-06",
+  "kind": "post",
+  "card": "20-carritos-es.jpg",
+  "src": "carritos-de-golf-legales-florida-requisitos.jpg",
+  "phash": "114095889303703515742783399356686067872289369019758968324586840486031170405375"
+ },
+ {
+  "date": "2026-08-06",
+  "kind": "story",
+  "card": "20-carritos-es-story.jpg",
+  "src": "carritos-de-golf-legales-florida-requisitos.jpg",
+  "phash": "114095889303703515742783399356686067872289369019758968324586840486031170405375"
+ },
+ {
+  "date": "2026-08-10",
+  "kind": "post",
+  "card": "13-communities.jpg",
+  "src": "golf-car-communities-central-florida.jpg",
+  "phash": "115786788669161142266917673422866791624182060460085171946040495472059424464896"
+ },
+ {
+  "date": "2026-08-10",
+  "kind": "story",
+  "card": "13-communities-story.jpg",
+  "src": "golf-car-communities-central-florida.jpg",
+  "phash": "115786788669161142266917673422866791624182060460085171946040495472059424464896"
+ },
+ {
+  "date": "2026-08-12",
+  "kind": "post",
+  "card": "14-solivita.jpg",
+  "src": "card:14-solivita.jpg",
+  "phash": "57672090795681534173772513655010565701438541894122827648934643659555488137215"
+ },
+ {
+  "date": "2026-08-12",
+  "kind": "story",
+  "card": "14-solivita-story.jpg",
+  "src": "card:14-solivita.jpg",
+  "phash": "57672090795681534173772513655010565701438541894122827648934643659555488137215"
+ },
+ {
+  "date": "2026-08-14",
+  "kind": "post",
+  "card": "15-polk-county.jpg",
+  "src": "exploring-polk-county-golf-car-lifestyle.jpg",
+  "phash": "115790735120927740051651844306471858539772315590220134471407262544882047123000"
+ },
+ {
+  "date": "2026-08-14",
+  "kind": "story",
+  "card": "15-polk-county-story.jpg",
+  "src": "exploring-polk-county-golf-car-lifestyle.jpg",
+  "phash": "115790735120927740051651844306471858539772315590220134471407262544882047123000"
+ },
+ {
+  "date": "2026-08-16",
+  "kind": "post",
+  "card": "16-golf-courses.jpg",
+  "src": "central-florida-golf-courses-guide.jpg",
+  "phash": "35121354676987026616984448372243115464788851818495"
+ },
+ {
+  "date": "2026-08-16",
+  "kind": "story",
+  "card": "16-golf-courses-story.jpg",
+  "src": "central-florida-golf-courses-guide.jpg",
+  "phash": "35121354676987026616984448372243115464788851818495"
+ },
+ {
+  "date": "2026-08-18",
+  "kind": "post",
+  "card": "17-cost.jpg",
+  "src": "how-much-does-a-golf-cart-cost.jpg",
+  "phash": "115792089210408777534125539219821640702639936330637506903037298263830061580289"
+ },
+ {
+  "date": "2026-08-20",
+  "kind": "post",
+  "card": "18-brands.jpg",
+  "src": "golf-car-brands-buying-guide.jpg",
+  "phash": "115341515654087630216555559529837786780448647214900469379777729140556284162104"
+ },
+ {
+  "date": "2026-08-20",
+  "kind": "story",
+  "card": "17-cost-story.jpg",
+  "src": "how-much-does-a-golf-cart-cost.jpg",
+  "phash": "115792089210408777534125539219821640702639936330637506903037298263830061580289"
+ },
+ {
+  "date": "2026-08-22",
+  "kind": "post",
+  "card": "19-in-stock.jpg",
+  "src": "in-stock-vs-special-order-golf-cars.jpg",
+  "phash": "114208967515849325912124553641386602660206987519163955427785877091953009358829"
+ },
+ {
+  "date": "2026-08-22",
+  "kind": "story",
+  "card": "18-brands-story.jpg",
+  "src": "golf-car-brands-buying-guide.jpg",
+  "phash": "115341515654087630216555559529837786780448647214900469379777729140556284162104"
+ },
+ {
+  "date": "2026-08-24",
+  "kind": "post",
+  "card": "21-standout.jpg",
+  "src": "boca-pdg-standout-cart-central-florida.jpg",
+  "phash": "115792076293173241683773697491435188790049050217529466360005806097389030735871"
+ },
+ {
+  "date": "2026-08-24",
+  "kind": "story",
+  "card": "19-in-stock-story.jpg",
+  "src": "in-stock-vs-special-order-golf-cars.jpg",
+  "phash": "114208967515849325912124553641386602660206987519163955427785877091953009358829"
+ },
+ {
+  "date": "2026-08-26",
+  "kind": "post",
+  "card": "22-winter-haven.jpg",
+  "src": "golf-carts-winter-haven-fl.jpg",
+  "phash": "115790770952475696098375406203347456619977519258041388855120176027045724626943"
+ },
+ {
+  "date": "2026-08-26",
+  "kind": "story",
+  "card": "21-standout-story.jpg",
+  "src": "boca-pdg-standout-cart-central-florida.jpg",
+  "phash": "115792076293173241683773697491435188790049050217529466360005806097389030735871"
+ },
+ {
+  "date": "2026-08-28",
+  "kind": "post",
+  "card": "23-lake-ashton.jpg",
+  "src": "golf-carts-lake-ashton-community-guide.jpg",
+  "phash": "87748275278756827440665014856989684381940426073239770590669366939059921887200"
+ },
+ {
+  "date": "2026-08-28",
+  "kind": "story",
+  "card": "22-winter-haven-story.jpg",
+  "src": "golf-carts-winter-haven-fl.jpg",
+  "phash": "115790770952475696098375406203347456619977519258041388855120176027045724626943"
+ },
+ {
+  "date": "2026-08-30",
+  "kind": "post",
+  "card": "24-davenport.jpg",
+  "src": "golf-carts-davenport-fl.jpg",
+  "phash": "822789941848697293150509703095579843804292972741628685027635711"
+ },
+ {
+  "date": "2026-08-30",
+  "kind": "story",
+  "card": "23-lake-ashton-story.jpg",
+  "src": "golf-carts-lake-ashton-community-guide.jpg",
+  "phash": "87748275278756827440665014856989684381940426073239770590669366939059921887200"
+ },
+ {
+  "date": "2026-09-01",
+  "kind": "post",
+  "card": "25-venta-polk-es.jpg",
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055"
+ },
+ {
+  "date": "2026-09-01",
+  "kind": "story",
+  "card": "24-davenport-story.jpg",
+  "src": "golf-carts-davenport-fl.jpg",
+  "phash": "822789941848697293150509703095579843804292972741628685027635711"
+ },
+ {
+  "date": "2026-09-03",
+  "kind": "post",
+  "card": "26-familiar-es.jpg",
+  "src": "carrito-golf-familiar-4-6-plazas-florida.jpg",
+  "phash": "57869142258868169884726860778149978316637041337003826362627116132586110271487"
+ },
+ {
+  "date": "2026-09-03",
+  "kind": "story",
+  "card": "25-venta-polk-es-story.jpg",
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055"
+ },
+ {
+  "date": "2026-09-05",
+  "kind": "post",
+  "card": "27-batteries-carryout.jpg",
+  "src": "golf-cart-batteries-polk-county-carry-out.jpg",
+  "phash": "199655039357344138455855115572319720874095095579312336456930219447507976191"
+ },
+ {
+  "date": "2026-09-05",
+  "kind": "story",
+  "card": "26-familiar-es-story.jpg",
+  "src": "carrito-golf-familiar-4-6-plazas-florida.jpg",
+  "phash": "57869142258868169884726860778149978316637041337003826362627116132586110271487"
+ },
+ {
+  "date": "2026-09-09",
+  "kind": "post",
+  "card": "28-repair-service.jpg",
+  "src": "golf-cart-repair-service-polk-county.jpg",
+  "phash": "115763598828238567070046353278839872645352501114747141786588715788528678305821"
+ },
+ {
+  "date": "2026-09-09",
+  "kind": "story",
+  "card": "27-batteries-carryout-story.jpg",
+  "src": "golf-cart-batteries-polk-county-carry-out.jpg",
+  "phash": "199655039357344138455855115572319720874095095579312336456930219447507976191"
+ },
+ {
+  "date": "2026-09-11",
+  "kind": "post",
+  "card": "29-poinciana-es.jpg",
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772"
+ },
+ {
+  "date": "2026-09-11",
+  "kind": "story",
+  "card": "28-repair-service-story.jpg",
+  "src": "golf-cart-repair-service-polk-county.jpg",
+  "phash": "115763598828238567070046353278839872645352501114747141786588715788528678305821"
+ },
+ {
+  "date": "2026-09-13",
+  "kind": "post",
+  "card": "30-lake-wales.jpg",
+  "src": "golf-carts-lake-wales-fl.jpg",
+  "phash": "115778837031300795028881586160503031279368068694032190754604177889140633714177"
+ },
+ {
+  "date": "2026-09-13",
+  "kind": "story",
+  "card": "29-poinciana-es-story.jpg",
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772"
+ },
+ {
+  "date": "2026-09-15",
+  "kind": "post",
+  "card": "31-best-communities.jpg",
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055"
+ },
+ {
+  "date": "2026-09-15",
+  "kind": "story",
+  "card": "30-lake-wales-story.jpg",
+  "src": "golf-carts-lake-wales-fl.jpg",
+  "phash": "115778837031300795028881586160503031279368068694032190754604177889140633714177"
+ },
+ {
+  "date": "2026-09-17",
+  "kind": "post",
+  "card": "32-haines-city.jpg",
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699"
+ },
+ {
+  "date": "2026-09-17",
+  "kind": "story",
+  "card": "31-best-communities-story.jpg",
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055"
+ },
+ {
+  "date": "2026-09-19",
+  "kind": "post",
+  "card": "33-gas-vs-electric.jpg",
+  "src": "gas-vs-electric-golf-carts-florida.jpg",
+  "phash": "115792089237293145554286021687322520251910208582324598035940730952098835906568"
+ },
+ {
+  "date": "2026-09-19",
+  "kind": "story",
+  "card": "34-del-webb-story.jpg",
+  "src": "golf-carts-del-webb-orlando-community-guide.jpg",
+  "phash": "115792089237290227310279801270575039167227102353611429301015155246436158799871"
+ },
+ {
+  "date": "2026-09-21",
+  "kind": "post",
+  "card": "35-cart-vs-lsv.jpg",
+  "src": "golf-cart-vs-lsv-florida.jpg",
+  "phash": "424049334655092084672795333795510219633165526102054204540605705629611851775"
+ },
+ {
+  "date": "2026-09-21",
+  "kind": "story",
+  "card": "36-carplay-screens-story.jpg",
+  "src": "golf-cart-carplay-screens-cameras.jpg",
+  "phash": "12368333852648697566715920922770708390320397114493994562350745774779793407"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "post",
+  "card": "37-lakeland.jpg",
+  "src": "carritos-de-golf-en-venta-lakeland-fl.jpg",
+  "phash": "4325351632900652947589468812619384087123768788455086182363132820125869096959"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "story",
+  "card": "38-financing-fl-story.jpg",
+  "src": "financiar-carrito-de-golf-florida.jpg",
+  "phash": "109546204723454616410183776498618616871457845338235216543383714352313901055"
+ }
+]

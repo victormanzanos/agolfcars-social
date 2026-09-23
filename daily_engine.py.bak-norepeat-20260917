@@ -430,10 +430,10 @@ def fb_mirror_story(image_url):
 
 # ── EMAIL RESUMEN ─────────────────────────────────────────────────────────
 def email_summary(html, post_path, story_path, subject):
-    pw = _secret("VICTORIA_STERLING_EMAIL_PASSWORD")
+    pw = _secret("MANZANOS_SMTP_PASSWORD")
     msg = MIMEMultipart("related")
     msg["Subject"] = subject
-    msg["From"]    = "victoriasterling@manzanos.eu"
+    msg["From"]    = "assistant@manzanosenterprises.com"
     msg["To"]      = "victor@manzanos.com"
     msg.attach(MIMEText(html, "html", "utf-8"))
     for cid, path in (("postimg", post_path), ("storyimg", story_path)):
@@ -443,9 +443,9 @@ def email_summary(html, post_path, story_path, subject):
             img.add_header("Content-Disposition", "inline", filename=os.path.basename(path))
             msg.attach(img)
         except Exception as e: print("attach failed", path, e)
-    with smtplib.SMTP_SSL("manzanos-eu.correoseguro.dinaserver.com", 465,
+    with smtplib.SMTP_SSL("manzanosenterprises-com.correoseguro.dinaserver.com", 465,
                           context=ssl.create_default_context()) as srv:
-        srv.login("victoriasterling@manzanos.eu", pw)
+        srv.login("assistant@manzanosenterprises.com", pw)
         srv.send_message(msg)
 
 
@@ -469,101 +469,6 @@ def latest_post_body():
     if not data:
         return None
     return caption_body(data[0].get("caption"))
-
-
-# ── ANTI-REPETICIÓN DE IMAGEN, 360 DÍAS (Victor, 2026-09-17) ──────────────
-# Regla: una misma FOTO no puede salir dos veces, ni en post ni en story, en
-# 360 días. Hasta hoy el motor la incumplía por diseño: el índice de story iba
-# un paso por detrás del de post, así que CADA story repetía la foto del post
-# anterior, y además había 3 pares de tarjetas distintas con la MISMA foto
-# (12-electric/32-haines-city, 25-venta-polk-es/31-best-communities,
-# 29-poinciana-es/49-insurance-florida). Nada lo detectaba: el nombre del
-# fichero era distinto y la publicación daba OK.
-#
-# Identidad de la foto = fichero fuente en raw/ (no el nombre de la tarjeta) +
-# su hash perceptual, para que una misma foto reescalada o recomprimida cuente
-# como la misma (lección de [[agolfcars-ig-engine]]: el MD5 no basta).
-NO_REPEAT_DAYS = 360
-IMAGE_INDEX = os.path.join(LOCAL, ".image_index.json")   # tarjeta → {src, phash}
-LEDGER      = os.path.join(LOCAL, ".published_images.json")
-PHASH_NEAR  = 6    # distancia de Hamming: <=6 es la misma foto, no un parecido
-
-def _ham(a, b):
-    return bin(int(a) ^ int(b)).count("1")
-
-_IDX_CACHE = None
-def image_index():
-    # WHY: se consulta una vez por candidato al escoger (cientos de tarjetas en la
-    # baraja), así que se cachea: leer el JSON en cada comparación multiplicaba los
-    # accesos a disco sin ganar nada, el fichero no cambia durante la ejecución.
-    global _IDX_CACHE
-    if _IDX_CACHE is None:
-        try:
-            _IDX_CACHE = json.load(open(IMAGE_INDEX))
-        except Exception:
-            _IDX_CACHE = {}
-    return _IDX_CACHE
-
-def ledger_load():
-    try:
-        return json.load(open(LEDGER))
-    except Exception:
-        return []
-
-def ledger_add(card, kind, date):
-    """Registra una publicación. Se llama JUSTO tras confirmar el publish, igual
-    que save_state: si un paso posterior falla, la foto ya cuenta como usada."""
-    ent = image_index().get(card)
-    if not ent:
-        return
-    led = ledger_load()
-    led.append({"date": date, "kind": kind, "card": card,
-                "src": ent["src"], "phash": ent["phash"]})
-    json.dump(led, open(LEDGER, "w"), indent=1)
-
-def recent_window(days=NO_REPEAT_DAYS):
-    """(srcs, phashes) publicados en los últimos `days` días."""
-    cut = str(datetime.date.today() - datetime.timedelta(days=days))
-    srcs, ph = set(), []
-    for e in ledger_load():
-        if e.get("date", "") >= cut:
-            srcs.add(e.get("src"))
-            if e.get("phash"):
-                ph.append(e["phash"])
-    return srcs, ph
-
-def is_repeat(card, srcs, phashes, extra_phashes=()):
-    """True si la foto de `card` ya salió dentro de la ventana."""
-    ent = image_index().get(card)
-    if not ent:
-        return False          # sin identidad conocida no bloqueamos (fail-open)
-    if ent["src"] in srcs:
-        return True
-    for p in list(phashes) + list(extra_phashes):
-        if _ham(ent["phash"], p) <= PHASH_NEAR:
-            return True
-    return False
-
-def card_phash(card):
-    ent = image_index().get(card)
-    return ent["phash"] if ent else None
-
-def pick_fresh(items, idx, srcs, phashes, extra_phashes=()):
-    """Avanza desde idx hasta la primera entrada cuya foto NO se haya publicado
-    en la ventana. Devuelve (entrada, nuevo_idx, agotado).
-
-    `nuevo_idx` es la posición SIGUIENTE a la elegida: devolver el índice usado
-    es lo que evita el fallo de [[ig-rotation-tail-latency]] (proponer siempre
-    la misma tarjeta al saltar entradas bloqueadas).
-    Si TODO está bloqueado no se calla: publica la más antigua y avisa."""
-    n = len(items)
-    for step in range(n):
-        i = (idx + step) % n
-        it = items[i]
-        card = it[0] if isinstance(it, (tuple, list)) else it
-        if not is_repeat(card, srcs, phashes, extra_phashes):
-            return it, i + 1, False
-    return items[idx % n], idx + 1, True
 
 
 # ── CAPTION ROTATION (anti-spam hashtags) ─────────────────────────────────
@@ -602,31 +507,17 @@ def main():
     real_path  = real_items[0][0] if real_items else None
     real_cap   = real_items[0][1] if real_items else None
 
-    # Elección con guardia de 360 días: ni el post ni la story pueden repetir
-    # una foto ya publicada, y la story del día tampoco puede repetir la del
-    # post de hoy (por eso el post entra como extra_phashes).
-    _srcs, _ph = recent_window()
-    (pf, cap), post_idx, post_stale = pick_fresh(POSTS, s["post"], _srcs, _ph)
-    _post_ph = [p for p in (card_phash(pf),) if p]
-    sf, story_idx, story_stale = pick_fresh(STORY_FILES, s["story"], _srcs, _ph, _post_ph)
+    pf, cap = POSTS[s["post"] % len(POSTS)]
     cap = rotate_caption(cap)
+    sf  = STORY_FILES[s["story"] % len(STORY_FILES)]
     post_url  = f"{RAW}/posts/{pf}"
     story_url = f"{RAW}/stories/{sf}"
-    if post_stale or story_stale:
-        print("⚠️ BARAJA AGOTADA: toda la rotación se publicó en los últimos "
-              f"{NO_REPEAT_DAYS} días (post_stale={post_stale}, story_stale={story_stale}). "
-              "Hacen falta imágenes nuevas — ver agolfcars-ig-content-refresh.")
 
     if do_real:
         print(f"NEXT = FOTO REAL: {os.path.basename(real_path)}  (since_real={s.get('since_real',0)} ≥ {REAL_EVERY})")
         print(f"--- CAPTION ---\n{real_cap}\n---  (story: {sf})")
     else:
-        _ix = image_index()
-        print(f"NEXT = POST MARCA: {pf}  [foto: {_ix.get(pf,{}).get('src','?')}]"
-              f"\nSTORY: {sf}  [foto: {_ix.get(sf,{}).get('src','?')}]"
-              f"\n(anti-repetición {NO_REPEAT_DAYS}d: post salta {post_idx-1-s['post']} entradas, "
-              f"story salta {story_idx-1-s['story']}; ledger {len(ledger_load())} publicaciones)"
-              f"\n--- CAPTION ---\n{cap}\n---  (real en {REAL_EVERY - s.get('since_real',0)} posts)")
+        print(f"NEXT = POST MARCA: {pf}\nSTORY: {sf}\n--- CAPTION ---\n{cap}\n---  (real en {REAL_EVERY - s.get('since_real',0)} posts)")
 
     if DRY:
         print("DRY RUN — nada publicado.")
@@ -648,10 +539,9 @@ def main():
         if body_today and latest_post_body() == body_today:
             print("Post de hoy YA es el último del feed (idempotencia API) — re-sincronizo estado, no republico.")
             s["last_date"] = today
-            s["post"] = post_idx
+            s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
             save_state(s)
-            ledger_add(pf, "post", today)   # ya salió: cuenta para los 360 días
             return
     if datetime.datetime.now().hour < 14 and random.random() < 0.40:
         print("Aplazo a franja posterior (rompe patrón horario).")
@@ -690,9 +580,8 @@ def main():
         if is_real:
             archive_real(real_path); s["since_real"] = 0
         else:
-            s["post"] = post_idx
+            s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
-            ledger_add(pf, "post", today)
         save_state(s)
         # Espejo a la Página de Facebook (no-op si no hay token de Página).
         # Va DESPUÉS de save_state: aunque FB fallara, el estado de IG ya está a salvo.
@@ -702,9 +591,8 @@ def main():
     sr = publish_image(story_url, story=True)
     story_ok = bool(sr.get("permalink") or sr.get("id"))
     if story_ok:
-        s["story"] = story_idx
+        s["story"] += 1
         save_state(s)
-        ledger_add(sf, "story", today)
         # Espejo de la story a la Pagina de Facebook (no-op si no hay token).
         fb_mirror_story(story_url)
 
