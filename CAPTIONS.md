@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 111 POSTS
+## 116 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -847,6 +847,41 @@ Link in bio.
 
 #ArtsGolfCars #StCloudFL #OsceolaCounty #GolfCart #CentralFlorida #GolfCartsForSale
 
+### `112-easy-on-easy-off.jpg`
+Choosing a golf cart for your parents? Start with the step in. 👟
+Easy to get in and out, a seat that looks after the back, light steering and brakes that take no effort. Our blog walks through what matters, one point at a time.
+Link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #SeniorLiving #CentralFlorida #GolfCartsForSale #DundeeFL
+
+### `114-test-drive-checklist.jpg`
+Never buy a golf cart you have not driven. 🔑
+Two minute walkaround, then 15 minutes behind the wheel: steering, brakes, hills, noise. On electric carts, ask about the battery and the charger. Our full checklist is on the blog.
+Test drive with us in Dundee, (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #TestDrive #CentralFlorida #DundeeFL #GolfCartsForSale
+
+### `115-lakeside-cart-path.jpg`
+Blue sky, still water, one cart on the path. ⛳
+That is the round most of us are chasing. Make sure the cart is ready for it: tires, batteries and brakes checked at our Service Center.
+Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #GolfLife #CentralFlorida #GolfCartService #FloridaGolf
+
+### `116-ready-when-you-are.jpg`
+Keys on, seat warm, ready when you are. 😄
+New and pre-owned golf cars at Central Florida's premier golf car dealership. Come sit in a few and find the one that fits.
+29630 US Hwy 27, Dundee. Link in bio.
+
+#ArtsGolfCars #GolfCart #CentralFlorida #DundeeFL #GolfCartsForSale #TheArtOfTheDrive
+
+### `117-club-car-evening-ride.jpg`
+Golden hour, Club Car. 🌅
+We are a 3x Club Car Black & Gold Elite Dealer, and the evening loop around the neighborhood is where these carts shine. Ask about financing with Sheffield Financial.
+Link in bio or (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #GolfCart #CentralFlorida #GolfCartLife #TheArtOfTheDrive
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -1272,3 +1307,62 @@ Story: golf course.
 ### `s072-golf-fairway-story.jpg`
 Story: golf fairway.
 
+### `s073-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s074-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s075-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s076-golf-cart-course-story.jpg`
+Story: golf cart course.
+
+### `s077-golf-cart-story.jpg`
+Story: golf cart.
+
+### `s078-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s079-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s080-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s081-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s082-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s083-golf-clubhouse-story.jpg`
+Story: golf clubhouse.
+
+### `s084-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s085-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s086-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s087-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s088-putting-green-story.jpg`
+Story: putting green.
+
+### `s089-putting-green-story.jpg`
+Story: putting green.
+
+### `s090-putting-green-story.jpg`
+Story: putting green.
+
+### `s091-golf-course-palm-trees-story.jpg`
+Story: golf course palm trees.
+
+### `s092-wash-day-story.jpg`
+Story: wash day.
