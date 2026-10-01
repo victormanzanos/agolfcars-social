@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 116 POSTS
+## 125 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -882,6 +882,71 @@ Link in bio or (863) 439-5431.
 
 #ArtsGolfCars #ClubCar #GolfCart #CentralFlorida #GolfCartLife #TheArtOfTheDrive
 
+### `118-transport-or-delivery.jpg`
+Need to move your golf cart? Think before you load it. 🚚
+A proper trailer with tie-downs is the safest way, and a pickup bed almost never is. Get the straps, the battery and the ramps wrong and a short trip turns into a repair.
+Or skip the hassle: we deliver, and we can pick your cart up for service too. Our full guide is on the blog, link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #GolfCartTransport #CentralFlorida #PolkCounty #GolfCartLife #DundeeFL
+
+### `119-what-year-club-car.jpg`
+What year is your Club Car? The serial number knows. 🔎
+The letters at the start of the serial identify the model, and the next digits give the model year and production week. That matters for parts, batteries and resale value.
+Buying a used Club Car? Check the serial before you pay. Can't read the decal? Bring it to our Service Center in Dundee and we will look it up.
+Guide on the blog, link in bio.
+
+#ArtsGolfCars #ClubCar #ClubCarSerial #UsedGolfCarts #GolfCart #CentralFlorida #DundeeFL
+
+### `120-seasonal-checkup.jpg`
+Your cart worked hard all summer. Give it a checkup. 🔧
+Our shop's list: batteries first, then tires and pressure, brakes and steering, lights for shorter evenings, wiring and rust after the rains, and the roof, windshield and seats.
+Some of it you can do at home. The rest is what our technicians do every day.
+Book service at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartService #GolfCartMaintenance #CentralFlorida #PolkCounty #DundeeFL #GolfCart
+
+### `121-cart-path-morning.jpg`
+Early tee time, empty cart path, nowhere else to be. ☀️
+That first quiet ride of the morning is a big part of why Central Florida loves its golf cars.
+Find yours at Art's Golf Cars, new and pre-owned, at 29630 US Hwy 27 in Dundee. Inventory through the link in bio.
+
+#ArtsGolfCars #GolfCart #GolfCartLife #MorningRound #CentralFlorida #FloridaGolf #DundeeFL
+
+### `123-course-from-above.jpg`
+Every green, every pond, every bend in the cart path. ⛳
+On a course like this, a golf car is not a luxury, it is how the round works.
+New and pre-owned golf cars, service, parts and financing with Sheffield Financial, all at Art's Golf Cars in Dundee. Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #GolfCourse #FloridaGolf #CentralFlorida #PolkCounty #GolfCartsForSale
+
+### `125-rolling-greens.jpg`
+Rolling greens and a winding path ahead. 🌿
+Hills are where a healthy battery and good brakes really show. If your cart slows down on the climbs, our Service Center can tell you why.
+Book a check at (863) 439-5431 or stop by 29630 US Hwy 27, Dundee.
+
+#ArtsGolfCars #GolfCart #GolfCartService #GolfCartBatteries #CentralFlorida #DundeeFL #GolfCartLife
+
+### `127-shade-under-oaks.jpg`
+Florida rule number one: find the shade. 🌳
+A good roof keeps you cool between shots, and the right accessories make every ride more comfortable. Ask us about roofs, enclosures, seats and more from our Parts & Accessories department.
+Visit us in Dundee or call (863) 439-5431.
+
+#ArtsGolfCars #GolfCartAccessories #GolfCart #FloridaLiving #CentralFlorida #PolkCounty #DundeeFL
+
+### `129-community-from-above.jpg`
+Fairways in the backyard, the course a short ride from the front door. 🏡
+That is everyday life in so many Central Florida communities, and a golf car is how neighbors get around.
+New and pre-owned golf cars, plus nationwide shipping, at Art's Golf Cars. Browse the inventory through the link in bio.
+
+#ArtsGolfCars #GolfCartCommunity #GolfCart #FloridaLiving #CentralFlorida #PolkCounty #DundeeFL
+
+### `130-tee-time-swing.jpg`
+Blue sky, green fairway, full swing. 🏌️
+You bring the game, we will bring the ride. Art's Golf Cars is a 3× Club Car Black & Gold Elite Dealer in Dundee, with new and pre-owned golf cars and financing through Sheffield Financial.
+Call (863) 439-5431 or visit 29630 US Hwy 27.
+
+#ArtsGolfCars #ClubCar #GolfCart #FloridaGolf #CentralFlorida #DundeeFL #TheArtOfTheDrive
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -1366,3 +1431,43 @@ Story: golf course palm trees.
 
 ### `s092-wash-day-story.jpg`
 Story: wash day.
+
+### `s093-px20121987-story.jpg`
+Golf cart among the flowers · Florida living
+
+### `s094-px6255521-story.jpg`
+Golf cart on the open course
+
+### `s095-px14376358-story.jpg`
+Wide fairway and blue sky
+
+### `s096-px30432214-story.jpg`
+Palm-lined path at dusk
+
+### `s097-px1576955-story.jpg`
+Lone palm on the beach
+
+### `s098-px11663815-story.jpg`
+Pink Florida sunset through the palms
+
+### `s099-px30604921-story.jpg`
+Sunset over the water and palms
+
+### `s100-px38412874-story.jpg`
+Palms, pool and Florida blue
+
+### `s101-px29882808-story.jpg`
+Tall palm against the sky
+
+### `s102-px23531994-story.jpg`
+Palm silhouettes at sunset
+
+### `s103-px11331470-story.jpg`
+Looking up through the palms
+
+### `s104-px19314648-story.jpg`
+Palm trees at golden hour
+
+### `s105-px2657617-story.jpg`
+Palm crowns at twilight
+
