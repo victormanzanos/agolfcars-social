@@ -523,5 +523,19 @@
   "card": "44-dundee-home-story.jpg",
   "src": "golf-carts-dundee-fl.jpg",
   "phash": "115452841188094654141528997120316128532269982260132125861839868226828968592635"
+ },
+ {
+  "date": "2026-10-01",
+  "kind": "post",
+  "card": "45-battery-honest.jpg",
+  "src": "baterias-litio-carrito-de-golf-florida.jpg",
+  "phash": "115792085786245548726145091900033673175697891894282777025932524288277580152824"
+ },
+ {
+  "date": "2026-10-01",
+  "kind": "story",
+  "card": "46-bartow-story.jpg",
+  "src": "golf-carts-bartow-fl.jpg",
+  "phash": "114943947646272238960020198517741188974253533296970236881103962404052491303103"
  }
 ]
