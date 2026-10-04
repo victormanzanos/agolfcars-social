@@ -537,5 +537,19 @@
   "card": "46-bartow-story.jpg",
   "src": "golf-carts-bartow-fl.jpg",
   "phash": "114943947646272238960020198517741188974253533296970236881103962404052491303103"
+ },
+ {
+  "date": "2026-10-03",
+  "kind": "post",
+  "card": "47-polk-outdoors.jpg",
+  "src": "polk-county-outdoor-spots-sunsets.jpg",
+  "phash": "1809251394385722377254649470529955709905650408634699007133723900630668410879"
+ },
+ {
+  "date": "2026-10-03",
+  "kind": "story",
+  "card": "48-used-ezgo-story.jpg",
+  "src": "used-ezgo-golf-carts-central-florida.jpg",
+  "phash": "6502100725211857759785438065677381222307832033074467940936125122814906172411"
  }
 ]
