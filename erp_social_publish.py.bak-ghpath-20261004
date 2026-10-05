@@ -43,10 +43,6 @@ DRY     = os.environ.get("DRY") == "1"
 MAIL_TO = ["laura@manzanos.com", "victor@manzanos.com"]
 
 
-# WHY: launchd no trae /usr/local/bin en el PATH (ver daily_engine.py, 2026-10-04).
-import os as _os, shutil as _sh
-GH = _sh.which("gh") or next((c for c in ("/usr/local/bin/gh", "/opt/homebrew/bin/gh") if _os.path.exists(c)), "gh")
-
 def secret(name):
     return subprocess.check_output([SECRETS, "get", name]).decode().strip()
 
@@ -85,7 +81,7 @@ def upload_card_to_repo(local_path, remote_name):
         content_b64 = base64.b64encode(f.read()).decode()
     remote_path = "erp/" + remote_name
     sha = None
-    probe = subprocess.run([GH, "api", "/repos/%s/contents/%s" % (REPO, remote_path)],
+    probe = subprocess.run(["gh", "api", "/repos/%s/contents/%s" % (REPO, remote_path)],
                            capture_output=True, text=True)
     if probe.returncode == 0:
         try:    sha = json.loads(probe.stdout).get("sha")
@@ -98,7 +94,7 @@ def upload_card_to_repo(local_path, remote_name):
     body = {"message": "ERP social card " + remote_name, "content": content_b64}
     if sha:
         body["sha"] = sha
-    args = [GH, "api", "--method", "PUT", "/repos/%s/contents/%s" % (REPO, remote_path),
+    args = ["gh", "api", "--method", "PUT", "/repos/%s/contents/%s" % (REPO, remote_path),
             "--input", "-"]
     r = subprocess.run(args, input=json.dumps(body), capture_output=True, text=True)
     if r.returncode != 0:
