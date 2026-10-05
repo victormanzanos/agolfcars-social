@@ -22,6 +22,11 @@ EXPECTED_USERNAME = "agolfcars"          # WHY: el panel de Meta lista varias cu
 EXPECTED_ACCOUNT_ID = "17841447520259580"  # id de la cuenta de negocio usado por el motor
 
 
+# WHY: launchd corre con PATH=/usr/bin:/bin:/usr/sbin:/sbin y sshpass vive en /usr/local/bin;
+# con el nombre a secas la sincronizacion diaria del token al servidor fallaba (FileNotFoundError).
+import os as _os, shutil as _sh
+SSHPASS = _sh.which("sshpass") or next((c for c in ("/usr/local/bin/sshpass", "/opt/homebrew/bin/sshpass") if _os.path.exists(c)), "sshpass")
+
 def sh(args, **kw):
     return subprocess.run(args, capture_output=True, text=True, **kw)
 
@@ -43,7 +48,7 @@ def store_keychain(tok):
 def _ssh(remote, stdin=None):
     host = sh([SECRETS, "get", "GODADDY_VPS_HOST"]).stdout.strip()
     env = {**os.environ, "SSHPASS": sh([SECRETS, "get", "AGOLFCARS_CPANEL_PASSWORD"]).stdout.strip()}
-    return subprocess.run(["sshpass", "-e", "ssh", "-o", "StrictHostKeyChecking=no", f"agolfcars@{host}", remote],
+    return subprocess.run([SSHPASS, "-e", "ssh", "-o", "StrictHostKeyChecking=no", f"agolfcars@{host}", remote],
                           input=stdin, capture_output=True, text=True, env=env, timeout=90)
 
 
