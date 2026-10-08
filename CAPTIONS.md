@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 125 POSTS
+## 133 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -947,6 +947,62 @@ Call (863) 439-5431 or visit 29630 US Hwy 27.
 
 #ArtsGolfCars #ClubCar #GolfCart #FloridaGolf #CentralFlorida #DundeeFL #TheArtOfTheDrive
 
+### `131-club-car-black-gold-dealer.jpg`
+Where you buy your Club Car matters as much as the model. 🏆
+Art's Golf Cars is a 3x Club Car Black & Gold Elite Dealer, which means real inventory on the lot, a Service Center after the sale and financing with Sheffield Financial.
+Visit us at 29630 US Hwy 27, Dundee, or call (863) 439-5431. Read the full guide through the link in bio.
+
+#ArtsGolfCars #ClubCar #ClubCarDealer #GolfCartsForSale #CentralFlorida #DundeeFL #PolkCounty
+
+### `132-enclosures-windshields.jpg`
+Florida rain, Florida sun, and the odd cool morning. 🌧️☀️
+A windshield is the first upgrade most owners make. A full enclosure turns your cart into a cabin for the rainy afternoons.
+Our Dundee shop can walk you through types, fit and care. Ask for a quote at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartAccessories #GolfCartEnclosure #GolfCart #CentralFlorida #DundeeFL #PolkCounty
+
+### `134-instead-of-second-car.jpg`
+Could a golf cart replace your second car? 🚗
+For short trips around the community, to the club or the store, it often can. For highways and long errands, the car still wins. Golf cart or LSV makes a big difference too.
+Read the honest answer through the link in bio, then come try one at Art's Golf Cars in Dundee.
+
+#ArtsGolfCars #GolfCartLife #GolfCart #LSV #CentralFlorida #DundeeFL #GolfCartsForSale
+
+### `135-service-bought-elsewhere.jpg`
+Bought your cart somewhere else? We still service it. 🔧
+Private seller, online or another store, our technicians in Dundee work on carts we did not sell, including lithium.
+Bring your paperwork and the serial number, and book at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartService #GolfCartRepair #GolfCartMaintenance #PolkCounty #DundeeFL #CentralFlorida
+
+### `136-utility-vehicles.jpg`
+Farm, HOA, grounds crew or business? You might need a utility vehicle, not a passenger cart. 🧰
+Payload, bed size, lithium vs gas, tires and service all decide the real cost. Our buyer's guide breaks it down.
+Read it through the link in bio or talk to our team at (863) 439-5431.
+
+#ArtsGolfCars #UtilityVehicle #ClubCar #Carryall #CentralFlorida #PolkCounty #DundeeFL
+
+### `137-club-car-cart-path.jpg`
+A Club Car, a quiet cart path and the whole back nine ahead. ⛳
+This is what a good golf car is for: easy, comfortable rides that never get in the way of the round.
+Art's Golf Cars is a 3x Club Car Black & Gold Elite Dealer in Dundee. See new and pre-owned inventory through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #GolfCart #FloridaGolf #CentralFlorida #DundeeFL #GolfCartsForSale
+
+### `138-four-seater-fairway.jpg`
+Room for the whole foursome. 🚙
+A four-seat golf car means nobody walks to the next tee, and the same cart takes everyone to the clubhouse, the pool or dinner in the community.
+New and pre-owned four-seaters at Art's Golf Cars, 29630 US Hwy 27, Dundee. Financing with Sheffield Financial. Call (863) 439-5431.
+
+#ArtsGolfCars #GolfCart #FourSeater #GolfCartLife #CentralFlorida #PolkCounty #GolfCartsForSale
+
+### `139-water-on-the-course.jpg`
+Florida courses love their water. Your cart should love the paths around it. 💧
+Wet grass and soft edges after the afternoon rain are where good tires and working brakes earn their keep.
+Our Service Center in Dundee checks both. Book at (863) 439-5431 or through the link in bio.
+
+#ArtsGolfCars #GolfCartService #GolfCartTires #FloridaGolf #CentralFlorida #DundeeFL #PolkCounty
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -1470,4 +1526,64 @@ Palm trees at golden hour
 
 ### `s105-px2657617-story.jpg`
 Palm crowns at twilight
+
+### `s106-px38890583-story.jpg`
+Lining up the putt by the pin
+
+### `s107-px5644640-story.jpg`
+Yellow flag on a sunny green
+
+### `s108-px6370080-story.jpg`
+Putting among the palms
+
+### `s109-px15376290-story.jpg`
+Final putt of the day
+
+### `s110-px19003910-story.jpg`
+Tee shot past the bunkers
+
+### `s111-px15376167-story.jpg`
+Chip shot to the flag
+
+### `s112-px34898099-story.jpg`
+Florida waterfront and palms
+
+### `s113-px13130869-story.jpg`
+Palm fronds and blue sky
+
+### `s114-px9554680-story.jpg`
+Looking up through green palms
+
+### `s115-px12511896-story.jpg`
+Palms on a white sand beach
+
+### `s116-px4480453-story.jpg`
+Socket set ready in the shop
+
+### `s117-px5794263-story.jpg`
+Picking the right wrench
+
+### `s118-px36514669-story.jpg`
+Big Florida sky over the fairway
+
+### `s119-px32731086-story.jpg`
+A green and its bunkers from above
+
+### `s120-px30253077-story.jpg`
+Golden sunset at the shoreline
+
+### `s121-px11286945-story.jpg`
+Two palms at sunset
+
+### `s122-px11665848-story.jpg`
+Boardwalk to a Florida sunset
+
+### `s123-px1325716-story.jpg`
+Club Car Carryall at work on the course
+
+### `s124-px39480826-story.jpg`
+Walking up to the green
+
+### `s125-px29445695-story.jpg`
+Golf community from above
 
