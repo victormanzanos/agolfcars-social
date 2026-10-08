@@ -565,5 +565,19 @@
   "card": "51-haines-city-north-story.jpg",
   "src": "golf-carts-haines-city-fl.jpg",
   "phash": "3162772261344600410782496763061519253808200701114218629649795519362303535036"
+ },
+ {
+  "date": "2026-10-07",
+  "kind": "post",
+  "card": "52-repair-polk.jpg",
+  "src": "reparacion-carritos-de-golf-polk-county.jpg",
+  "phash": "12368333858819358561840783563266154695299114544735929913783346910423597111"
+ },
+ {
+  "date": "2026-10-07",
+  "kind": "story",
+  "card": "53-clubcar-cru-story.jpg",
+  "src": "club-car-cru-vs-onward-lsv-florida.jpg",
+  "phash": "8834316205146053589458227226158071694370272949162096198219126588148017215"
  }
 ]
