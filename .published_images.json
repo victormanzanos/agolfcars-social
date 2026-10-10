@@ -579,5 +579,19 @@
   "card": "53-clubcar-cru-story.jpg",
   "src": "club-car-cru-vs-onward-lsv-florida.jpg",
   "phash": "8834316205146053589458227226158071694370272949162096198219126588148017215"
+ },
+ {
+  "date": "2026-10-09",
+  "kind": "post",
+  "card": "54-hurricane-season.jpg",
+  "src": "golf-cart-hurricane-season-florida.jpg",
+  "phash": "48315252555751856523196550243799055313358973857458085672914979825647615"
+ },
+ {
+  "date": "2026-10-09",
+  "kind": "story",
+  "card": "55-onward-2027-story.jpg",
+  "src": "club-car-onward-2027-model-year.jpg",
+  "phash": "115737310102261163950298470272565285692142797285867353143902492297654905467263"
  }
 ]
