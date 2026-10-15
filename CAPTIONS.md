@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 133 POSTS
+## 136 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1003,6 +1003,27 @@ Our Service Center in Dundee checks both. Book at (863) 439-5431 or through the 
 
 #ArtsGolfCars #GolfCartService #GolfCartTires #FloridaGolf #CentralFlorida #DundeeFL #PolkCounty
 
+### `140-davenport.jpg`
+Living in Davenport or the Four Corners area? 🌴
+Your next golf cart is a short drive away. Our new guide covers which model fits your neighborhood, what Florida law says about driving it, and how financing works.
+Read it through the link in bio, or visit us at 29630 US Hwy 27, Dundee, FL.
+
+#ArtsGolfCars #DavenportFL #FourCorners #GolfCart #PolkCounty #CentralFlorida #GolfCartsForSale #FloridaLiving
+
+### `141-winter-haven-lakes.jpg`
+Chain of Lakes living deserves the right golf cart. 🌅
+Winter Haven neighbors: our guide walks you through which carts suit lakeside life, the local rules to know, financing, and delivery from our Dundee showroom.
+Find it through the link in bio or call (863) 439-5431.
+
+#ArtsGolfCars #WinterHavenFL #ChainOfLakes #GolfCart #PolkCounty #CentralFlorida #FloridaLiving #GolfCartLife
+
+### `142-seat-covers.jpg`
+Florida sun and rain are tough on golf cart seats. ☀️🌧️
+Cover, repair or replace? Our new guide explains how vinyl wears out, what each fix is worth, and simple habits that make your seats last longer.
+Read it through the link in bio, or bring your cart to our Service Center in Dundee.
+
+#ArtsGolfCars #GolfCartSeats #GolfCartAccessories #GolfCart #CentralFlorida #DundeeFL #GolfCartLife #FloridaGolfCarts
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -1586,4 +1607,67 @@ Walking up to the green
 
 ### `s125-px29445695-story.jpg`
 Golf community from above
+
+### `s126-px37820380-story.jpg`
+Palms and water on a sunny Florida course
+
+### `s127-px15376175-story.jpg`
+Chipping on a tree-lined fairway
+
+### `s128-px20739710-story.jpg`
+Waiting his turn on the course
+
+### `s129-px15376282-story.jpg`
+Two seniors lining up a putt
+
+### `s130-px35546324-story.jpg`
+Teeing off under a big blue sky
+
+### `s131-px1325750-story.jpg`
+Placing the ball on the green
+
+### `s132-px39659350-story.jpg`
+A smooth swing on a sunny day
+
+### `s133-px31633166-story.jpg`
+A lone golf cart on the green hills
+
+### `s134-px7758348-story.jpg`
+Ball at the edge of the cup
+
+### `s135-px15376274-story.jpg`
+Lining up a putt in the sun
+
+### `s136-px15376276-story.jpg`
+Reading the green together
+
+### `s137-px20762260-story.jpg`
+Two friends on the course
+
+### `s138-px10212725-story.jpg`
+Golf bag ready on the fairway
+
+### `s139-px6542481-story.jpg`
+Walking the course with friends
+
+### `s140-px32404188-story.jpg`
+Fairway, pond and footbridge
+
+### `s141-px6542389-story.jpg`
+Teeing up in the morning light
+
+### `s142-px9207405-story.jpg`
+Golf ball waiting on the green
+
+### `s143-px39659356-story.jpg`
+Full swing on a sunny fairway
+
+### `s144-px6256851-story.jpg`
+Golfer at sunset
+
+### `s145-px18637338-story.jpg`
+Power swing on the course
+
+### `s146-px15376280-story.jpg`
+Ready to swing on the fairway
 
