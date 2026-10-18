@@ -635,5 +635,19 @@
   "card": "61-snowbird-checklist-story.jpg",
   "src": "snowbird-golf-cart-checklist-florida.jpg",
   "phash": "115792089237303841290163823626836222800642790571997310070795086270495765561343"
+ },
+ {
+  "date": "2026-10-17",
+  "kind": "post",
+  "card": "62-past-model-year.jpg",
+  "src": "past-model-year-club-car-onward.jpg",
+  "phash": "3392442988823353182340262938718737468024122315025576771929762960942878867340"
+ },
+ {
+  "date": "2026-10-17",
+  "kind": "story",
+  "card": "63-who-can-drive-story.jpg",
+  "src": "who-can-drive-golf-cart-florida.jpg",
+  "phash": "3293821642504430511594974851195410561638739100116758190796374008"
  }
 ]
