@@ -2347,5 +2347,320 @@
   "src": "s180-teko-turbolite-cabin.jpg",
   "phash": "108782909446062544738721288631042823768593086140855197686433165316106610339846",
   "kind": "story"
+ },
+ "195-teko-game-day.jpg": {
+  "src": "195-teko-game-day.jpg",
+  "phash": "223037802130970549636717397418410842905680008815084458456025598877497294847",
+  "kind": "post"
+ },
+ "196-teko-lake-road.jpg": {
+  "src": "196-teko-lake-road.jpg",
+  "phash": "5300622080551581896826530785187163672852140060706377750180918893251854336",
+  "kind": "post"
+ },
+ "197-teko-open-frunk.jpg": {
+  "src": "197-teko-open-frunk.jpg",
+  "phash": "113986343983837233512326307382330063435878965806913953461529339224896304839670",
+  "kind": "post"
+ },
+ "198-teko-shade-park.jpg": {
+  "src": "198-teko-shade-park.jpg",
+  "phash": "7067711783410094461159451050670547681509582210220267934085302847646007294",
+  "kind": "post"
+ },
+ "199-teko-long-shadows.jpg": {
+  "src": "199-teko-long-shadows.jpg",
+  "phash": "114095864277760901680367024358648145530051073588251138075530054115251959626211",
+  "kind": "post"
+ },
+ "200-teko-golden-hour.jpg": {
+  "src": "200-teko-golden-hour.jpg",
+  "phash": "115792084060163937003583281013802102834250118097792966153225371637947612331776",
+  "kind": "post"
+ },
+ "201-teko-wheel-screen.jpg": {
+  "src": "201-teko-wheel-screen.jpg",
+  "phash": "98634196209093918360365548861606169929704561980803749984800497207098243419070",
+  "kind": "post"
+ },
+ "202-teko-park-day.jpg": {
+  "src": "202-teko-park-day.jpg",
+  "phash": "22163667767836158138273967165686021124339337020918325056317674222180243832830",
+  "kind": "post"
+ },
+ "203-teko-front-lawn.jpg": {
+  "src": "203-teko-front-lawn.jpg",
+  "phash": "115792089212040834065907410618962093023354521426981467472084717775070087819983",
+  "kind": "post"
+ },
+ "204-teko-bag-rack.jpg": {
+  "src": "204-teko-bag-rack.jpg",
+  "phash": "54278370065671222942879585078091190625944439682793102573554267093399167361984",
+  "kind": "post"
+ },
+ "205-teko-porch-seat.jpg": {
+  "src": "205-teko-porch-seat.jpg",
+  "phash": "115792089236908521669524923571593320906670340036282750457603535480147028180751",
+  "kind": "post"
+ },
+ "206-teko-tee-time.jpg": {
+  "src": "206-teko-tee-time.jpg",
+  "phash": "6528187337321075384201903027667482306661623694665784831770623",
+  "kind": "post"
+ },
+ "207-teko-fairway.jpg": {
+  "src": "207-teko-fairway.jpg",
+  "phash": "6901114473040599952331092211954633235334139029535543792117935631237119",
+  "kind": "post"
+ },
+ "208-teko-blue-friends.jpg": {
+  "src": "208-teko-blue-friends.jpg",
+  "phash": "115792089237316195423570889273023176815667866040007715155687588998600919613949",
+  "kind": "post"
+ },
+ "209-teko-blue-ride.jpg": {
+  "src": "209-teko-blue-ride.jpg",
+  "phash": "6812855301557705964801343060287210686401243826897099978317577420551042891775",
+  "kind": "post"
+ },
+ "210-teko-red-wheel.jpg": {
+  "src": "210-teko-red-wheel.jpg",
+  "phash": "57896928042190898298921661974253931722457705100677312054811858441396983693311",
+  "kind": "post"
+ },
+ "s181-teko-field-story.jpg": {
+  "src": "s181-teko-field.jpg",
+  "phash": "13749782605266700704973485600994671209619469757341689395754556199272447",
+  "kind": "story"
+ },
+ "s183-teko-distance-story.jpg": {
+  "src": "s183-teko-distance.jpg",
+  "phash": "5301376953915981908166985169794538792115756759500984940829954602702995452",
+  "kind": "story"
+ },
+ "s184-teko-group-white-story.jpg": {
+  "src": "s184-teko-group-white.jpg",
+  "phash": "2966496455210059451779783000673890708116797534500928871503872900519954415612",
+  "kind": "story"
+ },
+ "s185-teko-front-right-story.jpg": {
+  "src": "s185-teko-front-right.jpg",
+  "phash": "80881074129894431668460303774240437459328730319949126256589484328896",
+  "kind": "story"
+ },
+ "s186-teko-storage-load-story.jpg": {
+  "src": "s186-teko-storage-load.jpg",
+  "phash": "848583087153253595522202404112202314349239115328453877036235692381554343944",
+  "kind": "story"
+ },
+ "s187-teko-rear-left-story.jpg": {
+  "src": "s187-teko-rear-left.jpg",
+  "phash": "115622447789156993907105360138960721916389847587481217378434637674341461917679",
+  "kind": "story"
+ },
+ "s188-teko-loading-clubs-story.jpg": {
+  "src": "s188-teko-loading-clubs.jpg",
+  "phash": "114888885321380849986786807288720312001223889254717759186189852903157102866207",
+  "kind": "story"
+ },
+ "s189-teko-dawn-story.jpg": {
+  "src": "s189-teko-dawn.jpg",
+  "phash": "151122587917493406574300644721188539465727",
+  "kind": "story"
+ },
+ "s190-teko-bags-loaded-story.jpg": {
+  "src": "s190-teko-bags-loaded.jpg",
+  "phash": "115790322813823711739701491488522332398378822051235814195765683728623521548154",
+  "kind": "story"
+ },
+ "s191-teko-on-course-story.jpg": {
+  "src": "s191-teko-on-course.jpg",
+  "phash": "2993163916870515232695973756483732753113278392041471",
+  "kind": "story"
+ },
+ "s192-teko-cup-detail-story.jpg": {
+  "src": "s192-teko-cup-detail.jpg",
+  "phash": "3533909821883161650847063918002869814131365200169041962471867537762287615",
+  "kind": "story"
+ },
+ "s193-teko-scorecard-story.jpg": {
+  "src": "s193-teko-scorecard.jpg",
+  "phash": "54773094825510677261747303462890295742385922236955627018544073108207238391",
+  "kind": "story"
+ },
+ "s194-teko-blue-lawn-story.jpg": {
+  "src": "s194-teko-blue-lawn.jpg",
+  "phash": "450601215486381898383826654601265552672140335543499245167077208725812117503",
+  "kind": "story"
+ },
+ "s195-teko-blue-street2-story.jpg": {
+  "src": "s195-teko-blue-street2.jpg",
+  "phash": "26328072917138550212580264408169024962729051857872606014428217088",
+  "kind": "story"
+ },
+ "s196-teko-red-ride-story.jpg": {
+  "src": "s196-teko-red-ride.jpg",
+  "phash": "6784692829852037026942579843053475460492445826814404568324757684702326816767",
+  "kind": "story"
+ },
+ "211-teko-group-red.jpg": {
+  "src": "211-teko-group-red.jpg",
+  "phash": "5894406176054649200297125473507730049422194830856689349517234929663",
+  "kind": "post"
+ },
+ "212-teko-red-road.jpg": {
+  "src": "212-teko-red-road.jpg",
+  "phash": "115792089210356248756420345377709076147311636609793756178901054848771234463743",
+  "kind": "post"
+ },
+ "213-teko-soccer.jpg": {
+  "src": "213-teko-soccer.jpg",
+  "phash": "12654637098539639829264578632787356882701375298634681533071359",
+  "kind": "post"
+ },
+ "214-teko-picnic-group.jpg": {
+  "src": "214-teko-picnic-group.jpg",
+  "phash": "43592092547898386113001342219731842071736310092479467271795525252521712812031",
+  "kind": "post"
+ },
+ "215-teko-house-picnic.jpg": {
+  "src": "215-teko-house-picnic.jpg",
+  "phash": "54772663409798178312660952937405052130936474795747290783753811222232760319",
+  "kind": "post"
+ },
+ "216-teko-green-kids.jpg": {
+  "src": "216-teko-green-kids.jpg",
+  "phash": "4297413348675209679493118578746623482640594279268795650873727320887188848624",
+  "kind": "post"
+ },
+ "217-teko-evening-street.jpg": {
+  "src": "217-teko-evening-street.jpg",
+  "phash": "704972059726492488160810556340126471622204324696257669389346882542682248055",
+  "kind": "post"
+ },
+ "218-teko-blue-group.jpg": {
+  "src": "218-teko-blue-group.jpg",
+  "phash": "65134540986050690482796427450069715570334166810570139375280099789743459532737",
+  "kind": "post"
+ },
+ "219-teko-blue-lakeside.jpg": {
+  "src": "219-teko-blue-lakeside.jpg",
+  "phash": "54773094772698754152297326422184616638684589721615244593874998824133394302",
+  "kind": "post"
+ },
+ "220-teko-blue-driving.jpg": {
+  "src": "220-teko-blue-driving.jpg",
+  "phash": "97588207204271480494793348955476250404971704420242237939683267274334510567032",
+  "kind": "post"
+ },
+ "221-teko-green-sunlit.jpg": {
+  "src": "221-teko-green-sunlit.jpg",
+  "phash": "890497707867484282448728802317373074960448129516078117504955029417132818367",
+  "kind": "post"
+ },
+ "222-teko-green-couple.jpg": {
+  "src": "222-teko-green-couple.jpg",
+  "phash": "64929638823859640784779241576699557741475316382172917302582110497567391351807",
+  "kind": "post"
+ },
+ "223-teko-lake-picnic.jpg": {
+  "src": "223-teko-lake-picnic.jpg",
+  "phash": "110346728646018072008914250884580640619976463572294817418552410659021530136573",
+  "kind": "post"
+ },
+ "224-teko-white-trees.jpg": {
+  "src": "224-teko-white-trees.jpg",
+  "phash": "68752878133435253883463719191504560404892001255704889890080675434669591690398",
+  "kind": "post"
+ },
+ "225-teko-white-family.jpg": {
+  "src": "225-teko-white-family.jpg",
+  "phash": "173570697837635819602464877361703709547511671420601463417873697293557816831",
+  "kind": "post"
+ },
+ "226-teko-white-lakeside.jpg": {
+  "src": "226-teko-white-lakeside.jpg",
+  "phash": "112196003344374779072538285985147160810499723477664760191917363631245087350835",
+  "kind": "post"
+ },
+ "s197-teko-ambient-seats-story.jpg": {
+  "src": "s197-teko-ambient-seats.jpg",
+  "phash": "28270847133640936723646569902206478563986949226745317071242468488701280255",
+  "kind": "story"
+ },
+ "s198-teko-flag-story.jpg": {
+  "src": "s198-teko-flag.jpg",
+  "phash": "49482076540081242560191427215408131920739740741569636042308917117054877695",
+  "kind": "story"
+ },
+ "s199-teko-flags-couple-story.jpg": {
+  "src": "s199-teko-flags-couple.jpg",
+  "phash": "9873824833153682781663972576909376116235558915553767010678603775",
+  "kind": "story"
+ },
+ "s200-teko-two-women-story.jpg": {
+  "src": "s200-teko-two-women.jpg",
+  "phash": "18064627009220841357532443671030522737071700812162895042832365218256660725763",
+  "kind": "story"
+ },
+ "s201-teko-street-dusk-story.jpg": {
+  "src": "s201-teko-street-dusk.jpg",
+  "phash": "86845723778469522977397544370190475565460371658154978599454010239024227188718",
+  "kind": "story"
+ },
+ "s202-teko-lights-night-story.jpg": {
+  "src": "s202-teko-lights-night.jpg",
+  "phash": "51452146314284179271272186255699693350889645141213851776452382910008061329408",
+  "kind": "story"
+ },
+ "s203-teko-blue-lawn2-story.jpg": {
+  "src": "s203-teko-blue-lawn2.jpg",
+  "phash": "115567685882714482641203495893319993934527211359405192651767433411394496618527",
+  "kind": "story"
+ },
+ "s204-teko-blue-trees-story.jpg": {
+  "src": "s204-teko-blue-trees.jpg",
+  "phash": "842498333348510693701456366059624208844927769640574097716728561663",
+  "kind": "story"
+ },
+ "s205-teko-pedals-story.jpg": {
+  "src": "s205-teko-pedals.jpg",
+  "phash": "4047860079259061855671626070978922873798767212736984279637174954917076334626",
+  "kind": "story"
+ },
+ "s206-teko-console-story.jpg": {
+  "src": "s206-teko-console.jpg",
+  "phash": "411382024202974557493707714578225662591034087851951064337940380",
+  "kind": "story"
+ },
+ "s207-teko-path-story.jpg": {
+  "src": "s207-teko-path.jpg",
+  "phash": "3614969094122305723078367314098335663735479701102268915466345543650152349632",
+  "kind": "story"
+ },
+ "s208-teko-white-group-story.jpg": {
+  "src": "s208-teko-white-group.jpg",
+  "phash": "110364328099381362754265235097462631109842542015647008511746555575798250405852",
+  "kind": "story"
+ },
+ "s209-teko-kids-seat-story.jpg": {
+  "src": "s209-teko-kids-seat.jpg",
+  "phash": "27139185673348359892929622587374868662913903554312135199075720370042873708541",
+  "kind": "story"
+ },
+ "s210-teko-trunk-open-story.jpg": {
+  "src": "s210-teko-trunk-open.jpg",
+  "phash": "3616749718140270499599554585658250863744936620231812171160402276634161512451",
+  "kind": "story"
+ },
+ "s211-teko-loading-white-story.jpg": {
+  "src": "s211-teko-loading-white.jpg",
+  "phash": "114931628596846830628062357507184614437075336996785117719973971877401666208511",
+  "kind": "story"
+ },
+ "s212-teko-cupholder2-story.jpg": {
+  "src": "s212-teko-cupholder2.jpg",
+  "phash": "224391275716247695258216054301391503282101448824697456904599199246693900279",
+  "kind": "story"
  }
 }
