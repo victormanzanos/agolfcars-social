@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 153 POSTS
+## 188 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1178,6 +1178,181 @@ Call (863) 439-5431 or tap the link in bio.
 
 #ArtsGolfCars #GolfCartLife #ClubCar #FloridaGolf #CentralFlorida #GolfCartsForSale
 
+### `160-teko-coast.jpg`
+TEKO on the coast road, four seats and a 10.1 inch screen with Apple CarPlay. We are your authorized TEKO dealer in Dundee. Call (863) 439-5431.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts #electricvehicle
+
+### `161-teko-palms.jpg`
+Lithium power, four wheel disc brakes and up to 40 miles on a charge. The TEKO line is at Art's Golf Cars in Dundee.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #WinterHaven #lithium #golfcarts
+
+### `162-teko-driveway.jpg`
+Parked where it belongs. TEKO builds five models, from the two seat Turbo Lite to the six seat Triumph, and we stock and service them all.
+
+#ArtsGolfCars #TEKO #golfcart #Dundee #Florida #HainesCity #golfcarts
+
+### `163-teko-beach-run.jpg`
+Beach run in a TEKO Turbo. Two forward seats, two rear facing, 25 percent climbing ability.
+
+#ArtsGolfCars #TEKO #TekoTurbo #golfcart #Florida #beachlife #golfcarts
+
+### `164-teko-lakeside-sunset.jpg`
+Last light by the water. Ask us about the TEKO Trophy, four seats all facing forward, 118 inches long.
+
+#ArtsGolfCars #TEKO #TekoTrophy #golfcart #Florida #LakeWales #sunset #golfcarts
+
+### `165-teko-community.jpg`
+How Florida actually moves. TEKO comes with integrated turn signals, a rear camera and ambient lighting as standard.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Davenport #PolkCounty #golfcarts
+
+### `166-teko-blue-street.jpg`
+Gulf Blue, one of five TEKO factory colors. Financing through Sheffield and nationwide shipping to your driveway.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #financing #golfcarts
+
+### `167-teko-turbolite-green.jpg`
+The TEKO Turbo Lite is built around golf: folding windshield, two bag holders, ball and tee holders. Two or four seats.
+
+#ArtsGolfCars #TEKO #TurboLite #golfcart #golf #Florida #PolkCounty #golfcarts
+
+### `168-teko-turbolite-putting.jpg`
+Your cart should be the easy part of the round. Turbo Lite, 109 inches, road tires, key ignition.
+
+#ArtsGolfCars #TEKO #TurboLite #golf #golfcart #Florida #WinterHaven #golfcarts
+
+### `169-teko-night-ride.jpg`
+Ambient lighting comes standard on the TEKO Turbo, Trophy, Trophy Plus and Triumph. Nights out look different.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #nightride #Dundee #golfcarts
+
+### `170-teko-red-mural.jpg`
+Torch Red Metallic. Five colors across the TEKO range, and we will tell you straight what is available this production run.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #red #Dundee #golfcarts
+
+### `171-teko-waterside-group.jpg`
+Six seats when you need them. The TEKO Trophy Plus seats four forward and two rear facing, with 1,332 lb of load capacity.
+
+#ArtsGolfCars #TEKO #TrophyPlus #golfcart #Florida #family #golfcarts
+
+### `172-teko-lakeside-couple.jpg`
+8 year battery warranty from TEKO, 9 service bays from us, and 30,000 golf cars sold since 1987.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #service #golfcarts
+
+### `173-teko-red-couple.jpg`
+Torch Red Metallic and two up front. The TEKO Turbo seats four, two forward and two rear facing.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `174-teko-red-field.jpg`
+Room for the whole afternoon. Large storage front and rear comes standard on the TEKO Turbo.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `175-teko-picnic.jpg`
+Load it, drive it, unload it. The front trunk on a TEKO holds more than people expect.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `176-teko-two-up.jpg`
+Premium TEKO seats and a 10.1 inch screen with Apple CarPlay and Android Auto, standard.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `177-teko-fourth-july.jpg`
+Fourth of July the Florida way. Ask us which TEKO fits your community.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `178-teko-turquoise-house.jpg`
+Parked out front and ready. Five TEKO models in stock or on order at Art's Golf Cars.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `179-teko-turquoise-friends.jpg`
+Six seats, four seats or two. The TEKO range covers all three.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `180-teko-blue-lake.jpg`
+Gulf Blue by the water. Lithium battery, up to 40 miles, about 5 hours to charge.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `181-teko-blue-walkup.jpg`
+One touch start and you are moving. No key hunting on the TEKO Turbo, Trophy or Triumph.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `182-teko-blue-front.jpg`
+LED lighting front and rear, integrated turn signals, rear camera. All standard.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `183-teko-motion.jpg`
+Four wheel disc brakes on every TEKO we sell. Worth knowing before you buy.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `184-teko-cruising.jpg`
+Cruising weather is most of the year here. Financing through Sheffield Financial.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `185-teko-kids-aboard.jpg`
+Running boards and seat belts come standard. Ask us to walk you through the safety kit.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `186-teko-seaside-street.jpg`
+Seaside streets and a 5 kW TEKO motor. We ship nationwide to your driveway.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `187-teko-grocery-run.jpg`
+The grocery run, solved. TEKO front trunk plus rear storage.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `188-teko-white-road.jpg`
+Moonlight White. Five factory colors across the TEKO line, availability changes by run.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `189-teko-couple-cabin.jpg`
+Tilt steering, ambient lighting, Bluetooth stereo with sound bar. Standard on four of the five models.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `190-teko-family-park.jpg`
+Park days are better with six seats. Ask us about the TEKO Trophy Plus and the Triumph.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `191-teko-palm-house.jpg`
+Built for how Florida lives. Authorized TEKO dealer, 9 service bays, Dundee.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `192-teko-white-drive.jpg`
+25 percent climbing ability on the Turbo and the Trophy, 30 percent on the Trophy Plus and Triumph.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `193-teko-porch.jpg`
+We have sold more than 30,000 golf cars since 1987 and we service everything we sell.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `194-teko-palm-street.jpg`
+Palm trees and a quiet motor. Call (863) 439-5431 and we will find your TEKO.
+
+#ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -1824,4 +1999,106 @@ Power swing on the course
 
 ### `s146-px15376280-story.jpg`
 Ready to swing on the fairway
+
+### `s147-teko-dusk-course-story.jpg`
+TEKO Turbo Lite on the course at dusk
+
+### `s148-teko-sunset-front-story.jpg`
+Turbo Lite at sunset
+
+### `s149-teko-controls-story.jpg`
+One touch controls on a TEKO
+
+### `s150-teko-seats-story.jpg`
+Premium TEKO seats
+
+### `s151-teko-night-glow-story.jpg`
+TEKO ambient lighting after dark
+
+### `s152-teko-lakeside-story.jpg`
+TEKO by the lake
+
+### `s153-teko-blue-park-story.jpg`
+Gulf Blue TEKO in the park
+
+### `s154-teko-town-story.jpg`
+TEKO through town
+
+### `s155-teko-cooler-story.jpg`
+Cold drinks in the TEKO storage
+
+### `s156-teko-front-storage-story.jpg`
+Groceries in the TEKO front trunk
+
+### `s157-teko-cabin-story.jpg`
+Inside a TEKO
+
+### `s158-teko-neighborhood-story.jpg`
+TEKO in the neighborhood
+
+### `s159-teko-walkup-story.jpg`
+Heading out in a TEKO
+
+### `s160-teko-frunk-open-story.jpg`
+TEKO front trunk, open
+
+### `s161-teko-picnic-blanket-story.jpg`
+Picnic day with a TEKO
+
+### `s162-teko-night-street-story.jpg`
+TEKO lighting at night
+
+### `s163-teko-blue-nose-story.jpg`
+Gulf Blue up close
+
+### `s164-teko-hands-wheel-story.jpg`
+Hands on a TEKO wheel
+
+### `s165-teko-under-trees-story.jpg`
+TEKO parked in the shade
+
+### `s166-teko-brake-story.jpg`
+Four wheel disc brakes
+
+### `s167-teko-charge-port-story.jpg`
+Charge port on a TEKO
+
+### `s168-teko-overhead-story.jpg`
+TEKO from above
+
+### `s169-teko-dusk-water-story.jpg`
+Dusk by the water
+
+### `s170-teko-dash-detail-story.jpg`
+The 10.1 inch TEKO display
+
+### `s171-teko-loading-up-story.jpg`
+Loading up a TEKO
+
+### `s172-teko-beach-stop-story.jpg`
+Beach stop
+
+### `s173-teko-seat-detail-story.jpg`
+Stitching on a TEKO seat
+
+### `s174-teko-white-rear-story.jpg`
+TEKO from the back
+
+### `s175-teko-cup-holder-story.jpg`
+Cup holders where you need them
+
+### `s176-teko-floor-mat-story.jpg`
+TEKO floor mat
+
+### `s177-teko-seat-belt-story.jpg`
+Seat belts standard
+
+### `s178-teko-sound-bar-story.jpg`
+Sound bar overhead
+
+### `s179-teko-wheel-story.jpg`
+TEKO steering wheel
+
+### `s180-teko-turbolite-cabin-story.jpg`
+Inside a TEKO Turbo Lite
 

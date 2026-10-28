@@ -705,5 +705,19 @@
   "card": "s001-golf-cart-story.jpg",
   "src": "s001-golf-cart.jpg",
   "phash": "316007680714779626705262720946613016539122513354651774748517728199"
+ },
+ {
+  "date": "2026-10-27",
+  "kind": "post",
+  "card": "71-four-seats-or-six.jpg",
+  "src": "71-four-seats-or-six.jpg",
+  "phash": "6323447716304086189771745707753613896151537440869847138304"
+ },
+ {
+  "date": "2026-10-27",
+  "kind": "story",
+  "card": "s002-golf-course-palm-trees-story.jpg",
+  "src": "s002-golf-course-palm-trees.jpg",
+  "phash": "5892774600366561713222094483992026498231878148947968"
  }
 ]
