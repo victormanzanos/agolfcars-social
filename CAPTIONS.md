@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 224 POSTS
+## 226 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1533,6 +1533,20 @@ Wireless phone charging, four speakers, seatbelts for every seat and four-wheel 
 
 #ArtsGolfCars #BocaEV #golfcart #Florida #LakeWales #golfcarts #electricvehicle
 
+### `233-service-questions.jpg`
+Buying the golf cart is the easy part. The service desk is what you live with for years. 🔧
+Before you sign, ask the dealer 10 questions: who handles warranty work, whether their techs work on lithium batteries, which parts they keep on hand, and how they quote repairs. Our Service Center in Dundee answers all of them.
+Read the full checklist, link in bio. Call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartservice #golfcarts #CentralFlorida #Dundee #PolkCounty #TheArtOfTheDrive
+
+### `234-flip-seat.jpg`
+Grandkids on Saturday, mulch bags on Monday. That is the rear flip seat. 🛒
+A flip seat turns a golf cart into a 2+2 in seconds, then folds flat into a cargo deck. We break down when it beats a fixed cargo bed, plus safety tips for rear-facing passengers.
+Full guide, link in bio. Call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcarts #golfcartaccessories #Florida #Dundee #CentralFlorida #TheArtOfTheDrive
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -2375,3 +2389,11 @@ Loading the front trunk
 ### `s212-teko-cupholder2-story.jpg`
 Cup holders up front
 
+### `s213-lake-sunset-story.jpg`
+Golden hour over the water
+
+### `s215-tall-palms-story.jpg`
+Florida palms and blue skies
+
+### `s217-two-palms-story.jpg`
+Two palms, one sunny afternoon
