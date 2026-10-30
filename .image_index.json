@@ -2662,5 +2662,25 @@
   "src": "s212-teko-cupholder2.jpg",
   "phash": "224391275716247695258216054301391503282101448824697456904599199246693900279",
   "kind": "story"
+ },
+ "227-boca-purebred-grey.jpg": {
+  "src": "227-boca-purebred-grey.jpg",
+  "phash": "115792065067725242457717801050097369876445469143142505427928331447023601451007",
+  "kind": "post"
+ },
+ "228-boca-purebred-palms.jpg": {
+  "src": "228-boca-purebred-palms.jpg",
+  "phash": "224389981626260509894250974774054861402328568677552965799000183372233310207",
+  "kind": "post"
+ },
+ "231-boca-stallion-white.jpg": {
+  "src": "231-boca-stallion-white.jpg",
+  "phash": "115791870079912617807827041040028041683126655007617862240530259033681161093120",
+  "kind": "post"
+ },
+ "232-boca-purebred-waterside.jpg": {
+  "src": "232-boca-purebred-waterside.jpg",
+  "phash": "87746929202014880367377215995298886950539889209524287450563168271857079025663",
+  "kind": "post"
  }
 }

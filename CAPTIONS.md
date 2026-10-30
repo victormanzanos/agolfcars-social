@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 220 POSTS
+## 224 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1512,6 +1512,26 @@ Family sized. The Trophy Plus seats six, the Triumph seats six all forward.
 Call (863) 439-5431. We have sold more than 30,000 golf cars since 1987.
 
 #ArtsGolfCars #TEKO #golfcart #Florida #Dundee #PolkCounty #golfcarts
+
+### `227-boca-purebred-grey.jpg`
+Meet the Boca EV Purebred by PDG. Four seats, all facing forward, a 10.1 inch touchscreen with Apple CarPlay and Android Auto, and a back-up camera. Ask for it at Art's Golf Cars in Dundee. Call (863) 439-5431.
+
+#ArtsGolfCars #BocaEV #golfcart #Florida #Dundee #PolkCounty #golfcarts #electricvehicle
+
+### `228-boca-purebred-palms.jpg`
+Lifted or lowered, the Boca EV Purebred rides on all-lithium power and tops out at 25 MPH, with an LSV upgrade available to make it street legal in Florida.
+
+#ArtsGolfCars #BocaEV #golfcart #Florida #WinterHaven #lithium #golfcarts
+
+### `231-boca-stallion-white.jpg`
+Six seats for the whole family. The Boca EV Stallion has four forward seats with captain's chairs and two facing back. Come see the Boca EV line at Art's Golf Cars, 29630 US Hwy 27, Dundee.
+
+#ArtsGolfCars #BocaEV #golfcart #Dundee #Florida #HainesCity #golfcarts
+
+### `232-boca-purebred-waterside.jpg`
+Wireless phone charging, four speakers, seatbelts for every seat and four-wheel disc brakes come standard on the Boca EV Purebred. Financing available through Sheffield. Call (863) 439-5431.
+
+#ArtsGolfCars #BocaEV #golfcart #Florida #LakeWales #golfcarts #electricvehicle
 
 ## STORIES
 
