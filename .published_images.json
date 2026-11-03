@@ -740,5 +740,19 @@
   "card": "s003-golf-course-story.jpg",
   "src": "s003-golf-course.jpg",
   "phash": "12395482676987286877930169264212651682571952251009665859135734161901355808"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "post",
+  "card": "74-quiet-ride-electric.jpg",
+  "src": "74-quiet-ride-electric.jpg",
+  "phash": "3612484453213843754461245897762810858582496464467213441198979580182552109055"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "story",
+  "card": "s004-palm-tree-street-story.jpg",
+  "src": "s004-palm-tree-street.jpg",
+  "phash": "10352777491033755583320867330221826750199566145089783928276383271227328"
  }
 ]
