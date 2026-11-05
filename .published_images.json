@@ -754,5 +754,19 @@
   "card": "s004-palm-tree-street-story.jpg",
   "src": "s004-palm-tree-street.jpg",
   "phash": "10352777491033755583320867330221826750199566145089783928276383271227328"
+ },
+ {
+  "date": "2026-11-04",
+  "kind": "post",
+  "card": "75-pre-owned-inspected.jpg",
+  "src": "75-pre-owned-inspected.jpg",
+  "phash": "115792089236894946256896756262261619863144474049788826499867390398995047120895"
+ },
+ {
+  "date": "2026-11-04",
+  "kind": "story",
+  "card": "s005-golf-green-story.jpg",
+  "src": "s005-golf-green.jpg",
+  "phash": "1070452103373855176696220790888505739233460223"
  }
 ]
