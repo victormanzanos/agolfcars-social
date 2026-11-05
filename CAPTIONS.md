@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 226 POSTS
+## 229 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1546,6 +1546,27 @@ A flip seat turns a golf cart into a 2+2 in seconds, then folds flat into a carg
 Full guide, link in bio. Call (863) 439-5431.
 
 #ArtsGolfCars #golfcart #golfcarts #golfcartaccessories #Florida #Dundee #CentralFlorida #TheArtOfTheDrive
+
+### `235-clubcar-evening-ride.jpg`
+Six seats, LED headlights and the whole crew on board. Evening rides around the neighborhood are what Florida golf carts are made for. 🌙
+As a 3× Club Car Black & Gold Elite Dealer, we can walk you through the Club Car lineup, the seating options and the lighting that fits the way you ride.
+Come see us at 29630 US Hwy 27, Dundee, or call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #ClubCarOnward #golfcart #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `236-onward-enclosure.jpg`
+Florida rain shows up fast. A fitted enclosure keeps you riding. ☔
+Club Car sorts its factory accessories by Onward model, and the enclosure has to match your cart to seal properly. Our guide covers what is in the catalog, what is worth it for daily Florida driving, and factory versus generic parts.
+Full guide, link in bio. Questions? Call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #ClubCarOnward #golfcartaccessories #golfcart #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `237-golf-after-55.jpg`
+Never played golf, or coming back after years away? After 55 is a great time to start. ⛳
+Our step-by-step plan for Central Florida: a few lessons first, the range and short courses, the right clubs (not the most clubs), playing smart in the heat, and choosing a cart that works on the course and around the community.
+Read it through the link in bio, or stop by 29630 US Hwy 27, Dundee.
+
+#ArtsGolfCars #golf #golfcart #activeadults #55plus #CentralFlorida #PolkCounty #TheArtOfTheDrive
 
 ## STORIES
 
