@@ -768,5 +768,19 @@
   "card": "s005-golf-green-story.jpg",
   "src": "s005-golf-green.jpg",
   "phash": "1070452103373855176696220790888505739233460223"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "post",
+  "card": "76-round-of-golf-ready.jpg",
+  "src": "76-round-of-golf-ready.jpg",
+  "phash": "11417981552280529454132879301504547005646503935"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "story",
+  "card": "s006-golf-fairway-story.jpg",
+  "src": "s006-golf-fairway.jpg",
+  "phash": "3531929412327776979737555622983800026938372516140905603184521722778508603390"
  }
 ]
