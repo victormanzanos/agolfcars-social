@@ -782,5 +782,19 @@
   "card": "s006-golf-fairway-story.jpg",
   "src": "s006-golf-fairway.jpg",
   "phash": "3531929412327776979737555622983800026938372516140905603184521722778508603390"
+ },
+ {
+  "date": "2026-11-08",
+  "kind": "post",
+  "card": "77-course-to-driveway.jpg",
+  "src": "77-course-to-driveway.jpg",
+  "phash": "49086999594416492967272326013675381919596763857161289727"
+ },
+ {
+  "date": "2026-11-08",
+  "kind": "story",
+  "card": "s007-country-club-story.jpg",
+  "src": "s007-country-club.jpg",
+  "phash": "111311445960878214215668629005786787373689783478709027460478461576877178879"
  }
 ]
