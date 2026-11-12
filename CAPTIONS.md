@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 229 POSTS
+## 234 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1567,6 +1567,41 @@ Our step-by-step plan for Central Florida: a few lessons first, the range and sh
 Read it through the link in bio, or stop by 29630 US Hwy 27, Dundee.
 
 #ArtsGolfCars #golf #golfcart #activeadults #55plus #CentralFlorida #PolkCounty #TheArtOfTheDrive
+
+### `239-holiday-gift.jpg`
+Thinking of a golf cart as this year's family gift? 🎁
+Start with who will really ride it, then pick the size (2, 4 or 6 seats), check the rules where it will be driven and plan the delivery so the surprise works. Our family guide walks through every step, including financing with Sheffield Financial.
+Read it through the link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcarts #holidaygift #FamilyTime #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `241-dog-ride.jpg`
+Your best friend wants a seat on the cart too. 🐾
+Where a dog should sit, why a harness beats a collar, the extra jump from a lifted cart, Florida heat even in November and seat covers that protect your resale value. It is all in our guide.
+Full guide, link in bio. Questions? Call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #dogsofinstagram #golfcartlife #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `238-christmas-lights.jpg`
+Lighting up your golf cart for the holidays? 🎄
+Before you decorate: how to power the lights without hurting the battery, where lights go (and where they never go), what Florida law says after dark and how to handle evening showers.
+Read the full guide through the link in bio, or ask our team at 29630 US Hwy 27, Dundee.
+
+#ArtsGolfCars #golfcart #christmaslights #holidayparade #FloridaChristmas #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `242-battery-life.jpg`
+How long do golf cart batteries really last in Florida? 🔋
+Heat shortens the number. Our guide covers lead-acid vs lithium, what the manufacturers publish, the warning signs that your batteries are near the end and how to get more years out of them.
+Full guide, link in bio. Battery check? Call our Service Center at (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartbatteries #lithium #ClubCar #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `240-sound-system.jpg`
+Thinking about music on your golf cart? 🎶
+Sound bars, factory audio or a custom system: the part nobody explains is power. Our guide covers how to wire it safely, survive Florida rain and sun, and keep the neighbors happy too.
+Read it through the link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartaccessories #golfcartlife #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
 
 ## STORIES
 
