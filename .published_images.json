@@ -810,5 +810,19 @@
   "card": "s008-golf-cart-resort-story.jpg",
   "src": "s008-golf-cart-resort.jpg",
   "phash": "56539106072908298546665520023773393527404474907241067000051230394386743295"
+ },
+ {
+  "date": "2026-11-12",
+  "kind": "post",
+  "card": "79-cart-path-community.jpg",
+  "src": "79-cart-path-community.jpg",
+  "phash": "24864467574782462790297942467465120424982296939735407502866351241633094701040"
+ },
+ {
+  "date": "2026-11-12",
+  "kind": "story",
+  "card": "s009-golf-course-sunset-story.jpg",
+  "src": "s009-golf-course-sunset.jpg",
+  "phash": "28609225074423181723764509821445445544262586221036073753319255267351698866175"
  }
 ]
