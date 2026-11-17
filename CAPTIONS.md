@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 234 POSTS
+## 235 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -636,6 +636,15 @@ Most of our customers come from someone else's driveway. That is the whole marke
 29630 US Hwy 27, Dundee, FL.
 
 #ArtsGolfCars #GolfCart #WordOfMouth #CentralFlorida #DundeeFL #PolkCounty
+
+### `243-boca-purebred-2027.jpg`
+Meet the new 2027 Boca Purebred. Same sturdy, smooth ride, all-new tech.
+
+New this year: a pedestrian alert system, upgraded surround speakers, a built-in light strip for night driving, dark walnut seats and a hinged front windshield. Still standard: Apple CarPlay and Android Auto, an HD reverse camera, a soundbar and LED underglow.
+
+Lowered and under 76" tall, so it fits through tunnels. A lifted version is available too. Coming to our Dundee showroom in red, white, black and silver. Reserve yours: (863) 439-5431 or link in bio.
+
+#ArtsGolfCars #BocaEV #BocaPurebred #GolfCart #NewGolfCart #CentralFlorida #DundeeFL #PolkCounty #GolfCartLife #FloridaLiving
 
 ### `82-service-center-open.jpg`
 Our Service Center is the reason people come back. 🔧
@@ -1844,6 +1853,9 @@ Story: golf clubhouse.
 
 ### `s011-sunny-sky-clouds-story.jpg`
 Story: sunny sky clouds.
+
+### `s218-boca-purebred-2027-white-story.jpg`
+The new 2027 Boca Purebred
 
 ### `s012-summer-rain-story.jpg`
 Story: summer rain.
