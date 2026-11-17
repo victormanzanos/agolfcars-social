@@ -1,0 +1,2751 @@
+{
+ "00-logo.jpg": {
+  "src": "card:00-logo.jpg",
+  "phash": "53919893334301183809824227693316516868788776783473451810668016566272",
+  "kind": "post",
+  "note": "tarjeta de texto/logo, exenta"
+ },
+ "01-welcome.jpg": {
+  "src": "hero-golf-cart.jpg",
+  "phash": "7212268882562065823558196287096670052201914479172897206076355044718885471228",
+  "kind": "post",
+  "match": 0
+ },
+ "02-clubcar-elite.jpg": {
+  "src": "car-clubcar-onward.jpg",
+  "phash": "115792089210359128389395853376274583865792856489064355717255009659996581396479",
+  "kind": "post",
+  "match": 0
+ },
+ "03-new-used.jpg": {
+  "src": "new-vs-used-golf-cars-guide.jpg",
+  "phash": "1533132778326851953301979466984484064051370383030349822",
+  "kind": "post",
+  "match": 0
+ },
+ "04-service.jpg": {
+  "src": "golf-car-maintenance-florida-heat.jpg",
+  "phash": "904629148079583952615825923549912418148076260566020934939681746977833288703",
+  "kind": "post",
+  "match": 0
+ },
+ "05-custom.jpg": {
+  "src": "car-clubcar-lifted.jpg",
+  "phash": "28946476294458497857343734973829040775937484929483987570156955714699267143711",
+  "kind": "post",
+  "match": 0
+ },
+ "06-shipping.jpg": {
+  "src": "buy-golf-car-online-nationwide-shipping.jpg",
+  "phash": "108555967096996665974491161695243988303459087996644166877444263846742911154684",
+  "kind": "post",
+  "match": 0
+ },
+ "07-seniors.jpg": {
+  "src": "best-golf-carts-for-seniors.jpg",
+  "phash": "115792086648215102072832683858257684034395034990447794238986127593180075392575",
+  "kind": "post",
+  "match": 0
+ },
+ "08-street-legal.jpg": {
+  "src": "street-legal-golf-cars-lsv-florida.jpg",
+  "phash": "61291089607031937955495574523847929514579919508864315096012712324174605467640",
+  "kind": "post",
+  "match": 0
+ },
+ "09-lithium.jpg": {
+  "src": "lithium-golf-car-batteries-guide.jpg",
+  "phash": "822771110636286210938383319866726629272865533607893078059776255",
+  "kind": "post",
+  "match": 0
+ },
+ "10-accessories.jpg": {
+  "src": "custom-golf-car-accessories-guide.jpg",
+  "phash": "3302810411580278489667480710501798142461005944067000731242051711",
+  "kind": "post",
+  "match": 1
+ },
+ "11-financing.jpg": {
+  "src": "golf-car-financing-sheffield-guide.jpg",
+  "phash": "115789437433357636881529129159400567412212142722215089888447970062390106539056",
+  "kind": "post",
+  "match": 0
+ },
+ "12-electric.jpg": {
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699",
+  "kind": "post",
+  "match": 0
+ },
+ "13-communities.jpg": {
+  "src": "golf-car-communities-central-florida.jpg",
+  "phash": "115786788669161142266917673422866791624182060460085171946040495472059424464896",
+  "kind": "post",
+  "match": 0
+ },
+ "14-solivita.jpg": {
+  "src": "card:14-solivita.jpg",
+  "phash": "57672090795681534173772513655010565701438541894122827648934643659555488137215",
+  "kind": "post",
+  "match": 77,
+  "note": "fuente no encontrada en raw/"
+ },
+ "15-polk-county.jpg": {
+  "src": "exploring-polk-county-golf-car-lifestyle.jpg",
+  "phash": "115790735120927740051651844306471858539772315590220134471407262544882047123000",
+  "kind": "post",
+  "match": 0
+ },
+ "16-golf-courses.jpg": {
+  "src": "central-florida-golf-courses-guide.jpg",
+  "phash": "35121354676987026616984448372243115464788851818495",
+  "kind": "post",
+  "match": 0
+ },
+ "17-cost.jpg": {
+  "src": "how-much-does-a-golf-cart-cost.jpg",
+  "phash": "115792089210408777534125539219821640702639936330637506903037298263830061580289",
+  "kind": "post",
+  "match": 0
+ },
+ "18-brands.jpg": {
+  "src": "golf-car-brands-buying-guide.jpg",
+  "phash": "115341515654087630216555559529837786780448647214900469379777729140556284162104",
+  "kind": "post",
+  "match": 0
+ },
+ "19-in-stock.jpg": {
+  "src": "in-stock-vs-special-order-golf-cars.jpg",
+  "phash": "114208967515849325912124553641386602660206987519163955427785877091953009358829",
+  "kind": "post",
+  "match": 0
+ },
+ "20-carritos-es.jpg": {
+  "src": "carritos-de-golf-legales-florida-requisitos.jpg",
+  "phash": "114095889303703515742783399356686067872289369019758968324586840486031170405375",
+  "kind": "post",
+  "match": 0
+ },
+ "21-standout.jpg": {
+  "src": "boca-pdg-standout-cart-central-florida.jpg",
+  "phash": "115792076293173241683773697491435188790049050217529466360005806097389030735871",
+  "kind": "post",
+  "match": 0
+ },
+ "22-winter-haven.jpg": {
+  "src": "golf-carts-winter-haven-fl.jpg",
+  "phash": "115790770952475696098375406203347456619977519258041388855120176027045724626943",
+  "kind": "post",
+  "match": 0
+ },
+ "23-lake-ashton.jpg": {
+  "src": "golf-carts-lake-ashton-community-guide.jpg",
+  "phash": "87748275278756827440665014856989684381940426073239770590669366939059921887200",
+  "kind": "post",
+  "match": 1
+ },
+ "24-davenport.jpg": {
+  "src": "golf-carts-davenport-fl.jpg",
+  "phash": "822789941848697293150509703095579843804292972741628685027635711",
+  "kind": "post",
+  "match": 0
+ },
+ "25-venta-polk-es.jpg": {
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055",
+  "kind": "post",
+  "match": 0
+ },
+ "26-familiar-es.jpg": {
+  "src": "carrito-golf-familiar-4-6-plazas-florida.jpg",
+  "phash": "57869142258868169884726860778149978316637041337003826362627116132586110271487",
+  "kind": "post",
+  "match": 0
+ },
+ "27-batteries-carryout.jpg": {
+  "src": "golf-cart-batteries-polk-county-carry-out.jpg",
+  "phash": "199655039357344138455855115572319720874095095579312336456930219447507976191",
+  "kind": "post",
+  "match": 0
+ },
+ "28-repair-service.jpg": {
+  "src": "golf-cart-repair-service-polk-county.jpg",
+  "phash": "115763598828238567070046353278839872645352501114747141786588715788528678305821",
+  "kind": "post",
+  "match": 1
+ },
+ "29-poinciana-es.jpg": {
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772",
+  "kind": "post",
+  "match": 0
+ },
+ "30-lake-wales.jpg": {
+  "src": "golf-carts-lake-wales-fl.jpg",
+  "phash": "115778837031300795028881586160503031279368068694032190754604177889140633714177",
+  "kind": "post",
+  "match": 0
+ },
+ "31-best-communities.jpg": {
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055",
+  "kind": "post",
+  "match": 0
+ },
+ "32-haines-city.jpg": {
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699",
+  "kind": "post",
+  "match": 0
+ },
+ "33-gas-vs-electric.jpg": {
+  "src": "gas-vs-electric-golf-carts-florida.jpg",
+  "phash": "115792089237293145554286021687322520251910208582324598035940730952098835906568",
+  "kind": "post",
+  "match": 1
+ },
+ "34-del-webb.jpg": {
+  "src": "golf-carts-del-webb-orlando-community-guide.jpg",
+  "phash": "115792089237290227310279801270575039167227102353611429301015155246436158799871",
+  "kind": "post",
+  "match": 0
+ },
+ "35-cart-vs-lsv.jpg": {
+  "src": "golf-cart-vs-lsv-florida.jpg",
+  "phash": "424049334655092084672795333795510219633165526102054204540605705629611851775",
+  "kind": "post",
+  "match": 0
+ },
+ "36-carplay-screens.jpg": {
+  "src": "golf-cart-carplay-screens-cameras.jpg",
+  "phash": "12368333852648697566715920922770708390320397114493994562350745774779793407",
+  "kind": "post",
+  "match": 0
+ },
+ "37-lakeland.jpg": {
+  "src": "carritos-de-golf-en-venta-lakeland-fl.jpg",
+  "phash": "4325351632900652947589468812619384087123768788455086182363132820125869096959",
+  "kind": "post",
+  "match": 0
+ },
+ "38-financing-fl.jpg": {
+  "src": "financiar-carrito-de-golf-florida.jpg",
+  "phash": "109546204723454616410183776498618616871457845338235216543383714352313901055",
+  "kind": "post",
+  "match": 0
+ },
+ "39-lifted-vs-standard.jpg": {
+  "src": "lifted-vs-standard-golf-carts-florida.jpg",
+  "phash": "1987841226178368439963543797327986260062010036281989011785014614178136063",
+  "kind": "post",
+  "match": 0
+ },
+ "40-compare-carts.jpg": {
+  "src": "teko-vs-club-car-onward-comparison.jpg",
+  "phash": "23590363109223030421729605919149072650410433038331888824760763744248",
+  "kind": "post",
+  "match": 0
+ },
+ "41-auburndale.jpg": {
+  "src": "golf-carts-auburndale-fl.jpg",
+  "phash": "28044280034852109447276726063789238500946030784051334246594802275615305105824",
+  "kind": "post",
+  "match": 0
+ },
+ "42-how-long-lasts.jpg": {
+  "src": "how-long-do-golf-carts-last.jpg",
+  "phash": "2940085603063141839820242562807094620698086387243198381971011159365584420863",
+  "kind": "post",
+  "match": 0
+ },
+ "43-hurricane-prep.jpg": {
+  "src": "golf-cart-hurricane-prep-florida.jpg",
+  "phash": "52656151327327819155955402352483853052005307084568844961599971359",
+  "kind": "post",
+  "match": 0
+ },
+ "44-dundee-home.jpg": {
+  "src": "golf-carts-dundee-fl.jpg",
+  "phash": "115452841188094654141528997120316128532269982260132125861839868226828968592635",
+  "kind": "post",
+  "match": 0
+ },
+ "45-battery-honest.jpg": {
+  "src": "baterias-litio-carrito-de-golf-florida.jpg",
+  "phash": "115792085786245548726145091900033673175697891894282777025932524288277580152824",
+  "kind": "post",
+  "match": 0
+ },
+ "46-bartow.jpg": {
+  "src": "golf-carts-bartow-fl.jpg",
+  "phash": "114943947646272238960020198517741188974253533296970236881103962404052491303103",
+  "kind": "post",
+  "match": 0
+ },
+ "47-polk-outdoors.jpg": {
+  "src": "polk-county-outdoor-spots-sunsets.jpg",
+  "phash": "1809251394385722377254649470529955709905650408634699007133723900630668410879",
+  "kind": "post",
+  "match": 0
+ },
+ "48-used-ezgo.jpg": {
+  "src": "used-ezgo-golf-carts-central-florida.jpg",
+  "phash": "6502100725211857759785438065677381222307832033074467940936125122814906172411",
+  "kind": "post",
+  "match": 0
+ },
+ "49-insurance-florida.jpg": {
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772",
+  "kind": "post",
+  "match": 0
+ },
+ "50-yamaha-vs-clubcar.jpg": {
+  "src": "yamaha-vs-club-car-golf-cart.jpg",
+  "phash": "114207117851618690093988312905371433593983256306247593460148936649156053696447",
+  "kind": "post",
+  "match": 0
+ },
+ "51-haines-city-north.jpg": {
+  "src": "golf-carts-haines-city-fl.jpg",
+  "phash": "3162772261344600410782496763061519253808200701114218629649795519362303535036",
+  "kind": "post",
+  "match": 0
+ },
+ "52-repair-polk.jpg": {
+  "src": "reparacion-carritos-de-golf-polk-county.jpg",
+  "phash": "12368333858819358561840783563266154695299114544735929913783346910423597111",
+  "kind": "post",
+  "match": 0
+ },
+ "53-clubcar-cru.jpg": {
+  "src": "club-car-cru-vs-onward-lsv-florida.jpg",
+  "phash": "8834316205146053589458227226158071694370272949162096198219126588148017215",
+  "kind": "post",
+  "match": 0
+ },
+ "54-hurricane-season.jpg": {
+  "src": "golf-cart-hurricane-season-florida.jpg",
+  "phash": "48315252555751856523196550243799055313358973857458085672914979825647615",
+  "kind": "post",
+  "match": 0
+ },
+ "55-onward-2027.jpg": {
+  "src": "club-car-onward-2027-model-year.jpg",
+  "phash": "115737310102261163950298470272565285692142797285867353143902492297654905467263",
+  "kind": "post",
+  "match": 1
+ },
+ "56-limited-edition.jpg": {
+  "src": "limited-edition-golf-carts-explained.jpg",
+  "phash": "3505450458266578556386776794180216441770349526108439832284078353080362205179",
+  "kind": "post",
+  "match": 0
+ },
+ "57-accesorios-fl.jpg": {
+  "src": "accesorios-carrito-de-golf-florida.jpg",
+  "phash": "113080800320443098456881288064691573913839216669246983896731235625526626176",
+  "kind": "post",
+  "match": 1
+ },
+ "58-kissimmee-osceola.jpg": {
+  "src": "carritos-de-golf-kissimmee-osceola.jpg",
+  "phash": "101318057377017542502776179005010703584603407010548487227007276150529700511793",
+  "kind": "post",
+  "match": 0
+ },
+ "59-new-brand-lineup.jpg": {
+  "src": "teko-golf-carts-models-explained.jpg",
+  "phash": "115792006089669735248992669331237253993178537155689013006367401274960051699711",
+  "kind": "post",
+  "match": 0
+ },
+ "60-trade-in.jpg": {
+  "src": "carritos-de-golf-usados-florida-guia-compra.jpg",
+  "phash": "833964755442871492887057030353441497467401017116078379808223947418759004158",
+  "kind": "post",
+  "match": 0
+ },
+ "61-snowbird-checklist.jpg": {
+  "src": "snowbird-golf-cart-checklist-florida.jpg",
+  "phash": "115792089237303841290163823626836222800642790571997310070795086270495765561343",
+  "kind": "post",
+  "match": 0
+ },
+ "62-past-model-year.jpg": {
+  "src": "past-model-year-club-car-onward.jpg",
+  "phash": "3392442988823353182340262938718737468024122315025576771929762960942878867340",
+  "kind": "post",
+  "match": 0
+ },
+ "63-who-can-drive.jpg": {
+  "src": "who-can-drive-golf-cart-florida.jpg",
+  "phash": "3293821642504430511594974851195410561638739100116758190796374008",
+  "kind": "post",
+  "match": 0
+ },
+ "64-golf-cart-tires.jpg": {
+  "src": "golf-cart-tires-florida.jpg",
+  "phash": "115792087511787454142618384168138548874310808983518255494877158188375725957145",
+  "kind": "post",
+  "match": 0
+ },
+ "65-55plus-community-rules.jpg": {
+  "src": "golf-cart-rules-55-plus-communities-florida.jpg",
+  "phash": "108640087078405044478215163204374431726447629606406217659847460651611367440352",
+  "kind": "post",
+  "match": 0
+ },
+ "66-best-time-to-buy.jpg": {
+  "src": "mejor-epoca-comprar-carrito-de-golf-florida.jpg",
+  "phash": "115790212850303498013440890483766181550455853540159369057242797662305605713792",
+  "kind": "post",
+  "match": 0
+ },
+ "67-wont-move.jpg": {
+  "src": "golf-cart-wont-move-troubleshooting.jpg",
+  "phash": "115687831461003445455653347931874684036290763728581786941075383653609072551456",
+  "kind": "post",
+  "match": 0
+ },
+ "68-how-fast.jpg": {
+  "src": "how-fast-does-a-golf-cart-go.jpg",
+  "phash": "3631285166646597790371702154921990294387318871254212037606274369152232128509",
+  "kind": "post",
+  "match": 0
+ },
+ "69-charging-at-home.jpg": {
+  "src": "como-cargar-carrito-de-golf-en-casa-florida.jpg",
+  "phash": "114012819054388902854562477662980657159447967360041200485399527989990253920256",
+  "kind": "post",
+  "match": 0
+ },
+ "holiday-labor-day-2026.jpg": {
+  "src": "card:holiday-labor-day-2026.jpg",
+  "phash": "25248621927536489729899501648097648732120163160834955483319459905536",
+  "kind": "post",
+  "note": "tarjeta de texto/logo, exenta"
+ },
+ "00-logo-story.jpg": {
+  "src": "card:00-logo.jpg",
+  "phash": "53919893334301183809824227693316516868788776783473451810668016566272",
+  "kind": "story",
+  "note": "identidad heredada del post (misma foto)"
+ },
+ "01-welcome-story.jpg": {
+  "src": "hero-golf-cart.jpg",
+  "phash": "7212268882562065823558196287096670052201914479172897206076355044718885471228",
+  "kind": "story",
+  "match": 0
+ },
+ "02-clubcar-elite-story.jpg": {
+  "src": "car-clubcar-onward.jpg",
+  "phash": "115792089210359128389395853376274583865792856489064355717255009659996581396479",
+  "kind": "story",
+  "match": 0
+ },
+ "03-new-used-story.jpg": {
+  "src": "new-vs-used-golf-cars-guide.jpg",
+  "phash": "1533132778326851953301979466984484064051370383030349822",
+  "kind": "story",
+  "match": 0
+ },
+ "04-service-story.jpg": {
+  "src": "golf-car-maintenance-florida-heat.jpg",
+  "phash": "904629148079583952615825923549912418148076260566020934939681746977833288703",
+  "kind": "story",
+  "match": 0
+ },
+ "05-custom-story.jpg": {
+  "src": "car-clubcar-lifted.jpg",
+  "phash": "28946476294458497857343734973829040775937484929483987570156955714699267143711",
+  "kind": "story",
+  "match": 0
+ },
+ "06-shipping-story.jpg": {
+  "src": "buy-golf-car-online-nationwide-shipping.jpg",
+  "phash": "108555967096996665974491161695243988303459087996644166877444263846742911154684",
+  "kind": "story",
+  "match": 0
+ },
+ "07-seniors-story.jpg": {
+  "src": "best-golf-carts-for-seniors.jpg",
+  "phash": "115792086648215102072832683858257684034395034990447794238986127593180075392575",
+  "kind": "story",
+  "match": 0
+ },
+ "08-street-legal-story.jpg": {
+  "src": "street-legal-golf-cars-lsv-florida.jpg",
+  "phash": "61291089607031937955495574523847929514579919508864315096012712324174605467640",
+  "kind": "story",
+  "match": 0
+ },
+ "09-lithium-story.jpg": {
+  "src": "lithium-golf-car-batteries-guide.jpg",
+  "phash": "822771110636286210938383319866726629272865533607893078059776255",
+  "kind": "story",
+  "match": 0
+ },
+ "10-accessories-story.jpg": {
+  "src": "custom-golf-car-accessories-guide.jpg",
+  "phash": "3302810411580278489667480710501798142461005944067000731242051711",
+  "kind": "story",
+  "match": 0
+ },
+ "11-financing-story.jpg": {
+  "src": "golf-car-financing-sheffield-guide.jpg",
+  "phash": "115789437433357636881529129159400567412212142722215089888447970062390106539056",
+  "kind": "story",
+  "match": 0
+ },
+ "12-electric-story.jpg": {
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699",
+  "kind": "story",
+  "match": 0
+ },
+ "13-communities-story.jpg": {
+  "src": "golf-car-communities-central-florida.jpg",
+  "phash": "115786788669161142266917673422866791624182060460085171946040495472059424464896",
+  "kind": "story",
+  "match": 0
+ },
+ "14-solivita-story.jpg": {
+  "src": "card:14-solivita.jpg",
+  "phash": "57672090795681534173772513655010565701438541894122827648934643659555488137215",
+  "kind": "story",
+  "match": 72,
+  "note": "identidad heredada del post (misma foto)"
+ },
+ "15-polk-county-story.jpg": {
+  "src": "exploring-polk-county-golf-car-lifestyle.jpg",
+  "phash": "115790735120927740051651844306471858539772315590220134471407262544882047123000",
+  "kind": "story",
+  "match": 0
+ },
+ "16-golf-courses-story.jpg": {
+  "src": "central-florida-golf-courses-guide.jpg",
+  "phash": "35121354676987026616984448372243115464788851818495",
+  "kind": "story",
+  "match": 0
+ },
+ "17-cost-story.jpg": {
+  "src": "how-much-does-a-golf-cart-cost.jpg",
+  "phash": "115792089210408777534125539219821640702639936330637506903037298263830061580289",
+  "kind": "story",
+  "match": 1
+ },
+ "18-brands-story.jpg": {
+  "src": "golf-car-brands-buying-guide.jpg",
+  "phash": "115341515654087630216555559529837786780448647214900469379777729140556284162104",
+  "kind": "story",
+  "match": 0
+ },
+ "19-in-stock-story.jpg": {
+  "src": "in-stock-vs-special-order-golf-cars.jpg",
+  "phash": "114208967515849325912124553641386602660206987519163955427785877091953009358829",
+  "kind": "story",
+  "match": 0
+ },
+ "20-carritos-es-story.jpg": {
+  "src": "carritos-de-golf-legales-florida-requisitos.jpg",
+  "phash": "114095889303703515742783399356686067872289369019758968324586840486031170405375",
+  "kind": "story",
+  "match": 0
+ },
+ "21-standout-story.jpg": {
+  "src": "boca-pdg-standout-cart-central-florida.jpg",
+  "phash": "115792076293173241683773697491435188790049050217529466360005806097389030735871",
+  "kind": "story",
+  "match": 0
+ },
+ "22-winter-haven-story.jpg": {
+  "src": "golf-carts-winter-haven-fl.jpg",
+  "phash": "115790770952475696098375406203347456619977519258041388855120176027045724626943",
+  "kind": "story",
+  "match": 0
+ },
+ "23-lake-ashton-story.jpg": {
+  "src": "golf-carts-lake-ashton-community-guide.jpg",
+  "phash": "87748275278756827440665014856989684381940426073239770590669366939059921887200",
+  "kind": "story",
+  "match": 0
+ },
+ "24-davenport-story.jpg": {
+  "src": "golf-carts-davenport-fl.jpg",
+  "phash": "822789941848697293150509703095579843804292972741628685027635711",
+  "kind": "story",
+  "match": 0
+ },
+ "25-venta-polk-es-story.jpg": {
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055",
+  "kind": "story",
+  "match": 0
+ },
+ "26-familiar-es-story.jpg": {
+  "src": "carrito-golf-familiar-4-6-plazas-florida.jpg",
+  "phash": "57869142258868169884726860778149978316637041337003826362627116132586110271487",
+  "kind": "story",
+  "match": 0
+ },
+ "27-batteries-carryout-story.jpg": {
+  "src": "golf-cart-batteries-polk-county-carry-out.jpg",
+  "phash": "199655039357344138455855115572319720874095095579312336456930219447507976191",
+  "kind": "story",
+  "match": 0
+ },
+ "28-repair-service-story.jpg": {
+  "src": "golf-cart-repair-service-polk-county.jpg",
+  "phash": "115763598828238567070046353278839872645352501114747141786588715788528678305821",
+  "kind": "story",
+  "match": 0
+ },
+ "29-poinciana-es-story.jpg": {
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772",
+  "kind": "story",
+  "match": 0
+ },
+ "30-lake-wales-story.jpg": {
+  "src": "golf-carts-lake-wales-fl.jpg",
+  "phash": "115778837031300795028881586160503031279368068694032190754604177889140633714177",
+  "kind": "story",
+  "match": 0
+ },
+ "31-best-communities-story.jpg": {
+  "src": "best-golf-cart-communities-central-florida.jpg",
+  "phash": "28040276813867803345128950728306365245107794240424877902199445928409753911055",
+  "kind": "story",
+  "match": 0
+ },
+ "32-haines-city-story.jpg": {
+  "src": "carritos-de-golf-en-venta-haines-city.jpg",
+  "phash": "27252056179953491355822006467628402689362599395944717138059882571117114099699",
+  "kind": "story",
+  "match": 0
+ },
+ "33-gas-vs-electric-story.jpg": {
+  "src": "gas-vs-electric-golf-carts-florida.jpg",
+  "phash": "115792089237293145554286021687322520251910208582324598035940730952098835906568",
+  "kind": "story",
+  "match": 0
+ },
+ "34-del-webb-story.jpg": {
+  "src": "golf-carts-del-webb-orlando-community-guide.jpg",
+  "phash": "115792089237290227310279801270575039167227102353611429301015155246436158799871",
+  "kind": "story",
+  "match": 0
+ },
+ "35-cart-vs-lsv-story.jpg": {
+  "src": "golf-cart-vs-lsv-florida.jpg",
+  "phash": "424049334655092084672795333795510219633165526102054204540605705629611851775",
+  "kind": "story",
+  "match": 0
+ },
+ "36-carplay-screens-story.jpg": {
+  "src": "golf-cart-carplay-screens-cameras.jpg",
+  "phash": "12368333852648697566715920922770708390320397114493994562350745774779793407",
+  "kind": "story",
+  "match": 0
+ },
+ "37-lakeland-story.jpg": {
+  "src": "carritos-de-golf-en-venta-lakeland-fl.jpg",
+  "phash": "4325351632900652947589468812619384087123768788455086182363132820125869096959",
+  "kind": "story",
+  "match": 0
+ },
+ "38-financing-fl-story.jpg": {
+  "src": "financiar-carrito-de-golf-florida.jpg",
+  "phash": "109546204723454616410183776498618616871457845338235216543383714352313901055",
+  "kind": "story",
+  "match": 1
+ },
+ "39-lifted-vs-standard-story.jpg": {
+  "src": "lifted-vs-standard-golf-carts-florida.jpg",
+  "phash": "1987841226178368439963543797327986260062010036281989011785014614178136063",
+  "kind": "story",
+  "match": 0
+ },
+ "40-compare-carts-story.jpg": {
+  "src": "teko-vs-club-car-onward-comparison.jpg",
+  "phash": "23590363109223030421729605919149072650410433038331888824760763744248",
+  "kind": "story",
+  "match": 0
+ },
+ "41-auburndale-story.jpg": {
+  "src": "golf-carts-auburndale-fl.jpg",
+  "phash": "28044280034852109447276726063789238500946030784051334246594802275615305105824",
+  "kind": "story",
+  "match": 0
+ },
+ "42-how-long-lasts-story.jpg": {
+  "src": "how-long-do-golf-carts-last.jpg",
+  "phash": "2940085603063141839820242562807094620698086387243198381971011159365584420863",
+  "kind": "story",
+  "match": 0
+ },
+ "43-hurricane-prep-story.jpg": {
+  "src": "golf-cart-hurricane-prep-florida.jpg",
+  "phash": "52656151327327819155955402352483853052005307084568844961599971359",
+  "kind": "story",
+  "match": 0
+ },
+ "44-dundee-home-story.jpg": {
+  "src": "golf-carts-dundee-fl.jpg",
+  "phash": "115452841188094654141528997120316128532269982260132125861839868226828968592635",
+  "kind": "story",
+  "match": 0
+ },
+ "45-battery-honest-story.jpg": {
+  "src": "baterias-litio-carrito-de-golf-florida.jpg",
+  "phash": "115792085786245548726145091900033673175697891894282777025932524288277580152824",
+  "kind": "story",
+  "match": 0
+ },
+ "46-bartow-story.jpg": {
+  "src": "golf-carts-bartow-fl.jpg",
+  "phash": "114943947646272238960020198517741188974253533296970236881103962404052491303103",
+  "kind": "story",
+  "match": 0
+ },
+ "47-polk-outdoors-story.jpg": {
+  "src": "polk-county-outdoor-spots-sunsets.jpg",
+  "phash": "1809251394385722377254649470529955709905650408634699007133723900630668410879",
+  "kind": "story",
+  "match": 0
+ },
+ "48-used-ezgo-story.jpg": {
+  "src": "used-ezgo-golf-carts-central-florida.jpg",
+  "phash": "6502100725211857759785438065677381222307832033074467940936125122814906172411",
+  "kind": "story",
+  "match": 0
+ },
+ "49-insurance-florida-story.jpg": {
+  "src": "carritos-de-golf-en-venta-poinciana-fl.jpg",
+  "phash": "7235349137989072472024120640254815014846887124605670536630382940797196107772",
+  "kind": "story",
+  "match": 0
+ },
+ "50-yamaha-vs-clubcar-story.jpg": {
+  "src": "yamaha-vs-club-car-golf-cart.jpg",
+  "phash": "114207117851618690093988312905371433593983256306247593460148936649156053696447",
+  "kind": "story",
+  "match": 0
+ },
+ "51-haines-city-north-story.jpg": {
+  "src": "golf-carts-haines-city-fl.jpg",
+  "phash": "3162772261344600410782496763061519253808200701114218629649795519362303535036",
+  "kind": "story",
+  "match": 0
+ },
+ "52-repair-polk-story.jpg": {
+  "src": "reparacion-carritos-de-golf-polk-county.jpg",
+  "phash": "12368333858819358561840783563266154695299114544735929913783346910423597111",
+  "kind": "story",
+  "match": 0
+ },
+ "53-clubcar-cru-story.jpg": {
+  "src": "club-car-cru-vs-onward-lsv-florida.jpg",
+  "phash": "8834316205146053589458227226158071694370272949162096198219126588148017215",
+  "kind": "story",
+  "match": 0
+ },
+ "54-hurricane-season-story.jpg": {
+  "src": "golf-cart-hurricane-season-florida.jpg",
+  "phash": "48315252555751856523196550243799055313358973857458085672914979825647615",
+  "kind": "story",
+  "match": 1
+ },
+ "55-onward-2027-story.jpg": {
+  "src": "club-car-onward-2027-model-year.jpg",
+  "phash": "115737310102261163950298470272565285692142797285867353143902492297654905467263",
+  "kind": "story",
+  "match": 0
+ },
+ "56-limited-edition-story.jpg": {
+  "src": "limited-edition-golf-carts-explained.jpg",
+  "phash": "3505450458266578556386776794180216441770349526108439832284078353080362205179",
+  "kind": "story",
+  "match": 0
+ },
+ "57-accesorios-fl-story.jpg": {
+  "src": "accesorios-carrito-de-golf-florida.jpg",
+  "phash": "113080800320443098456881288064691573913839216669246983896731235625526626176",
+  "kind": "story",
+  "match": 0
+ },
+ "58-kissimmee-osceola-story.jpg": {
+  "src": "carritos-de-golf-kissimmee-osceola.jpg",
+  "phash": "101318057377017542502776179005010703584603407010548487227007276150529700511793",
+  "kind": "story",
+  "match": 0
+ },
+ "59-new-brand-lineup-story.jpg": {
+  "src": "teko-golf-carts-models-explained.jpg",
+  "phash": "115792006089669735248992669331237253993178537155689013006367401274960051699711",
+  "kind": "story",
+  "match": 0
+ },
+ "60-trade-in-story.jpg": {
+  "src": "carritos-de-golf-usados-florida-guia-compra.jpg",
+  "phash": "833964755442871492887057030353441497467401017116078379808223947418759004158",
+  "kind": "story",
+  "match": 0
+ },
+ "61-snowbird-checklist-story.jpg": {
+  "src": "snowbird-golf-cart-checklist-florida.jpg",
+  "phash": "115792089237303841290163823626836222800642790571997310070795086270495765561343",
+  "kind": "story",
+  "match": 0
+ },
+ "62-past-model-year-story.jpg": {
+  "src": "past-model-year-club-car-onward.jpg",
+  "phash": "3392442988823353182340262938718737468024122315025576771929762960942878867340",
+  "kind": "story",
+  "match": 0
+ },
+ "63-who-can-drive-story.jpg": {
+  "src": "who-can-drive-golf-cart-florida.jpg",
+  "phash": "3293821642504430511594974851195410561638739100116758190796374008",
+  "kind": "story",
+  "match": 1
+ },
+ "64-golf-cart-tires-story.jpg": {
+  "src": "golf-cart-tires-florida.jpg",
+  "phash": "115792087511787454142618384168138548874310808983518255494877158188375725957145",
+  "kind": "story",
+  "match": 0
+ },
+ "65-55plus-community-rules-story.jpg": {
+  "src": "golf-cart-rules-55-plus-communities-florida.jpg",
+  "phash": "108640087078405044478215163204374431726447629606406217659847460651611367440352",
+  "kind": "story",
+  "match": 0
+ },
+ "66-best-time-to-buy-story.jpg": {
+  "src": "mejor-epoca-comprar-carrito-de-golf-florida.jpg",
+  "phash": "115790212850303498013440890483766181550455853540159369057242797662305605713792",
+  "kind": "story",
+  "match": 0
+ },
+ "67-wont-move-story.jpg": {
+  "src": "golf-cart-wont-move-troubleshooting.jpg",
+  "phash": "115687831461003445455653347931874684036290763728581786941075383653609072551456",
+  "kind": "story",
+  "match": 0
+ },
+ "68-how-fast-story.jpg": {
+  "src": "how-fast-does-a-golf-cart-go.jpg",
+  "phash": "3631285166646597790371702154921990294387318871254212037606274369152232128509",
+  "kind": "story",
+  "match": 0
+ },
+ "69-charging-at-home-story.jpg": {
+  "src": "como-cargar-carrito-de-golf-en-casa-florida.jpg",
+  "phash": "114012819054388902854562477662980657159447967360041200485399527989990253920256",
+  "kind": "story",
+  "match": 0
+ },
+ "holiday-labor-day-2026-story.jpg": {
+  "src": "card:holiday-labor-day-2026.jpg",
+  "phash": "25248621927536489729899501648097648732120163160834955483319459905536",
+  "kind": "story",
+  "note": "identidad heredada del post (misma foto)"
+ },
+ "70-your-second-set-of-keys.jpg": {
+  "src": "70-your-second-set-of-keys.jpg",
+  "phash": "108556795319195784224094771175914705211284522942067960126145090580187935981568",
+  "kind": "post"
+ },
+ "71-four-seats-or-six.jpg": {
+  "src": "71-four-seats-or-six.jpg",
+  "phash": "6323447716304086189771745707753613896151537440869847138304",
+  "kind": "post"
+ },
+ "72-test-drive-first.jpg": {
+  "src": "72-test-drive-first.jpg",
+  "phash": "10110139092730460717464134839395886586396280540606327778674183569393",
+  "kind": "post"
+ },
+ "73-the-art-of-the-drive.jpg": {
+  "src": "73-the-art-of-the-drive.jpg",
+  "phash": "7011394391002385434718617595711668323616073270399719255003825355339782881255",
+  "kind": "post"
+ },
+ "74-quiet-ride-electric.jpg": {
+  "src": "74-quiet-ride-electric.jpg",
+  "phash": "3612484453213843754461245897762810858582496464467213441198979580182552109055",
+  "kind": "post"
+ },
+ "75-pre-owned-inspected.jpg": {
+  "src": "75-pre-owned-inspected.jpg",
+  "phash": "115792089236894946256896756262261619863144474049788826499867390398995047120895",
+  "kind": "post"
+ },
+ "76-round-of-golf-ready.jpg": {
+  "src": "76-round-of-golf-ready.jpg",
+  "phash": "11417981552280529454132879301504547005646503935",
+  "kind": "post"
+ },
+ "77-course-to-driveway.jpg": {
+  "src": "77-course-to-driveway.jpg",
+  "phash": "49086999594416492967272326013675381919596763857161289727",
+  "kind": "post"
+ },
+ "78-club-car-elite-3x.jpg": {
+  "src": "78-club-car-elite-3x.jpg",
+  "phash": "115792089235683649289965245242814704461093427078832062942050489157964059901727",
+  "kind": "post"
+ },
+ "79-cart-path-community.jpg": {
+  "src": "79-cart-path-community.jpg",
+  "phash": "24864467574782462790297942467465120424982296939735407502866351241633094701040",
+  "kind": "post"
+ },
+ "80-know-your-hoa-rules.jpg": {
+  "src": "80-know-your-hoa-rules.jpg",
+  "phash": "115791771345894743239649737042454815555157927759520117889256204241547366023296",
+  "kind": "post"
+ },
+ "81-neighbors-ask-where.jpg": {
+  "src": "81-neighbors-ask-where.jpg",
+  "phash": "1767224921990233518697409330931665942209212061959000510411803187154583536",
+  "kind": "post"
+ },
+ "82-service-center-open.jpg": {
+  "src": "82-service-center-open.jpg",
+  "phash": "252662675866488435222868591728473293578913100799904610653651203634833180464",
+  "kind": "post"
+ },
+ "83-annual-checkup.jpg": {
+  "src": "83-annual-checkup.jpg",
+  "phash": "5300622179954268722726045478362503931071492522535458067138828225599504383",
+  "kind": "post"
+ },
+ "84-battery-health-check.jpg": {
+  "src": "84-battery-health-check.jpg",
+  "phash": "5654003780945496526743665220267507616516671688556991024401810231071158042624",
+  "kind": "post"
+ },
+ "85-tires-matter.jpg": {
+  "src": "85-tires-matter.jpg",
+  "phash": "87070004220173575258024476210093669593939268026538087396297849434657673115654",
+  "kind": "post"
+ },
+ "86-charger-check.jpg": {
+  "src": "86-charger-check.jpg",
+  "phash": "86398707612807127768940148830903246204171880551139772179310073174755402317567",
+  "kind": "post"
+ },
+ "87-financing-sheffield.jpg": {
+  "src": "87-financing-sheffield.jpg",
+  "phash": "5300626709151340310329134891094925624841747395171199465941010659910090719",
+  "kind": "post"
+ },
+ "88-trade-in-welcome.jpg": {
+  "src": "88-trade-in-welcome.jpg",
+  "phash": "50714584538252077013600161238192327199800829951049632044547534060984168038343",
+  "kind": "post"
+ },
+ "89-in-stock-today.jpg": {
+  "src": "89-in-stock-today.jpg",
+  "phash": "27139185026151577519918855523460177317572218448102732168658157077261465913343",
+  "kind": "post"
+ },
+ "90-delivery-to-your-door.jpg": {
+  "src": "90-delivery-to-your-door.jpg",
+  "phash": "54772676051025403242706544449477046220623208759791649733158758167317892864",
+  "kind": "post"
+ },
+ "91-florida-heat-care.jpg": {
+  "src": "91-florida-heat-care.jpg",
+  "phash": "94075661365366885043912630415841825803793467897617196086126500064726586753520",
+  "kind": "post"
+ },
+ "92-storm-season-prep.jpg": {
+  "src": "92-storm-season-prep.jpg",
+  "phash": "1767251568882514913460525331923046516112764851428096455082549707861327903",
+  "kind": "post"
+ },
+ "93-sunset-cruise.jpg": {
+  "src": "93-sunset-cruise.jpg",
+  "phash": "56992288548245016764384440640342599100186934871857402964160331756697134003199",
+  "kind": "post"
+ },
+ "94-dog-rides-shotgun.jpg": {
+  "src": "94-dog-rides-shotgun.jpg",
+  "phash": "115792089237316195399051065147250394568460925137979901196938176679136664223744",
+  "kind": "post"
+ },
+ "95-beach-day-load.jpg": {
+  "src": "95-beach-day-load.jpg",
+  "phash": "108556822926918368582620538161325012830112238844407102809696239953201640505344",
+  "kind": "post"
+ },
+ "96-celebration.jpg": {
+  "src": "96-celebration.jpg",
+  "phash": "86844729498164367749487613469035065941648002573438428404684019973548052258559",
+  "kind": "post"
+ },
+ "97-championsgate.jpg": {
+  "src": "97-championsgate.jpg",
+  "phash": "421352004444219552388008870284457571990025169603855056520760786943",
+  "kind": "post"
+ },
+ "98-clermont.jpg": {
+  "src": "98-clermont.jpg",
+  "phash": "28945372025251547973654386095808855949251551053327002322509357883396550837120",
+  "kind": "post"
+ },
+ "99-eagle-lake.jpg": {
+  "src": "99-eagle-lake.jpg",
+  "phash": "434002530223579205738207089827361999109929308446620370042194198515",
+  "kind": "post"
+ },
+ "100-fort-meade.jpg": {
+  "src": "100-fort-meade.jpg",
+  "phash": "1858050854695058965593513033051937814165101274148443833237504",
+  "kind": "post"
+ },
+ "101-four-corners.jpg": {
+  "src": "101-four-corners.jpg",
+  "phash": "113986344010928154053960274317028229537003037134584780668200312841419330929663",
+  "kind": "post"
+ },
+ "102-frostproof.jpg": {
+  "src": "102-frostproof.jpg",
+  "phash": "790187189999184870356708951601985262330798534833520016",
+  "kind": "post"
+ },
+ "103-highland-city.jpg": {
+  "src": "103-highland-city.jpg",
+  "phash": "115394431324055968962966006426550571392098011089527222465699912409366614048304",
+  "kind": "post"
+ },
+ "104-kathleen.jpg": {
+  "src": "104-kathleen.jpg",
+  "phash": "791559563234793917952882893516631465891879105711609163654375925027078471552",
+  "kind": "post"
+ },
+ "105-lake-alfred.jpg": {
+  "src": "105-lake-alfred.jpg",
+  "phash": "115786788642201966942557961492959038668197679406499070500672232185966566047743",
+  "kind": "post"
+ },
+ "106-lake-hamilton.jpg": {
+  "src": "106-lake-hamilton.jpg",
+  "phash": "47890485652059026751005554739152277451606055672872956",
+  "kind": "post"
+ },
+ "107-loughman.jpg": {
+  "src": "107-loughman.jpg",
+  "phash": "791574229485276867480486748321098167681800054417778969985479178084178398719",
+  "kind": "post"
+ },
+ "108-mulberry.jpg": {
+  "src": "108-mulberry.jpg",
+  "phash": "1784681069696267868720847031659549244836789090488481850250392159011904954360",
+  "kind": "post"
+ },
+ "109-polk-city.jpg": {
+  "src": "109-polk-city.jpg",
+  "phash": "6582118664445110651097195305219011959723934183549010566476464127",
+  "kind": "post"
+ },
+ "110-reunion.jpg": {
+  "src": "110-reunion.jpg",
+  "phash": "115792089237157820832477462768814632285939012737843228974129276246137593921536",
+  "kind": "post"
+ },
+ "111-st-cloud.jpg": {
+  "src": "111-st-cloud.jpg",
+  "phash": "441712161121715903127304528642325115067726120674962386627484606813831035",
+  "kind": "post"
+ },
+ "s001-golf-cart-story.jpg": {
+  "src": "s001-golf-cart.jpg",
+  "phash": "316007680714779626705262720946613016539122513354651774748517728199",
+  "kind": "story"
+ },
+ "s002-golf-course-palm-trees-story.jpg": {
+  "src": "s002-golf-course-palm-trees.jpg",
+  "phash": "5892774600366561713222094483992026498231878148947968",
+  "kind": "story"
+ },
+ "s003-golf-course-story.jpg": {
+  "src": "s003-golf-course.jpg",
+  "phash": "12395482676987286877930169264212651682571952251009665859135734161901355808",
+  "kind": "story"
+ },
+ "s004-palm-tree-street-story.jpg": {
+  "src": "s004-palm-tree-street.jpg",
+  "phash": "10352777491033755583320867330221826750199566145089783928276383271227328",
+  "kind": "story"
+ },
+ "s005-golf-green-story.jpg": {
+  "src": "s005-golf-green.jpg",
+  "phash": "1070452103373855176696220790888505739233460223",
+  "kind": "story"
+ },
+ "s006-golf-fairway-story.jpg": {
+  "src": "s006-golf-fairway.jpg",
+  "phash": "3531929412327776979737555622983800026938372516140905603184521722778508603390",
+  "kind": "story"
+ },
+ "s007-country-club-story.jpg": {
+  "src": "s007-country-club.jpg",
+  "phash": "111311445960878214215668629005786787373689783478709027460478461576877178879",
+  "kind": "story"
+ },
+ "s008-golf-cart-resort-story.jpg": {
+  "src": "s008-golf-cart-resort.jpg",
+  "phash": "56539106072908298546665520023773393527404474907241067000051230394386743295",
+  "kind": "story"
+ },
+ "s009-golf-course-sunset-story.jpg": {
+  "src": "s009-golf-course-sunset.jpg",
+  "phash": "28609225074423181723764509821445445544262586221036073753319255267351698866175",
+  "kind": "story"
+ },
+ "s010-golf-clubhouse-story.jpg": {
+  "src": "s010-golf-clubhouse.jpg",
+  "phash": "58010006254336303529437741962510205201318212825419412212827290205193800450303",
+  "kind": "story"
+ },
+ "s011-sunny-sky-clouds-story.jpg": {
+  "src": "s011-sunny-sky-clouds.jpg",
+  "phash": "88653124640166911289831255339696650026728352602640734427403663352351812485120",
+  "kind": "story"
+ },
+ "s012-summer-rain-story.jpg": {
+  "src": "s012-summer-rain.jpg",
+  "phash": "12368119031617607951610885757516692553868233656721940203606036613007609855",
+  "kind": "story"
+ },
+ "s013-spanish-moss-oak-story.jpg": {
+  "src": "s013-spanish-moss-oak.jpg",
+  "phash": "34375819986258221862194124119358334068917862384",
+  "kind": "story"
+ },
+ "s014-lake-sunset-story.jpg": {
+  "src": "s014-lake-sunset.jpg",
+  "phash": "1725535316971080219966629753959577984245181980879072672120591930626048",
+  "kind": "story"
+ },
+ "s015-wetland-florida-story.jpg": {
+  "src": "s015-wetland-florida.jpg",
+  "phash": "21712728385311059836817282791388845121418098652036726671314310962108838707191",
+  "kind": "story"
+ },
+ "s016-citrus-grove-story.jpg": {
+  "src": "s016-citrus-grove.jpg",
+  "phash": "3977134947100719677600410437696666352039776202230622161299714853072351982",
+  "kind": "story"
+ },
+ "s017-marina-boats-story.jpg": {
+  "src": "s017-marina-boats.jpg",
+  "phash": "2744185843552882151600645871950092192776184",
+  "kind": "story"
+ },
+ "s018-beach-boardwalk-story.jpg": {
+  "src": "s018-beach-boardwalk.jpg",
+  "phash": "118476930923523347355314278517295559638010159885372321677539082234",
+  "kind": "story"
+ },
+ "s019-pier-sunset-story.jpg": {
+  "src": "s019-pier-sunset.jpg",
+  "phash": "38568079272658708530254007379601593641383067296393845437790271",
+  "kind": "story"
+ },
+ "s020-florida-beach-story.jpg": {
+  "src": "s020-florida-beach.jpg",
+  "phash": "115792089237316195373354171086133917496186751149558738479514898524154747682816",
+  "kind": "story"
+ },
+ "s021-tropical-road-story.jpg": {
+  "src": "s021-tropical-road.jpg",
+  "phash": "56991688090336281433026389901260730428801232162222349660831887018423633248383",
+  "kind": "story"
+ },
+ "s022-storm-clouds-story.jpg": {
+  "src": "s022-storm-clouds.jpg",
+  "phash": "50546843410207749741336871539943137208490435148250443471025610057927912063456",
+  "kind": "story"
+ },
+ "s023-golf-cart-story.jpg": {
+  "src": "s023-golf-cart.jpg",
+  "phash": "28269984420284572236210969962120091108736692216111594773030746500238409727",
+  "kind": "story"
+ },
+ "s024-florida-palm-trees-story.jpg": {
+  "src": "s024-florida-palm-trees.jpg",
+  "phash": "26565087258317062328544924983683750635287402425629823517851647",
+  "kind": "story"
+ },
+ "s025-golf-course-palm-trees-story.jpg": {
+  "src": "s025-golf-course-palm-trees.jpg",
+  "phash": "112233605409629641427623559947319448186380913330082787394087737096105669689343",
+  "kind": "story"
+ },
+ "s026-golf-course-story.jpg": {
+  "src": "s026-golf-course.jpg",
+  "phash": "280612600357590468160149290458320572443914451943420",
+  "kind": "story"
+ },
+ "s027-golf-green-story.jpg": {
+  "src": "s027-golf-green.jpg",
+  "phash": "3604588761874572226669819157129801482186642928196476120838046179302469271552",
+  "kind": "story"
+ },
+ "s028-golf-fairway-story.jpg": {
+  "src": "s028-golf-fairway.jpg",
+  "phash": "115792089237316195423570985002843328573419811568201021886332034314411674992616",
+  "kind": "story"
+ },
+ "s029-putting-green-story.jpg": {
+  "src": "s029-putting-green.jpg",
+  "phash": "1809335091079768647095470882933606777020245755330474660540377266888768487423",
+  "kind": "story"
+ },
+ "s030-golf-cart-course-story.jpg": {
+  "src": "s030-golf-cart-course.jpg",
+  "phash": "90266449611583037007921256517107993372430433394652262305740668880545237700544",
+  "kind": "story"
+ },
+ "s031-golf-cart-resort-story.jpg": {
+  "src": "s031-golf-cart-resort.jpg",
+  "phash": "10869643799685221433531915328953015240724248957246867963705683848781656752127",
+  "kind": "story"
+ },
+ "s032-golf-course-sunset-story.jpg": {
+  "src": "s032-golf-course-sunset.jpg",
+  "phash": "3013103847850177514561313155297075711831285997888138641375231",
+  "kind": "story"
+ },
+ "s033-golf-clubhouse-story.jpg": {
+  "src": "s033-golf-clubhouse.jpg",
+  "phash": "3781924113593480493348665877006454678813320893524507275464354297806847",
+  "kind": "story"
+ },
+ "s034-sunny-sky-clouds-story.jpg": {
+  "src": "s034-sunny-sky-clouds.jpg",
+  "phash": "61514160909344509020583638357080237072897441937742483300193762990292887183232",
+  "kind": "story"
+ },
+ "s035-summer-rain-story.jpg": {
+  "src": "s035-summer-rain.jpg",
+  "phash": "49040605602255889220542084881310421681519879386696777278",
+  "kind": "story"
+ },
+ "s036-spanish-moss-oak-story.jpg": {
+  "src": "s036-spanish-moss-oak.jpg",
+  "phash": "890367351432612606006707332973204746616395735508642279834980600728313853",
+  "kind": "story"
+ },
+ "s037-lake-sunset-story.jpg": {
+  "src": "s037-lake-sunset.jpg",
+  "phash": "50218154816731945458148127448768988448500758809117227483632",
+  "kind": "story"
+ },
+ "s038-wetland-florida-story.jpg": {
+  "src": "s038-wetland-florida.jpg",
+  "phash": "111313063570430947562338739374411040182151333328193413041000006421644836863",
+  "kind": "story"
+ },
+ "s039-citrus-grove-story.jpg": {
+  "src": "s039-citrus-grove.jpg",
+  "phash": "107560221534905391595672258919277544247896953763811253263944279274224573547544",
+  "kind": "story"
+ },
+ "s040-marina-boats-story.jpg": {
+  "src": "s040-marina-boats.jpg",
+  "phash": "5238329808028925733447842259468975588235241041428479",
+  "kind": "story"
+ },
+ "s041-sunrise-road-story.jpg": {
+  "src": "s041-sunrise-road.jpg",
+  "phash": "6427752272793628325451113285537243161297111054775671781854976",
+  "kind": "story"
+ },
+ "s042-beach-boardwalk-story.jpg": {
+  "src": "s042-beach-boardwalk.jpg",
+  "phash": "20319170096310872156187348247332751438415185418126750709221885801058533180",
+  "kind": "story"
+ },
+ "s043-florida-sunset-story.jpg": {
+  "src": "s043-florida-sunset.jpg",
+  "phash": "115749684692072067043804803085273950268710785089788487702741514471808654376959",
+  "kind": "story"
+ },
+ "s044-florida-beach-story.jpg": {
+  "src": "s044-florida-beach.jpg",
+  "phash": "28270415794240360746052492858235153088995827511282355147567223211665883135",
+  "kind": "story"
+ },
+ "s045-storm-clouds-story.jpg": {
+  "src": "s045-storm-clouds.jpg",
+  "phash": "6619257635591509528047315055844468570668902",
+  "kind": "story"
+ },
+ "s046-golf-cart-story.jpg": {
+  "src": "s046-golf-cart.jpg",
+  "phash": "876410927373589675343064207166135573351158810226689469038452610347611176959",
+  "kind": "story"
+ },
+ "s047-florida-palm-trees-story.jpg": {
+  "src": "s047-florida-palm-trees.jpg",
+  "phash": "71467183146477906025456247099324465243753742661780536003847348717299706167232",
+  "kind": "story"
+ },
+ "s048-golf-course-palm-trees-story.jpg": {
+  "src": "s048-golf-course-palm-trees.jpg",
+  "phash": "19289509208694125935526369908443210003192731329025509276254208",
+  "kind": "story"
+ },
+ "s049-golf-course-story.jpg": {
+  "src": "s049-golf-course.jpg",
+  "phash": "1358698518026943297618417233450840916671701528800416224567514192680931297152",
+  "kind": "story"
+ },
+ "s050-palm-tree-street-story.jpg": {
+  "src": "s050-palm-tree-street.jpg",
+  "phash": "1364270388242670479309311861181267900064824557567",
+  "kind": "story"
+ },
+ "s051-golf-green-story.jpg": {
+  "src": "s051-golf-green.jpg",
+  "phash": "14467164521188089556497684780254689480335908922925173007354632268036800741375",
+  "kind": "story"
+ },
+ "s052-golf-fairway-story.jpg": {
+  "src": "s052-golf-fairway.jpg",
+  "phash": "108556740726145882950245036872002391019482805141891016336099945595261132471361",
+  "kind": "story"
+ },
+ "s053-golf-flag-story.jpg": {
+  "src": "s053-golf-flag.jpg",
+  "phash": "71974055132438814329812660781022629664890067229890931684825238372619412045823",
+  "kind": "story"
+ },
+ "s054-putting-green-story.jpg": {
+  "src": "s054-putting-green.jpg",
+  "phash": "115778063163507075687486679497804921693445041743814240814465426783310233733104",
+  "kind": "story"
+ },
+ "s055-driving-range-story.jpg": {
+  "src": "s055-driving-range.jpg",
+  "phash": "83809765742941319509444441742373243047210703277653760",
+  "kind": "story"
+ },
+ "s056-golf-cart-course-story.jpg": {
+  "src": "s056-golf-cart-course.jpg",
+  "phash": "12812348704945080304109067879003467355460742529331550860316611",
+  "kind": "story"
+ },
+ "s057-golf-cart-resort-story.jpg": {
+  "src": "s057-golf-cart-resort.jpg",
+  "phash": "339343989334706656423958570212767214630472720065868350594173106895647031294",
+  "kind": "story"
+ },
+ "s058-golf-course-sunset-story.jpg": {
+  "src": "s058-golf-course-sunset.jpg",
+  "phash": "561225192874650093544668256786873405230765752451071",
+  "kind": "story"
+ },
+ "s059-sunny-sky-clouds-story.jpg": {
+  "src": "s059-sunny-sky-clouds.jpg",
+  "phash": "115792089237316041151042113662803702597725061626622805850192278448625934203904",
+  "kind": "story"
+ },
+ "s060-summer-rain-story.jpg": {
+  "src": "s060-summer-rain.jpg",
+  "phash": "5759655143096184093767460596067134960056606813936854493388800511",
+  "kind": "story"
+ },
+ "s061-lake-sunset-story.jpg": {
+  "src": "s061-lake-sunset.jpg",
+  "phash": "340282366920938463449539303081653502079",
+  "kind": "story"
+ },
+ "s062-wetland-florida-story.jpg": {
+  "src": "s062-wetland-florida.jpg",
+  "phash": "3505476366525616941113821596498723253662061271981045537947104895564129501183",
+  "kind": "story"
+ },
+ "s063-marina-boats-story.jpg": {
+  "src": "s063-marina-boats.jpg",
+  "phash": "86845392076765704492969938866469783083461486251998028729286675437059181641727",
+  "kind": "story"
+ },
+ "s064-beach-boardwalk-story.jpg": {
+  "src": "s064-beach-boardwalk.jpg",
+  "phash": "112981034101368943786063906924114567277605723703242893211516204105342690259071",
+  "kind": "story"
+ },
+ "s065-pier-sunset-story.jpg": {
+  "src": "s065-pier-sunset.jpg",
+  "phash": "110427941548655099250563157543591223782148510385834807683603679663685624",
+  "kind": "story"
+ },
+ "s066-florida-sunset-story.jpg": {
+  "src": "s066-florida-sunset.jpg",
+  "phash": "1632391843229532942795442147462681296620022341893161707297189134336",
+  "kind": "story"
+ },
+ "s067-florida-beach-story.jpg": {
+  "src": "s067-florida-beach.jpg",
+  "phash": "196183001789337331951215307994574817143166965910693019640",
+  "kind": "story"
+ },
+ "s068-golf-cart-story.jpg": {
+  "src": "s068-golf-cart.jpg",
+  "phash": "28946697153652226486026309828452037110016474704255755979576103552018599059327",
+  "kind": "story"
+ },
+ "s069-florida-palm-trees-story.jpg": {
+  "src": "s069-florida-palm-trees.jpg",
+  "phash": "115486419410770649261242470631931184033145151700043396050238658492552713609212",
+  "kind": "story"
+ },
+ "s070-golf-course-palm-trees-story.jpg": {
+  "src": "s070-golf-course-palm-trees.jpg",
+  "phash": "87741238412629357097932158073403674874439389014218231062793732121736350007295",
+  "kind": "story"
+ },
+ "s071-golf-course-story.jpg": {
+  "src": "s071-golf-course.jpg",
+  "phash": "1318354457842289828141090260123647",
+  "kind": "story"
+ },
+ "s072-golf-fairway-story.jpg": {
+  "src": "s072-golf-fairway.jpg",
+  "phash": "22100724330854376684735007239715804294050479887",
+  "kind": "story"
+ },
+ "112-easy-on-easy-off.jpg": {
+  "src": "112-easy-on-easy-off.jpg",
+  "phash": "1342739602838020601299477217902686444581603438609639546490411274231",
+  "kind": "post"
+ },
+ "114-test-drive-checklist.jpg": {
+  "src": "114-test-drive-checklist.jpg",
+  "phash": "660561476865611720765819046164781041134190289256974697761160279621631",
+  "kind": "post"
+ },
+ "115-lakeside-cart-path.jpg": {
+  "src": "115-lakeside-cart-path.jpg",
+  "phash": "115792089237316176083428309224186905970477728714717492611452094239886383513600",
+  "kind": "post"
+ },
+ "116-ready-when-you-are.jpg": {
+  "src": "116-ready-when-you-are.jpg",
+  "phash": "7265276830132780679021057454865983699626674421591128757175842888349403840507",
+  "kind": "post"
+ },
+ "117-club-car-evening-ride.jpg": {
+  "src": "117-club-car-evening-ride.jpg",
+  "phash": "115707279284116228916046670539773056006919384282686095612538269443631163310563",
+  "kind": "post"
+ },
+ "s073-golf-cart-story.jpg": {
+  "src": "s073-golf-cart.jpg",
+  "phash": "115779721281695920422744094086692024328569576803200225373306583716073287057668",
+  "kind": "story"
+ },
+ "s074-golf-cart-story.jpg": {
+  "src": "s074-golf-cart.jpg",
+  "phash": "7124036070844651886520774568685134583596659851598370530287429821661284728833",
+  "kind": "story"
+ },
+ "s075-golf-cart-story.jpg": {
+  "src": "s075-golf-cart.jpg",
+  "phash": "4185861501653647010777303305158655",
+  "kind": "story"
+ },
+ "s076-golf-cart-course-story.jpg": {
+  "src": "s076-golf-cart-course.jpg",
+  "phash": "22126860909034023586705933848250727949926399",
+  "kind": "story"
+ },
+ "s077-golf-cart-story.jpg": {
+  "src": "s077-golf-cart.jpg",
+  "phash": "888289236649395598146125301992840803866764981170235920698221952152489891331",
+  "kind": "story"
+ },
+ "s078-golf-clubhouse-story.jpg": {
+  "src": "s078-golf-clubhouse.jpg",
+  "phash": "115567692785092518382628427788947420510305660253300999062437976000595855671295",
+  "kind": "story"
+ },
+ "s079-golf-clubhouse-story.jpg": {
+  "src": "s079-golf-clubhouse.jpg",
+  "phash": "3141517079533159057246592479365264079228264854469698650080",
+  "kind": "story"
+ },
+ "s080-golf-clubhouse-story.jpg": {
+  "src": "s080-golf-clubhouse.jpg",
+  "phash": "730750824449592274819077884583893450353583063039",
+  "kind": "story"
+ },
+ "s081-golf-clubhouse-story.jpg": {
+  "src": "s081-golf-clubhouse.jpg",
+  "phash": "106874801587000489523414562600156308412829822569343960567052481455212751486976",
+  "kind": "story"
+ },
+ "s082-golf-clubhouse-story.jpg": {
+  "src": "s082-golf-clubhouse.jpg",
+  "phash": "115705512221360358336216370642702082939085371529201306837805459438531053042719",
+  "kind": "story"
+ },
+ "s083-golf-clubhouse-story.jpg": {
+  "src": "s083-golf-clubhouse.jpg",
+  "phash": "7210557694412751173480251284902106837279999062536252672868380534868256227199",
+  "kind": "story"
+ },
+ "s084-golf-course-palm-trees-story.jpg": {
+  "src": "s084-golf-course-palm-trees.jpg",
+  "phash": "1796027565977162198568723446284932830235691554726143615843911489615432744959",
+  "kind": "story"
+ },
+ "s085-golf-course-palm-trees-story.jpg": {
+  "src": "s085-golf-course-palm-trees.jpg",
+  "phash": "10601303123253121224161924791970276395593746959022168087848567935411945472",
+  "kind": "story"
+ },
+ "s086-golf-course-palm-trees-story.jpg": {
+  "src": "s086-golf-course-palm-trees.jpg",
+  "phash": "57896044618658509043985110285461955568988936542342007944862328749907630882816",
+  "kind": "story"
+ },
+ "s087-golf-course-palm-trees-story.jpg": {
+  "src": "s087-golf-course-palm-trees.jpg",
+  "phash": "87213120367880502100220883140723690347679095774628054147978905161536242712575",
+  "kind": "story"
+ },
+ "s088-putting-green-story.jpg": {
+  "src": "s088-putting-green.jpg",
+  "phash": "28043417325668577676005878766711837926323502232594870361600090133493392080895",
+  "kind": "story"
+ },
+ "s089-putting-green-story.jpg": {
+  "src": "s089-putting-green.jpg",
+  "phash": "166026405585353692561585326784511",
+  "kind": "story"
+ },
+ "s090-putting-green-story.jpg": {
+  "src": "s090-putting-green.jpg",
+  "phash": "115791536718669247125938552128089239851557556391133862596687990857030122602481",
+  "kind": "story"
+ },
+ "s091-golf-course-palm-trees-story.jpg": {
+  "src": "s091-golf-course-palm-trees.jpg",
+  "phash": "385969572989567932164760150743769326615355102144159757476364288",
+  "kind": "story"
+ },
+ "s092-wash-day-story.jpg": {
+  "src": "s092-wash-day.jpg",
+  "phash": "115776187600241286898944328885165998947119903888609984833551416661441314226175",
+  "kind": "story"
+ },
+ "118-transport-or-delivery.jpg": {
+  "src": "118-transport-or-delivery.jpg",
+  "phash": "27154645605220789951871562037551563687146410607515545924560332632319601999856",
+  "kind": "post"
+ },
+ "119-what-year-club-car.jpg": {
+  "src": "119-what-year-club-car.jpg",
+  "phash": "114435102377709577182575841697367727727247047287489417350889497586023738049023",
+  "kind": "post"
+ },
+ "120-seasonal-checkup.jpg": {
+  "src": "120-seasonal-checkup.jpg",
+  "phash": "115680771368561868156881861684268319529893075153277300419027509563802066616318",
+  "kind": "post"
+ },
+ "121-cart-path-morning.jpg": {
+  "src": "121-cart-path-morning.jpg",
+  "phash": "26117853288368452621537193796751339262256512975097704728929196638200",
+  "kind": "post"
+ },
+ "123-course-from-above.jpg": {
+  "src": "123-course-from-above.jpg",
+  "phash": "105312291717597605958018155792629865078184131093984498335421054968",
+  "kind": "post"
+ },
+ "125-rolling-greens.jpg": {
+  "src": "125-rolling-greens.jpg",
+  "phash": "51224288328522507183007040691665804630426430853024652044763135",
+  "kind": "post"
+ },
+ "127-shade-under-oaks.jpg": {
+  "src": "127-shade-under-oaks.jpg",
+  "phash": "115792089237316195423570985008679322067049151455888643946185556334249846505472",
+  "kind": "post"
+ },
+ "129-community-from-above.jpg": {
+  "src": "129-community-from-above.jpg",
+  "phash": "1780995227107598430876841895973818585207957772911644725684618740108269453311",
+  "kind": "post"
+ },
+ "130-tee-time-swing.jpg": {
+  "src": "130-tee-time-swing.jpg",
+  "phash": "20132024303885615878600448744621380480410788756746933671729037312",
+  "kind": "post"
+ },
+ "s093-px20121987-story.jpg": {
+  "src": "s093-px20121987.jpg",
+  "phash": "96103760378361707332998109853113191593465673384136100113270785372106424254467",
+  "kind": "story"
+ },
+ "s094-px6255521-story.jpg": {
+  "src": "s094-px6255521.jpg",
+  "phash": "114889216610260843477218710617865950236730423430416848600305261419300418224127",
+  "kind": "story"
+ },
+ "s095-px14376358-story.jpg": {
+  "src": "s095-px14376358.jpg",
+  "phash": "90463010828560658926645492431071540287853017308536035890117172063299490938886",
+  "kind": "story"
+ },
+ "s096-px30432214-story.jpg": {
+  "src": "s096-px30432214.jpg",
+  "phash": "251087038702854578925859299178241865409053547137648027449535",
+  "kind": "story"
+ },
+ "s097-px1576955-story.jpg": {
+  "src": "s097-px1576955.jpg",
+  "phash": "6275569239845814874977431076180167917983233596024195842112",
+  "kind": "story"
+ },
+ "s098-px11663815-story.jpg": {
+  "src": "s098-px11663815.jpg",
+  "phash": "10476583068628475376312821924887654143354879776655296",
+  "kind": "story"
+ },
+ "s099-px30604921-story.jpg": {
+  "src": "s099-px30604921.jpg",
+  "phash": "28946697153810196528998340828857219048089389080210749719218526559532310593536",
+  "kind": "story"
+ },
+ "s100-px38412874-story.jpg": {
+  "src": "s100-px38412874.jpg",
+  "phash": "427085540176250006558243123689156417457940365729332061081492783328",
+  "kind": "story"
+ },
+ "s101-px29882808-story.jpg": {
+  "src": "s101-px29882808.jpg",
+  "phash": "23590313294154197293029870357561435616977059845203364939028569784319",
+  "kind": "story"
+ },
+ "s102-px23531994-story.jpg": {
+  "src": "s102-px23531994.jpg",
+  "phash": "678479625494419779397489414413147021924294184439385502793217687432202289151",
+  "kind": "story"
+ },
+ "s103-px11331470-story.jpg": {
+  "src": "s103-px11331470.jpg",
+  "phash": "7258218428555182760421989303559822604210439849000262762489620328528508682215",
+  "kind": "story"
+ },
+ "s104-px19314648-story.jpg": {
+  "src": "s104-px19314648.jpg",
+  "phash": "1647812996082421928516174165012730524724469235295422119722084897510129663",
+  "kind": "story"
+ },
+ "s105-px2657617-story.jpg": {
+  "src": "s105-px2657617.jpg",
+  "phash": "112384230527214364077091315867835439892445933791693689598932670915705107906560",
+  "kind": "story"
+ },
+ "131-club-car-black-gold-dealer.jpg": {
+  "src": "131-club-car-black-gold-dealer.jpg",
+  "phash": "72319701535135268609559008604213038494568088546582927357942813250994928352799",
+  "kind": "post"
+ },
+ "132-enclosures-windshields.jpg": {
+  "src": "132-enclosures-windshields.jpg",
+  "phash": "3614996593687111439860516897131154794978919660039355442978635318458148847678",
+  "kind": "post"
+ },
+ "134-instead-of-second-car.jpg": {
+  "src": "134-instead-of-second-car.jpg",
+  "phash": "59679790598435325605151192541277705074231782693216187479408589935669287028687",
+  "kind": "post"
+ },
+ "135-service-bought-elsewhere.jpg": {
+  "src": "135-service-bought-elsewhere.jpg",
+  "phash": "890497606788715522170185364721363787063369821474591443367840502717576777731",
+  "kind": "post"
+ },
+ "136-utility-vehicles.jpg": {
+  "src": "136-utility-vehicles.jpg",
+  "phash": "115790323247052430653367998535805681227992458392215495160168830272535670102016",
+  "kind": "post"
+ },
+ "137-club-car-cart-path.jpg": {
+  "src": "137-club-car-cart-path.jpg",
+  "phash": "5943469800335199116414856036038131245918303068388007935",
+  "kind": "post"
+ },
+ "138-four-seater-fairway.jpg": {
+  "src": "138-four-seater-fairway.jpg",
+  "phash": "73559839900283254753078177972544203120823515074055372799",
+  "kind": "post"
+ },
+ "139-water-on-the-course.jpg": {
+  "src": "139-water-on-the-course.jpg",
+  "phash": "115792089237316195423570985008687885553545633235781321091663811895096674090883",
+  "kind": "post"
+ },
+ "s106-px38890583-story.jpg": {
+  "src": "s106-px38890583.jpg",
+  "phash": "182693972970625531500918418471872280371364626423",
+  "kind": "story"
+ },
+ "s107-px5644640-story.jpg": {
+  "src": "s107-px5644640.jpg",
+  "phash": "17354400712967861636630084837474938888182",
+  "kind": "story"
+ },
+ "s108-px6370080-story.jpg": {
+  "src": "s108-px6370080.jpg",
+  "phash": "1426979561013424112889389846265659977657177079807",
+  "kind": "story"
+ },
+ "s109-px15376290-story.jpg": {
+  "src": "s109-px15376290.jpg",
+  "phash": "115792089237316183371364010946587291471173542768825210573766403021709854638080",
+  "kind": "story"
+ },
+ "s110-px19003910-story.jpg": {
+  "src": "s110-px19003910.jpg",
+  "phash": "23945242831605039993848749023070973936812320928825343",
+  "kind": "story"
+ },
+ "s111-px15376167-story.jpg": {
+  "src": "s111-px15376167.jpg",
+  "phash": "115792089236895332323761889484172914042140203005371012910153029583024261431552",
+  "kind": "story"
+ },
+ "s112-px34898099-story.jpg": {
+  "src": "s112-px34898099.jpg",
+  "phash": "925055482230655824818153551963900503452839172735985907809633270459531264",
+  "kind": "story"
+ },
+ "s113-px13130869-story.jpg": {
+  "src": "s113-px13130869.jpg",
+  "phash": "72369393193878173598922585178303172513873806982000514299675203862748270100739",
+  "kind": "story"
+ },
+ "s114-px9554680-story.jpg": {
+  "src": "s114-px9554680.jpg",
+  "phash": "86843846055253439808811677995984422152889361289539578611798077550323096879104",
+  "kind": "story"
+ },
+ "s115-px12511896-story.jpg": {
+  "src": "s115-px12511896.jpg",
+  "phash": "115396750325012631801130107858437058454561965247576555316437114932060607281152",
+  "kind": "story"
+ },
+ "s116-px4480453-story.jpg": {
+  "src": "s116-px4480453.jpg",
+  "phash": "72002769854899259162351166746803891846867853677935481341806930401007161507965",
+  "kind": "story"
+ },
+ "s117-px5794263-story.jpg": {
+  "src": "s117-px5794263.jpg",
+  "phash": "115791164376555992423530997413367059378700042960447006381916974108970615762944",
+  "kind": "story"
+ },
+ "s118-px36514669-story.jpg": {
+  "src": "s118-px36514669.jpg",
+  "phash": "200793521325636312699312557900415542709133311",
+  "kind": "story"
+ },
+ "s119-px32731086-story.jpg": {
+  "src": "s119-px32731086.jpg",
+  "phash": "115340656374819873201370106117194488579395676219224937579011611919689870999554",
+  "kind": "story"
+ },
+ "s120-px30253077-story.jpg": {
+  "src": "s120-px30253077.jpg",
+  "phash": "410980675886583885281605227224521329006715493639931562872012799",
+  "kind": "story"
+ },
+ "s121-px11286945-story.jpg": {
+  "src": "s121-px11286945.jpg",
+  "phash": "6251527830206339910270454216358309007118373866414495301632",
+  "kind": "story"
+ },
+ "s122-px11665848-story.jpg": {
+  "src": "s122-px11665848.jpg",
+  "phash": "26744675185170578167511814018779945728355266872741492200038482959138816",
+  "kind": "story"
+ },
+ "s123-px1325716-story.jpg": {
+  "src": "s123-px1325716.jpg",
+  "phash": "43433352365072751121230746905991644584307541027174476006610532236213327233023",
+  "kind": "story"
+ },
+ "s124-px39480826-story.jpg": {
+  "src": "s124-px39480826.jpg",
+  "phash": "13569799568703053061494680145845458344891333064328246402910800360105110915071",
+  "kind": "story"
+ },
+ "s125-px29445695-story.jpg": {
+  "src": "s125-px29445695.jpg",
+  "phash": "56092949682913583741400523494802383492140846517496057963093115227301977587600",
+  "kind": "story"
+ },
+ "142-seat-covers.jpg": {
+  "src": "142-seat-covers.jpg",
+  "phash": "54385209905414884646207567709332463463908101893281869554428413154265130852351",
+  "kind": "post"
+ },
+ "140-davenport.jpg": {
+  "src": "140-davenport.jpg",
+  "phash": "115341539811832229098108336872175898585520450248827373998295378404529510875072",
+  "kind": "post"
+ },
+ "141-winter-haven-lakes.jpg": {
+  "src": "141-winter-haven-lakes.jpg",
+  "phash": "205692814343743357430750188916985016022375409597695649878441968",
+  "kind": "post"
+ },
+ "s126-px37820380-story.jpg": {
+  "src": "s126-px37820380-story.jpg",
+  "phash": "1802187430011862091029332519248868894136513783891881659350493019084488179711",
+  "kind": "story"
+ },
+ "s127-px15376175-story.jpg": {
+  "src": "s127-px15376175-story.jpg",
+  "phash": "115680774165230968739638735269463090215029623395335199265071183872254678204160",
+  "kind": "story"
+ },
+ "s128-px20739710-story.jpg": {
+  "src": "s128-px20739710-story.jpg",
+  "phash": "115777956267114399868932502815373985600669250157538012310855976076054383038208",
+  "kind": "story"
+ },
+ "s129-px15376282-story.jpg": {
+  "src": "s129-px15376282-story.jpg",
+  "phash": "115792089237316195423566384737907545653822548303132743210378987038432571621631",
+  "kind": "story"
+ },
+ "s130-px35546324-story.jpg": {
+  "src": "s130-px35546324-story.jpg",
+  "phash": "862731870368356422127985503230939555400300749785549068287078500990968",
+  "kind": "story"
+ },
+ "s131-px1325750-story.jpg": {
+  "src": "s131-px1325750-story.jpg",
+  "phash": "13816966284212500377268550199023206034498268947399277480879121542099008",
+  "kind": "story"
+ },
+ "s132-px39659350-story.jpg": {
+  "src": "s132-px39659350-story.jpg",
+  "phash": "115777845540932132551825863203605712538898250569244152403274868977332824047103",
+  "kind": "story"
+ },
+ "s133-px31633166-story.jpg": {
+  "src": "s133-px31633166-story.jpg",
+  "phash": "26953647475509692381059488133062754017643338611445189460525699825664",
+  "kind": "story"
+ },
+ "s134-px7758348-story.jpg": {
+  "src": "s134-px7758348-story.jpg",
+  "phash": "205694150702491032269465532618020143602541211363113450369712127",
+  "kind": "story"
+ },
+ "s135-px15376274-story.jpg": {
+  "src": "s135-px15376274-story.jpg",
+  "phash": "115792034237392631417976304234556408420327135709877561069152952342141395272673",
+  "kind": "story"
+ },
+ "s136-px15376276-story.jpg": {
+  "src": "s136-px15376276-story.jpg",
+  "phash": "115792089048492076803673565661221148458668535430835956596711715742720144236544",
+  "kind": "story"
+ },
+ "s137-px20762260-story.jpg": {
+  "src": "s137-px20762260-story.jpg",
+  "phash": "115792089236842282879706412955861553553892136194796769713885123763892620558463",
+  "kind": "story"
+ },
+ "s138-px10212725-story.jpg": {
+  "src": "s138-px10212725-story.jpg",
+  "phash": "115792089237131892686174135796285909106908020365370502910176760113940824944511",
+  "kind": "story"
+ },
+ "s139-px6542481-story.jpg": {
+  "src": "s139-px6542481-story.jpg",
+  "phash": "5300622077054806247295574030500860534818871465514471581339300655844499427",
+  "kind": "story"
+ },
+ "s140-px32404188-story.jpg": {
+  "src": "s140-px32404188-story.jpg",
+  "phash": "47143655483885023323910357899119715455710837346402303",
+  "kind": "story"
+ },
+ "s141-px6542389-story.jpg": {
+  "src": "s141-px6542389-story.jpg",
+  "phash": "6081035136310386348591936322085603033933801081526693199840",
+  "kind": "story"
+ },
+ "s142-px9207405-story.jpg": {
+  "src": "s142-px9207405-story.jpg",
+  "phash": "11248737949313508908346211063622098907533386936441535092227839",
+  "kind": "story"
+ },
+ "s143-px39659356-story.jpg": {
+  "src": "s143-px39659356-story.jpg",
+  "phash": "115792089237316015446510028001742789049195299620939519524815267261735594082815",
+  "kind": "story"
+ },
+ "s144-px6256851-story.jpg": {
+  "src": "s144-px6256851-story.jpg",
+  "phash": "6893610882999206151958468668584216730828731202005893119",
+  "kind": "story"
+ },
+ "s145-px18637338-story.jpg": {
+  "src": "s145-px18637338-story.jpg",
+  "phash": "86845060780224575624403506019696583385212118959579549966040298351428125065215",
+  "kind": "story"
+ },
+ "s146-px15376280-story.jpg": {
+  "src": "s146-px15376280-story.jpg",
+  "phash": "115792089237315989735427759697809529404777758992305302407748368120605971841280",
+  "kind": "story"
+ },
+ "143-running-slow.jpg": {
+  "src": "143-running-slow.jpg",
+  "phash": "3590236255143703678584917525494291030756700145128381201262045030901478309887",
+  "kind": "post"
+ },
+ "144-out-the-door.jpg": {
+  "src": "144-out-the-door.jpg",
+  "phash": "5427754182999196660479889922284743369528787639830395267546118615685664858103",
+  "kind": "post"
+ },
+ "145-bateria-es.jpg": {
+  "src": "145-bateria-es.jpg",
+  "phash": "115792089237315786457645597244355782873321702569628367635031521642166276390864",
+  "kind": "post"
+ },
+ "146-course-day.jpg": {
+  "src": "146-course-day.jpg",
+  "phash": "21711016745476759975507223645438237491412878691717372283660602574552279547903",
+  "kind": "post"
+ },
+ "147-ready-to-roll.jpg": {
+  "src": "147-ready-to-roll.jpg",
+  "phash": "45085821214346876477731643895276114386416236662685664",
+  "kind": "post"
+ },
+ "148-on-the-green.jpg": {
+  "src": "148-on-the-green.jpg",
+  "phash": "73560908394820135334642907749694901544015896781063716863",
+  "kind": "post"
+ },
+ "149-florida-sky.jpg": {
+  "src": "149-florida-sky.jpg",
+  "phash": "2832368529814767609810288140028089981336518655",
+  "kind": "post"
+ },
+ "150-cart-barn.jpg": {
+  "src": "150-cart-barn.jpg",
+  "phash": "55435217016446110872449301991341896638398545371195372337784135326714344472575",
+  "kind": "post"
+ },
+ "151-cart-crossing.jpg": {
+  "src": "151-cart-crossing.jpg",
+  "phash": "114095862564922874886911784014584556520781694026572225519153762451778064810015",
+  "kind": "post"
+ },
+ "152-open-fairway.jpg": {
+  "src": "152-open-fairway.jpg",
+  "phash": "883438691137083482706215004319718231442142368857954410732269479686889472",
+  "kind": "post"
+ },
+ "153-pond-bridge.jpg": {
+  "src": "153-pond-bridge.jpg",
+  "phash": "2882496363811721977317473379010774595042631346640719800",
+  "kind": "post"
+ },
+ "154-palm-sunset.jpg": {
+  "src": "154-palm-sunset.jpg",
+  "phash": "1766847064778384331986754161639985554372748099517639084001317380629139455",
+  "kind": "post"
+ },
+ "155-rainbow.jpg": {
+  "src": "155-rainbow.jpg",
+  "phash": "42912821622712584622721030597730966328024435575777828860",
+  "kind": "post"
+ },
+ "156-shady-fairway.jpg": {
+  "src": "156-shady-fairway.jpg",
+  "phash": "115790543220029821077185989885011883321900641898892795593277396901266441895936",
+  "kind": "post"
+ },
+ "157-loading-the-bags.jpg": {
+  "src": "157-loading-the-bags.jpg",
+  "phash": "224393024766081753204533188506587818120565379177509881657428089357915930616",
+  "kind": "post"
+ },
+ "158-hilltop-course.jpg": {
+  "src": "158-hilltop-course.jpg",
+  "phash": "57883669811048255564671431808329967944472738657742986120343569039330472099839",
+  "kind": "post"
+ },
+ "159-ocean-breeze.jpg": {
+  "src": "159-ocean-breeze.jpg",
+  "phash": "20220268537175376061625133760684783840094416302937382583355377188863",
+  "kind": "post"
+ },
+ "160-teko-coast.jpg": {
+  "src": "160-teko-coast.jpg",
+  "phash": "11030538567718197628743618481215533393022328408983876517270043728549028765695",
+  "kind": "post"
+ },
+ "161-teko-palms.jpg": {
+  "src": "161-teko-palms.jpg",
+  "phash": "115792089237263533653260454100907932965364667319220874298060330514006358950403",
+  "kind": "post"
+ },
+ "162-teko-driveway.jpg": {
+  "src": "162-teko-driveway.jpg",
+  "phash": "57894723015969616898812561224309408087593116287798316123070426581897593227134",
+  "kind": "post"
+ },
+ "163-teko-beach-run.jpg": {
+  "src": "163-teko-beach-run.jpg",
+  "phash": "115792089236474057093779670807002723544421960524465982505892797562286816362495",
+  "kind": "post"
+ },
+ "164-teko-lakeside-sunset.jpg": {
+  "src": "164-teko-lakeside-sunset.jpg",
+  "phash": "107410069760534741029316493673553820114489242036130993208057026739438464",
+  "kind": "post"
+ },
+ "165-teko-community.jpg": {
+  "src": "165-teko-community.jpg",
+  "phash": "1584873060277338653146724654825359966259927654288027908614684986189617758215",
+  "kind": "post"
+ },
+ "166-teko-blue-street.jpg": {
+  "src": "166-teko-blue-street.jpg",
+  "phash": "15263804302033247524330988539750709886472338949360839123191069807184944823481",
+  "kind": "post"
+ },
+ "167-teko-turbolite-green.jpg": {
+  "src": "167-teko-turbolite-green.jpg",
+  "phash": "13173878954090781421800320532038183496617998528041792619860197375",
+  "kind": "post"
+ },
+ "168-teko-turbolite-putting.jpg": {
+  "src": "168-teko-turbolite-putting.jpg",
+  "phash": "114264651675251868767852010915343719481091352562271088444422685417336567759135",
+  "kind": "post"
+ },
+ "169-teko-night-ride.jpg": {
+  "src": "169-teko-night-ride.jpg",
+  "phash": "66830326808552238314407534402913138428487797813074851242420053168281338052839",
+  "kind": "post"
+ },
+ "170-teko-red-mural.jpg": {
+  "src": "170-teko-red-mural.jpg",
+  "phash": "101325035256967077902361739063208846083939765431711939866479549980243371229179",
+  "kind": "post"
+ },
+ "171-teko-waterside-group.jpg": {
+  "src": "171-teko-waterside-group.jpg",
+  "phash": "2994616879282714703020478078314700437701401261375391",
+  "kind": "post"
+ },
+ "172-teko-lakeside-couple.jpg": {
+  "src": "172-teko-lakeside-couple.jpg",
+  "phash": "20220268612502051489590506578665735587323268818871043904036624465912",
+  "kind": "post"
+ },
+ "s147-teko-dusk-course-story.jpg": {
+  "src": "s147-teko-dusk-course.jpg",
+  "phash": "115567589232147791983526240892976843875406330269249641983096777801879968022527",
+  "kind": "story"
+ },
+ "s148-teko-sunset-front-story.jpg": {
+  "src": "s148-teko-sunset-front.jpg",
+  "phash": "5709128991923613062351945284830431232263192575",
+  "kind": "story"
+ },
+ "s149-teko-controls-story.jpg": {
+  "src": "s149-teko-controls.jpg",
+  "phash": "1805731298331043491944773219147026391414054043288270652880527888194239201280",
+  "kind": "story"
+ },
+ "s150-teko-seats-story.jpg": {
+  "src": "s150-teko-seats.jpg",
+  "phash": "25271594023662979189790430826156706653788914364561165695352442220833501151232",
+  "kind": "story"
+ },
+ "s151-teko-night-glow-story.jpg": {
+  "src": "s151-teko-night-glow.jpg",
+  "phash": "115792082766826562654216727383068941746195772905124206325733473956830478598144",
+  "kind": "story"
+ },
+ "s152-teko-lakeside-story.jpg": {
+  "src": "s152-teko-lakeside.jpg",
+  "phash": "113984577109601626761119931669987073211491048139866587845852964664541517237310",
+  "kind": "story"
+ },
+ "s153-teko-blue-park-story.jpg": {
+  "src": "s153-teko-blue-park.jpg",
+  "phash": "57897632034008817512533786223037437436032042622358448590475127652007698037760",
+  "kind": "story"
+ },
+ "s154-teko-town-story.jpg": {
+  "src": "s154-teko-town.jpg",
+  "phash": "115792061656880195119866293923192756996150984944423131937556639025970639254527",
+  "kind": "story"
+ },
+ "s155-teko-cooler-story.jpg": {
+  "src": "s155-teko-cooler.jpg",
+  "phash": "23510108597316507084890714211232906070065379992012029653057831531003437383936",
+  "kind": "story"
+ },
+ "s156-teko-front-storage-story.jpg": {
+  "src": "s156-teko-front-storage.jpg",
+  "phash": "115680777680565449401580238215049022214645612252848235995207196139654926764029",
+  "kind": "story"
+ },
+ "s157-teko-cabin-story.jpg": {
+  "src": "s157-teko-cabin.jpg",
+  "phash": "13569773702663288863054820814478099161017871044350830953041266684312493622680",
+  "kind": "story"
+ },
+ "s158-teko-neighborhood-story.jpg": {
+  "src": "s158-teko-neighborhood.jpg",
+  "phash": "115770886181998347199606435789282718653963978241966356815229562163636855588895",
+  "kind": "story"
+ },
+ "173-teko-red-couple.jpg": {
+  "src": "173-teko-red-couple.jpg",
+  "phash": "48313805350864557660939750313569936692808808052503561584751772463785600",
+  "kind": "post"
+ },
+ "174-teko-red-field.jpg": {
+  "src": "174-teko-red-field.jpg",
+  "phash": "2747665753984547832854660254266056597785745558853587566591",
+  "kind": "post"
+ },
+ "175-teko-picnic.jpg": {
+  "src": "175-teko-picnic.jpg",
+  "phash": "848099963434544680639574444428267488673278488281335295463349776408723324927",
+  "kind": "post"
+ },
+ "176-teko-two-up.jpg": {
+  "src": "176-teko-two-up.jpg",
+  "phash": "909952214665868373090907991559409617809080888512698576267645769548091555871",
+  "kind": "post"
+ },
+ "177-teko-fourth-july.jpg": {
+  "src": "177-teko-fourth-july.jpg",
+  "phash": "26328474689286310033599767632051612841581725218171433930681483263",
+  "kind": "post"
+ },
+ "178-teko-turquoise-house.jpg": {
+  "src": "178-teko-turquoise-house.jpg",
+  "phash": "115790322413846694253080416691993509893138443522980274931466123580767872221408",
+  "kind": "post"
+ },
+ "179-teko-turquoise-friends.jpg": {
+  "src": "179-teko-turquoise-friends.jpg",
+  "phash": "3390595019282704109209655342591023405047962618475093303546776176090136222712",
+  "kind": "post"
+ },
+ "180-teko-blue-lake.jpg": {
+  "src": "180-teko-blue-lake.jpg",
+  "phash": "21711844947455979920014556757479837194439563709684107998737200378219367497675",
+  "kind": "post"
+ },
+ "181-teko-blue-walkup.jpg": {
+  "src": "181-teko-blue-walkup.jpg",
+  "phash": "5427767991125701801584867695190289085070742152971755409238541763957338734588",
+  "kind": "post"
+ },
+ "182-teko-blue-front.jpg": {
+  "src": "182-teko-blue-front.jpg",
+  "phash": "1698502557524472200820804532492133287247456036090909149495165883281527",
+  "kind": "post"
+ },
+ "183-teko-motion.jpg": {
+  "src": "183-teko-motion.jpg",
+  "phash": "44171176619459607874758749446807375696118857565391192372502177751414865920",
+  "kind": "post"
+ },
+ "184-teko-cruising.jpg": {
+  "src": "184-teko-cruising.jpg",
+  "phash": "115777954487757915011024652184392503351833995434225269924389329550128726872059",
+  "kind": "post"
+ },
+ "185-teko-kids-aboard.jpg": {
+  "src": "185-teko-kids-aboard.jpg",
+  "phash": "101489247617745714439863427403318369222982176326288812227816894431792090607616",
+  "kind": "post"
+ },
+ "186-teko-seaside-street.jpg": {
+  "src": "186-teko-seaside-street.jpg",
+  "phash": "115792089237316182969607951827739725610080312858079934648714270962783135690815",
+  "kind": "post"
+ },
+ "187-teko-grocery-run.jpg": {
+  "src": "187-teko-grocery-run.jpg",
+  "phash": "114988163260805729334225246315591647405771750050886456080968651702339744364466",
+  "kind": "post"
+ },
+ "188-teko-white-road.jpg": {
+  "src": "188-teko-white-road.jpg",
+  "phash": "53005411951116360839690055804774863416569309789398207400449723808595640192",
+  "kind": "post"
+ },
+ "189-teko-couple-cabin.jpg": {
+  "src": "189-teko-couple-cabin.jpg",
+  "phash": "1710224325778614554316716555343197038732495539450402545406189893716327530526",
+  "kind": "post"
+ },
+ "190-teko-family-park.jpg": {
+  "src": "190-teko-family-park.jpg",
+  "phash": "4069159206308590749306896898587861714597281039842720449233547106326113353726",
+  "kind": "post"
+ },
+ "191-teko-palm-house.jpg": {
+  "src": "191-teko-palm-house.jpg",
+  "phash": "115569463164069412790426457286607513021178484665125823339176276909525248704543",
+  "kind": "post"
+ },
+ "192-teko-white-drive.jpg": {
+  "src": "192-teko-white-drive.jpg",
+  "phash": "57895161181013630836896804139232622800059107520657002483338500443405734174912",
+  "kind": "post"
+ },
+ "193-teko-porch.jpg": {
+  "src": "193-teko-porch.jpg",
+  "phash": "115789438960005266605343032231046557894531659031155862176381602273204504064767",
+  "kind": "post"
+ },
+ "194-teko-palm-street.jpg": {
+  "src": "194-teko-palm-street.jpg",
+  "phash": "115792089237316184174624604420711703592298179128252279693219981979333169308608",
+  "kind": "post"
+ },
+ "s159-teko-walkup-story.jpg": {
+  "src": "s159-teko-walkup.jpg",
+  "phash": "115792089237316193917042048961472322902736044877828501839094454172157772503551",
+  "kind": "story"
+ },
+ "s160-teko-frunk-open-story.jpg": {
+  "src": "s160-teko-frunk-open.jpg",
+  "phash": "10855674872314314842155475769692690330160030483965843277663583803592236072959",
+  "kind": "story"
+ },
+ "s161-teko-picnic-blanket-story.jpg": {
+  "src": "s161-teko-picnic-blanket.jpg",
+  "phash": "386524715876235417815923970253828455040921752253315908228757583856402430",
+  "kind": "story"
+ },
+ "s162-teko-night-street-story.jpg": {
+  "src": "s162-teko-night-street.jpg",
+  "phash": "57436872271451641139489184956354585883750297039178449608895033595506381088512",
+  "kind": "story"
+ },
+ "s163-teko-blue-nose-story.jpg": {
+  "src": "s163-teko-blue-nose.jpg",
+  "phash": "57896044618658097714924127180937996744322548562187765084827585070293462257662",
+  "kind": "story"
+ },
+ "s164-teko-hands-wheel-story.jpg": {
+  "src": "s164-teko-hands-wheel.jpg",
+  "phash": "10608146053694295865157226197529079626697631511030290101201213151751238592",
+  "kind": "story"
+ },
+ "s165-teko-under-trees-story.jpg": {
+  "src": "s165-teko-under-trees.jpg",
+  "phash": "115792089236526340782195007382516227356556386995316587922035222263466479845375",
+  "kind": "story"
+ },
+ "s166-teko-brake-story.jpg": {
+  "src": "s166-teko-brake.jpg",
+  "phash": "113986316349899872474517133570418416535510595563895669905823325750228324191232",
+  "kind": "story"
+ },
+ "s167-teko-charge-port-story.jpg": {
+  "src": "s167-teko-charge-port.jpg",
+  "phash": "719927075851684614379878807111066438513555207052695417078738944",
+  "kind": "story"
+ },
+ "s168-teko-overhead-story.jpg": {
+  "src": "s168-teko-overhead.jpg",
+  "phash": "95783802968769506549861177911757351819290552133746568",
+  "kind": "story"
+ },
+ "s169-teko-dusk-water-story.jpg": {
+  "src": "s169-teko-dusk-water.jpg",
+  "phash": "87355028529805655882491033290825438412448334129008216012",
+  "kind": "story"
+ },
+ "s170-teko-dash-detail-story.jpg": {
+  "src": "s170-teko-dash-detail.jpg",
+  "phash": "224390412998198607103019295365549374971525349047980771647571969729585217499",
+  "kind": "story"
+ },
+ "s171-teko-loading-up-story.jpg": {
+  "src": "s171-teko-loading-up.jpg",
+  "phash": "115338009514707387445865947556666942887439991778342590579519157854276019027967",
+  "kind": "story"
+ },
+ "s172-teko-beach-stop-story.jpg": {
+  "src": "s172-teko-beach-stop.jpg",
+  "phash": "100363759053132419493627602235440843812775083427950773682596597566599015202816",
+  "kind": "story"
+ },
+ "s173-teko-seat-detail-story.jpg": {
+  "src": "s173-teko-seat-detail.jpg",
+  "phash": "1767521281475112135647034296164638989482708022244787115104327895314661377",
+  "kind": "story"
+ },
+ "s174-teko-white-rear-story.jpg": {
+  "src": "s174-teko-white-rear.jpg",
+  "phash": "26961388941167254912374323331542803173004811013489547138412029918751",
+  "kind": "story"
+ },
+ "s175-teko-cup-holder-story.jpg": {
+  "src": "s175-teko-cup-holder.jpg",
+  "phash": "45238655988732792551312320471102110720195434102466903219578048175277191259264",
+  "kind": "story"
+ },
+ "s176-teko-floor-mat-story.jpg": {
+  "src": "s176-teko-floor-mat.jpg",
+  "phash": "113996945227775933054805899755092392397336275913133598493064873289006959871584",
+  "kind": "story"
+ },
+ "s177-teko-seat-belt-story.jpg": {
+  "src": "s177-teko-seat-belt.jpg",
+  "phash": "205691208263910030427069115075157735845326792158885712914014211",
+  "kind": "story"
+ },
+ "s178-teko-sound-bar-story.jpg": {
+  "src": "s178-teko-sound-bar.jpg",
+  "phash": "100890276782848163773513410667425515645788830245720486761049762457041149949952",
+  "kind": "story"
+ },
+ "s179-teko-wheel-story.jpg": {
+  "src": "s179-teko-wheel.jpg",
+  "phash": "54772663413500758159798669175304513114835063056930281069794239410375491487",
+  "kind": "story"
+ },
+ "s180-teko-turbolite-cabin-story.jpg": {
+  "src": "s180-teko-turbolite-cabin.jpg",
+  "phash": "108782909446062544738721288631042823768593086140855197686433165316106610339846",
+  "kind": "story"
+ },
+ "195-teko-game-day.jpg": {
+  "src": "195-teko-game-day.jpg",
+  "phash": "223037802130970549636717397418410842905680008815084458456025598877497294847",
+  "kind": "post"
+ },
+ "196-teko-lake-road.jpg": {
+  "src": "196-teko-lake-road.jpg",
+  "phash": "5300622080551581896826530785187163672852140060706377750180918893251854336",
+  "kind": "post"
+ },
+ "197-teko-open-frunk.jpg": {
+  "src": "197-teko-open-frunk.jpg",
+  "phash": "113986343983837233512326307382330063435878965806913953461529339224896304839670",
+  "kind": "post"
+ },
+ "198-teko-shade-park.jpg": {
+  "src": "198-teko-shade-park.jpg",
+  "phash": "7067711783410094461159451050670547681509582210220267934085302847646007294",
+  "kind": "post"
+ },
+ "199-teko-long-shadows.jpg": {
+  "src": "199-teko-long-shadows.jpg",
+  "phash": "114095864277760901680367024358648145530051073588251138075530054115251959626211",
+  "kind": "post"
+ },
+ "200-teko-golden-hour.jpg": {
+  "src": "200-teko-golden-hour.jpg",
+  "phash": "115792084060163937003583281013802102834250118097792966153225371637947612331776",
+  "kind": "post"
+ },
+ "201-teko-wheel-screen.jpg": {
+  "src": "201-teko-wheel-screen.jpg",
+  "phash": "98634196209093918360365548861606169929704561980803749984800497207098243419070",
+  "kind": "post"
+ },
+ "202-teko-park-day.jpg": {
+  "src": "202-teko-park-day.jpg",
+  "phash": "22163667767836158138273967165686021124339337020918325056317674222180243832830",
+  "kind": "post"
+ },
+ "203-teko-front-lawn.jpg": {
+  "src": "203-teko-front-lawn.jpg",
+  "phash": "115792089212040834065907410618962093023354521426981467472084717775070087819983",
+  "kind": "post"
+ },
+ "204-teko-bag-rack.jpg": {
+  "src": "204-teko-bag-rack.jpg",
+  "phash": "54278370065671222942879585078091190625944439682793102573554267093399167361984",
+  "kind": "post"
+ },
+ "205-teko-porch-seat.jpg": {
+  "src": "205-teko-porch-seat.jpg",
+  "phash": "115792089236908521669524923571593320906670340036282750457603535480147028180751",
+  "kind": "post"
+ },
+ "206-teko-tee-time.jpg": {
+  "src": "206-teko-tee-time.jpg",
+  "phash": "6528187337321075384201903027667482306661623694665784831770623",
+  "kind": "post"
+ },
+ "207-teko-fairway.jpg": {
+  "src": "207-teko-fairway.jpg",
+  "phash": "6901114473040599952331092211954633235334139029535543792117935631237119",
+  "kind": "post"
+ },
+ "208-teko-blue-friends.jpg": {
+  "src": "208-teko-blue-friends.jpg",
+  "phash": "115792089237316195423570889273023176815667866040007715155687588998600919613949",
+  "kind": "post"
+ },
+ "209-teko-blue-ride.jpg": {
+  "src": "209-teko-blue-ride.jpg",
+  "phash": "6812855301557705964801343060287210686401243826897099978317577420551042891775",
+  "kind": "post"
+ },
+ "210-teko-red-wheel.jpg": {
+  "src": "210-teko-red-wheel.jpg",
+  "phash": "57896928042190898298921661974253931722457705100677312054811858441396983693311",
+  "kind": "post"
+ },
+ "s181-teko-field-story.jpg": {
+  "src": "s181-teko-field.jpg",
+  "phash": "13749782605266700704973485600994671209619469757341689395754556199272447",
+  "kind": "story"
+ },
+ "s183-teko-distance-story.jpg": {
+  "src": "s183-teko-distance.jpg",
+  "phash": "5301376953915981908166985169794538792115756759500984940829954602702995452",
+  "kind": "story"
+ },
+ "s184-teko-group-white-story.jpg": {
+  "src": "s184-teko-group-white.jpg",
+  "phash": "2966496455210059451779783000673890708116797534500928871503872900519954415612",
+  "kind": "story"
+ },
+ "s185-teko-front-right-story.jpg": {
+  "src": "s185-teko-front-right.jpg",
+  "phash": "80881074129894431668460303774240437459328730319949126256589484328896",
+  "kind": "story"
+ },
+ "s186-teko-storage-load-story.jpg": {
+  "src": "s186-teko-storage-load.jpg",
+  "phash": "848583087153253595522202404112202314349239115328453877036235692381554343944",
+  "kind": "story"
+ },
+ "s187-teko-rear-left-story.jpg": {
+  "src": "s187-teko-rear-left.jpg",
+  "phash": "115622447789156993907105360138960721916389847587481217378434637674341461917679",
+  "kind": "story"
+ },
+ "s188-teko-loading-clubs-story.jpg": {
+  "src": "s188-teko-loading-clubs.jpg",
+  "phash": "114888885321380849986786807288720312001223889254717759186189852903157102866207",
+  "kind": "story"
+ },
+ "s189-teko-dawn-story.jpg": {
+  "src": "s189-teko-dawn.jpg",
+  "phash": "151122587917493406574300644721188539465727",
+  "kind": "story"
+ },
+ "s190-teko-bags-loaded-story.jpg": {
+  "src": "s190-teko-bags-loaded.jpg",
+  "phash": "115790322813823711739701491488522332398378822051235814195765683728623521548154",
+  "kind": "story"
+ },
+ "s191-teko-on-course-story.jpg": {
+  "src": "s191-teko-on-course.jpg",
+  "phash": "2993163916870515232695973756483732753113278392041471",
+  "kind": "story"
+ },
+ "s192-teko-cup-detail-story.jpg": {
+  "src": "s192-teko-cup-detail.jpg",
+  "phash": "3533909821883161650847063918002869814131365200169041962471867537762287615",
+  "kind": "story"
+ },
+ "s193-teko-scorecard-story.jpg": {
+  "src": "s193-teko-scorecard.jpg",
+  "phash": "54773094825510677261747303462890295742385922236955627018544073108207238391",
+  "kind": "story"
+ },
+ "s194-teko-blue-lawn-story.jpg": {
+  "src": "s194-teko-blue-lawn.jpg",
+  "phash": "450601215486381898383826654601265552672140335543499245167077208725812117503",
+  "kind": "story"
+ },
+ "s195-teko-blue-street2-story.jpg": {
+  "src": "s195-teko-blue-street2.jpg",
+  "phash": "26328072917138550212580264408169024962729051857872606014428217088",
+  "kind": "story"
+ },
+ "s196-teko-red-ride-story.jpg": {
+  "src": "s196-teko-red-ride.jpg",
+  "phash": "6784692829852037026942579843053475460492445826814404568324757684702326816767",
+  "kind": "story"
+ },
+ "211-teko-group-red.jpg": {
+  "src": "211-teko-group-red.jpg",
+  "phash": "5894406176054649200297125473507730049422194830856689349517234929663",
+  "kind": "post"
+ },
+ "212-teko-red-road.jpg": {
+  "src": "212-teko-red-road.jpg",
+  "phash": "115792089210356248756420345377709076147311636609793756178901054848771234463743",
+  "kind": "post"
+ },
+ "213-teko-soccer.jpg": {
+  "src": "213-teko-soccer.jpg",
+  "phash": "12654637098539639829264578632787356882701375298634681533071359",
+  "kind": "post"
+ },
+ "214-teko-picnic-group.jpg": {
+  "src": "214-teko-picnic-group.jpg",
+  "phash": "43592092547898386113001342219731842071736310092479467271795525252521712812031",
+  "kind": "post"
+ },
+ "215-teko-house-picnic.jpg": {
+  "src": "215-teko-house-picnic.jpg",
+  "phash": "54772663409798178312660952937405052130936474795747290783753811222232760319",
+  "kind": "post"
+ },
+ "216-teko-green-kids.jpg": {
+  "src": "216-teko-green-kids.jpg",
+  "phash": "4297413348675209679493118578746623482640594279268795650873727320887188848624",
+  "kind": "post"
+ },
+ "217-teko-evening-street.jpg": {
+  "src": "217-teko-evening-street.jpg",
+  "phash": "704972059726492488160810556340126471622204324696257669389346882542682248055",
+  "kind": "post"
+ },
+ "218-teko-blue-group.jpg": {
+  "src": "218-teko-blue-group.jpg",
+  "phash": "65134540986050690482796427450069715570334166810570139375280099789743459532737",
+  "kind": "post"
+ },
+ "219-teko-blue-lakeside.jpg": {
+  "src": "219-teko-blue-lakeside.jpg",
+  "phash": "54773094772698754152297326422184616638684589721615244593874998824133394302",
+  "kind": "post"
+ },
+ "220-teko-blue-driving.jpg": {
+  "src": "220-teko-blue-driving.jpg",
+  "phash": "97588207204271480494793348955476250404971704420242237939683267274334510567032",
+  "kind": "post"
+ },
+ "221-teko-green-sunlit.jpg": {
+  "src": "221-teko-green-sunlit.jpg",
+  "phash": "890497707867484282448728802317373074960448129516078117504955029417132818367",
+  "kind": "post"
+ },
+ "222-teko-green-couple.jpg": {
+  "src": "222-teko-green-couple.jpg",
+  "phash": "64929638823859640784779241576699557741475316382172917302582110497567391351807",
+  "kind": "post"
+ },
+ "223-teko-lake-picnic.jpg": {
+  "src": "223-teko-lake-picnic.jpg",
+  "phash": "110346728646018072008914250884580640619976463572294817418552410659021530136573",
+  "kind": "post"
+ },
+ "224-teko-white-trees.jpg": {
+  "src": "224-teko-white-trees.jpg",
+  "phash": "68752878133435253883463719191504560404892001255704889890080675434669591690398",
+  "kind": "post"
+ },
+ "225-teko-white-family.jpg": {
+  "src": "225-teko-white-family.jpg",
+  "phash": "173570697837635819602464877361703709547511671420601463417873697293557816831",
+  "kind": "post"
+ },
+ "226-teko-white-lakeside.jpg": {
+  "src": "226-teko-white-lakeside.jpg",
+  "phash": "112196003344374779072538285985147160810499723477664760191917363631245087350835",
+  "kind": "post"
+ },
+ "s197-teko-ambient-seats-story.jpg": {
+  "src": "s197-teko-ambient-seats.jpg",
+  "phash": "28270847133640936723646569902206478563986949226745317071242468488701280255",
+  "kind": "story"
+ },
+ "s198-teko-flag-story.jpg": {
+  "src": "s198-teko-flag.jpg",
+  "phash": "49482076540081242560191427215408131920739740741569636042308917117054877695",
+  "kind": "story"
+ },
+ "s199-teko-flags-couple-story.jpg": {
+  "src": "s199-teko-flags-couple.jpg",
+  "phash": "9873824833153682781663972576909376116235558915553767010678603775",
+  "kind": "story"
+ },
+ "s200-teko-two-women-story.jpg": {
+  "src": "s200-teko-two-women.jpg",
+  "phash": "18064627009220841357532443671030522737071700812162895042832365218256660725763",
+  "kind": "story"
+ },
+ "s201-teko-street-dusk-story.jpg": {
+  "src": "s201-teko-street-dusk.jpg",
+  "phash": "86845723778469522977397544370190475565460371658154978599454010239024227188718",
+  "kind": "story"
+ },
+ "s202-teko-lights-night-story.jpg": {
+  "src": "s202-teko-lights-night.jpg",
+  "phash": "51452146314284179271272186255699693350889645141213851776452382910008061329408",
+  "kind": "story"
+ },
+ "s203-teko-blue-lawn2-story.jpg": {
+  "src": "s203-teko-blue-lawn2.jpg",
+  "phash": "115567685882714482641203495893319993934527211359405192651767433411394496618527",
+  "kind": "story"
+ },
+ "s204-teko-blue-trees-story.jpg": {
+  "src": "s204-teko-blue-trees.jpg",
+  "phash": "842498333348510693701456366059624208844927769640574097716728561663",
+  "kind": "story"
+ },
+ "s205-teko-pedals-story.jpg": {
+  "src": "s205-teko-pedals.jpg",
+  "phash": "4047860079259061855671626070978922873798767212736984279637174954917076334626",
+  "kind": "story"
+ },
+ "s206-teko-console-story.jpg": {
+  "src": "s206-teko-console.jpg",
+  "phash": "411382024202974557493707714578225662591034087851951064337940380",
+  "kind": "story"
+ },
+ "s207-teko-path-story.jpg": {
+  "src": "s207-teko-path.jpg",
+  "phash": "3614969094122305723078367314098335663735479701102268915466345543650152349632",
+  "kind": "story"
+ },
+ "s208-teko-white-group-story.jpg": {
+  "src": "s208-teko-white-group.jpg",
+  "phash": "110364328099381362754265235097462631109842542015647008511746555575798250405852",
+  "kind": "story"
+ },
+ "s209-teko-kids-seat-story.jpg": {
+  "src": "s209-teko-kids-seat.jpg",
+  "phash": "27139185673348359892929622587374868662913903554312135199075720370042873708541",
+  "kind": "story"
+ },
+ "s210-teko-trunk-open-story.jpg": {
+  "src": "s210-teko-trunk-open.jpg",
+  "phash": "3616749718140270499599554585658250863744936620231812171160402276634161512451",
+  "kind": "story"
+ },
+ "s211-teko-loading-white-story.jpg": {
+  "src": "s211-teko-loading-white.jpg",
+  "phash": "114931628596846830628062357507184614437075336996785117719973971877401666208511",
+  "kind": "story"
+ },
+ "s212-teko-cupholder2-story.jpg": {
+  "src": "s212-teko-cupholder2.jpg",
+  "phash": "224391275716247695258216054301391503282101448824697456904599199246693900279",
+  "kind": "story"
+ },
+ "227-boca-purebred-grey.jpg": {
+  "src": "227-boca-purebred-grey.jpg",
+  "phash": "115792065067725242457717801050097369876445469143142505427928331447023601451007",
+  "kind": "post"
+ },
+ "228-boca-purebred-palms.jpg": {
+  "src": "228-boca-purebred-palms.jpg",
+  "phash": "224389981626260509894250974774054861402328568677552965799000183372233310207",
+  "kind": "post"
+ },
+ "231-boca-stallion-white.jpg": {
+  "src": "231-boca-stallion-white.jpg",
+  "phash": "115791870079912617807827041040028041683126655007617862240530259033681161093120",
+  "kind": "post"
+ },
+ "232-boca-purebred-waterside.jpg": {
+  "src": "232-boca-purebred-waterside.jpg",
+  "phash": "87746929202014880367377215995298886950539889209524287450563168271857079025663",
+  "kind": "post"
+ },
+ "233-service-questions.jpg": {
+  "src": "233-service-questions.jpg",
+  "phash": "904625697166532779886782544647665997702423997663371150649988176501020360697",
+  "kind": "post"
+ },
+ "234-flip-seat.jpg": {
+  "src": "234-flip-seat.jpg",
+  "phash": "5300622075409301691402310759384557167388769664425505414450019006114955263",
+  "kind": "post"
+ },
+ "s213-lake-sunset-story.jpg": {
+  "src": "s213-lake-sunset.jpg",
+  "phash": "6272503102946821464136931741965631282881566846133366423550",
+  "kind": "story"
+ },
+ "s215-tall-palms-story.jpg": {
+  "src": "s215-tall-palms.jpg",
+  "phash": "115742617268446947631143223030159477359390874576191559441082200099196799848320",
+  "kind": "story"
+ },
+ "s217-two-palms-story.jpg": {
+  "src": "s217-two-palms.jpg",
+  "phash": "115792089237316195423570985008514313278395431097039907600563071362342265552896",
+  "kind": "story"
+ },
+ "235-clubcar-evening-ride.jpg": {
+  "src": "235-clubcar-evening-ride.jpg",
+  "phash": "113984162978281713661463521029666353588119952943879644226861905563343441051647",
+  "kind": "post"
+ },
+ "236-onward-enclosure.jpg": {
+  "src": "236-onward-enclosure.jpg",
+  "phash": "115792005658113953581923871452083727764259889123993513242835480748206193639424",
+  "kind": "post"
+ },
+ "237-golf-after-55.jpg": {
+  "src": "237-golf-after-55.jpg",
+  "phash": "24004003308163639665403082972770936410117336504293365502758851",
+  "kind": "post"
+ },
+ "238-christmas-lights.jpg": {
+  "src": "238-christmas-lights.jpg",
+  "phash": "7127294607114439613747176509347044869431691675349993470962046766368660917248",
+  "kind": "post"
+ },
+ "239-holiday-gift.jpg": {
+  "src": "239-holiday-gift.jpg",
+  "phash": "21711127159938335290940158645222779155225357764958496652869731719768457019391",
+  "kind": "post"
+ },
+ "240-sound-system.jpg": {
+  "src": "240-sound-system.jpg",
+  "phash": "602612494065913131990912190011568396874556569180962463678463",
+  "kind": "post"
+ },
+ "241-dog-ride.jpg": {
+  "src": "241-dog-ride.jpg",
+  "phash": "27607617270553921960951451481781777655963462422851400876735249959092224",
+  "kind": "post"
+ },
+ "242-battery-life.jpg": {
+  "src": "242-battery-life.jpg",
+  "phash": "115595968134922098970786028147626172559631604195592709985263911183824312532894",
+  "kind": "post"
+ }
+}

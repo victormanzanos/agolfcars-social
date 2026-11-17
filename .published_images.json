@@ -838,5 +838,19 @@
   "card": "s010-golf-clubhouse-story.jpg",
   "src": "s010-golf-clubhouse.jpg",
   "phash": "58010006254336303529437741962510205201318212825419412212827290205193800450303"
+ },
+ {
+  "date": "2026-11-16",
+  "kind": "post",
+  "card": "81-neighbors-ask-where.jpg",
+  "src": "81-neighbors-ask-where.jpg",
+  "phash": "1767224921990233518697409330931665942209212061959000510411803187154583536"
+ },
+ {
+  "date": "2026-11-16",
+  "kind": "story",
+  "card": "s011-sunny-sky-clouds-story.jpg",
+  "src": "s011-sunny-sky-clouds.jpg",
+  "phash": "88653124640166911289831255339696650026728352602640734427403663352351812485120"
  }
 ]
