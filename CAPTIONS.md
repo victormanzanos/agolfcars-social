@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 235 POSTS
+## 239 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1612,6 +1612,34 @@ Read it through the link in bio, or call (863) 439-5431.
 
 #ArtsGolfCars #golfcart #golfcartaccessories #golfcartlife #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
 
+### `244-store-while-away.jpg`
+Heading north for the holidays? Store your golf cart the right way before you go. 🏡
+Battery, charger, tires, humidity and security: our Florida guide walks you through what to do before you leave and what to check when you get back.
+Read it through the link in bio, or let our Service Center look it over first: (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartcare #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `245-battery-disposal.jpg`
+Replacing your golf cart batteries? The old set can't go in the trash. 🔋
+Florida bans lead-acid batteries from landfills. Our guide explains how to hand in an old pack safely, why it matters, and what changes when you switch to lithium.
+Full guide, link in bio. New batteries in Dundee: call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartbatteries #lithium #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `246-vacation-rental-cart.jpg`
+Own a vacation home in Central Florida? A golf cart can be your guests' favorite amenity. 🌴
+Community rules, who may drive, insurance, house rules and charging between stays: our guide covers what to sort out before the first guest arrives.
+Read it through the link in bio, or call (863) 439-5431 to find the right cart.
+
+#ArtsGolfCars #golfcart #vacationrental #CentralFlorida #FloridaLiving #PolkCounty #TheArtOfTheDrive
+
+### `247-used-onward-lithium.jpg`
+Buying a used Club Car Onward with lithium? Know what warranty comes with it. ✅
+The lithium battery coverage can transfer to you, most other factory coverage does not. Our guide lists the questions to ask before you buy and where warranty repairs are done.
+Full guide, link in bio. Questions? Call (863) 439-5431.
+
+#ArtsGolfCars #ClubCar #ClubCarOnward #lithium #UsedGolfCarts #CentralFlorida #TheArtOfTheDrive
+
 ## STORIES
 
 ### `01-welcome-story.jpg`
@@ -2465,3 +2493,24 @@ Florida palms and blue skies
 
 ### `s217-two-palms-story.jpg`
 Two palms, one sunny afternoon
+
+### `s219-golfer-cart-walk-story.jpg`
+A walk to the cart on the fairway
+
+### `s220-golfer-by-cart-story.jpg`
+Ready for the next hole
+
+### `s221-marking-ball-story.jpg`
+Marking the ball on the green
+
+### `s222-coconut-palms-story.jpg`
+Coconut palms in the sun
+
+### `s223-palms-blue-sky-story.jpg`
+Palms against a blue sky
+
+### `s224-palms-reaching-story.jpg`
+Palms reaching for the sky
+
+### `s225-palms-breeze-story.jpg`
+Palms in the afternoon breeze
