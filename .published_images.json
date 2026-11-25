@@ -873,5 +873,19 @@
   "card": "s012-summer-rain-story.jpg",
   "src": "s012-summer-rain.jpg",
   "phash": "12368119031617607951610885757516692553868233656721940203606036613007609855"
+ },
+ {
+  "date": "2026-11-24",
+  "kind": "post",
+  "card": "82-service-center-open.jpg",
+  "src": "82-service-center-open.jpg",
+  "phash": "252662675866488435222868591728473293578913100799904610653651203634833180464"
+ },
+ {
+  "date": "2026-11-24",
+  "kind": "story",
+  "card": "s013-spanish-moss-oak-story.jpg",
+  "src": "s013-spanish-moss-oak.jpg",
+  "phash": "34375819986258221862194124119358334068917862384"
  }
 ]
