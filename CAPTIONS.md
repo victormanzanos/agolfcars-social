@@ -15,7 +15,7 @@ Reglas de captions (Constitución Art. I):
 
 ---
 
-## 239 POSTS
+## 242 POSTS
 
 ### `01-welcome.jpg`
 Welcome to Art's Golf Cars, Central Florida's premier golf car dealership. 🌴
@@ -1639,6 +1639,27 @@ The lithium battery coverage can transfer to you, most other factory coverage do
 Full guide, link in bio. Questions? Call (863) 439-5431.
 
 #ArtsGolfCars #ClubCar #ClubCarOnward #lithium #UsedGolfCarts #CentralFlorida #TheArtOfTheDrive
+
+### `248-cost-to-own.jpg`
+What does a golf cart really cost to own in Florida each year? 💡
+Charging is the smallest line on the bill. Batteries, tires, service, insurance and LSV paperwork are where the money goes, and resale value is the line most owners forget. Our guide breaks it down and shows where to save.
+Full guide, link in bio. Questions? Call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartlife #FloridaLiving #CentralFlorida #Dundee #TheArtOfTheDrive
+
+### `250-how-to-drive.jpg`
+New to golf carts? Here is how to drive one with confidence. 🌴
+Starting, braking, reversing, slopes, the rear seat, driving after dark and in the rain, plus parking and charging: our first-time owner's guide covers the habits our Dundee shop sees keep carts and families out of trouble.
+Read it through the link in bio, or call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartlife #FloridaLiving #CentralFlorida #PolkCounty #TheArtOfTheDrive
+
+### `251-order-parts.jpg`
+Ordering a golf cart part? Get it right the first time. 🔧
+Have the make, model and year, the serial number, gas or electric and the voltage, any lift or swapped parts, and a photo of the old part with its number. Our guide explains what to check and how ordering works on our website.
+Parts & Accessories, link in bio. Rather have our Service Center install it? Call (863) 439-5431.
+
+#ArtsGolfCars #golfcart #golfcartparts #golfcartaccessories #CentralFlorida #Dundee #TheArtOfTheDrive
 
 ## STORIES
 
